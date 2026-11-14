@@ -1,0 +1,4411 @@
+{
+ "da_detectiveanalyzer.cloc": {
+  "DA_AdminHall00a_CRAZYGUARDS": [
+   "교도관이 조커 가스를 들이마시고 착란 상태에 빠져 있다"
+  ],
+  "DA_BROKEN_FAN": [
+   "낡은 환풍기. 녹슨 볼트 하나로 고정되어 있을 뿐 작동하지 않는다. 뜯어낼 수 있을 것이다"
+  ],
+  "DA_Dead_Engineer": [
+   "기술자 L. 레너드(사망)"
+  ],
+  "DA_GAME_ADMIN_BACKDOOR": [
+   "관리동 문"
+  ],
+  "DA_GAME_ADMIN_ELEVATOR_DOORS": [
+   "문이 완전히 닫혀 있지 않아 비집어 열 수 있다"
+  ],
+  "DA_GAME_ADMIN_FRONTDOOR": [
+   "이 강화 강철문이 관리동의 정문이다"
+  ],
+  "DA_GAME_ADMIN_JOKER_GIFT": [
+   "조커가 보낸 선물. 무엇이 들어 있어도 이상하지 않다"
+  ],
+  "DA_GAME_ADMIN_JOKER_GIFT_SWITCH": [
+   "장치가 조커의 선물 상자와 연결되어 있다. 허술하게 만들어져 쉽게 부서질 것 같다"
+  ],
+  "DA_GAME_ADMIN_JOKER_VENTS": [
+   "통풍구에서 실내로 조커 가스가 흘러들고 있다. 막으면 가스도 멈출 것이다"
+  ],
+  "DA_GAME_ADMIN_JOKER_VENTS_NO_STOP": [
+   "통풍구에서 실내로 조커 가스가 흘러들고 있다"
+  ],
+  "DA_GAME_ADMIN_SPOTLIGHT": [
+   "회전식 고출력 스포트라이트"
+  ],
+  "DA_GAME_Admin00a_Hatch": [
+   "해치는 원격 스위치로 열린다"
+  ],
+  "DA_GAME_Admin00h_SLIDING_GATE": [
+   "게이트는 원격 스위치로 열린다"
+  ],
+  "DA_GAME_Admin02_JOKER_VENT_BROKEN": [
+   "환풍기가 심하게 부서져 있어 덕트로 들어갈 수 있다"
+  ],
+  "DA_GAME_AdminHall00b_BOOKSHELF": [
+   "책장이 숨겨진 레일에 연결되어 있다. 특정 책을 당기면 옆으로 밀려 열리는 장치다"
+  ],
+  "DA_GAME_AdminHall00b_DEBRIS": [
+   "발판을 막은 불탄 잔해. 쉽게 부술 수 있을 것 같다"
+  ],
+  "DA_GAME_AdminHall00h_FANS": [
+   "환풍기에서 조커 가스가 흘러들고 있다. 전원은 근처에 있다"
+  ],
+  "DA_GAME_AdminHall00K_ELAVATOR": [
+   "엘리베이터 문"
+  ],
+  "DA_GAME_AdminHall00K_JOKER_TARGETS": [
+   "표적은 충격을 받으면 회전하게 되어 있다"
+  ],
+  "DA_GAME_AdminHall00l_HATCH": [
+   "점검용 해치가 헐거워 떨어질 것 같다"
+  ],
+  "DA_GAME_AdminRoom01_DEBRIS": [
+   "발판을 막은 잔해. 쉽게 부술 수 있을 것 같다"
+  ],
+  "DA_GAME_AdminRoom03_DEADGUARD": [
+   "교도관 A. 스탠퍼드(사망)"
+  ],
+  "DA_GAME_AdminRoom03a_Debris": [
+   "누군가 일부러 잔해를 쌓아 올린 것 같다"
+  ],
+  "DA_GAME_AdminRoom03a_PAINTCANS": [
+   "깡통은 비었지만 묻은 페인트는 아직 마르지 않았다"
+  ],
+  "DA_GAME_AdminRoom03a_WALL": [
+   "벽의 페인트가 아직 마르지 않았다"
+  ],
+  "DA_GAME_AdminRoom03b_BATTHROOM_STALL": [
+   "화장실 칸 문이 잠겨 있지만 빗장이 허술하다"
+  ],
+  "DA_GAME_AdminRoom03b_PLYWOOD": [
+   "벽의 틈 위에 합판이 급히 못질되어 있다"
+  ],
+  "DA_GAME_AdminRoom03b_VENT_DOOR": [
+   "기계식 게이트가 환기 샤프트의 공기 흐름을 막고 있다"
+  ],
+  "DA_GAME_ANALYZER_SCANNING": [
+   "분석 중..."
+  ],
+  "DA_GAME_ARKHAMHUB_COVER": [
+   "회로 패널 덮개는 폭발로 날려 버릴 수 있다"
+  ],
+  "DA_GAME_ARKHAMHUB_FANS": [
+   "거대한 환풍기. 회전이 너무 빨라 지나갈 수 없다"
+  ],
+  "DA_GAME_ARKHAMHUB_VAULTDOOR": [
+   "인질들이 거대한 문 너머에 감금되어 있다"
+  ],
+  "DA_GAME_BatarangTarget": [
+   "보안 게이트 오버라이드용 스위치 박스. 매우 부서지기 쉽다"
+  ],
+  "DA_GAME_BatarangTarget_DISABLED": [
+   "보안 게이트 오버라이드용 스위치 박스. 기능 정지 중"
+  ],
+  "DA_GAME_BATCLAW_GRATE": [
+   "볼트가 녹슬어 약해져 있다. 통풍구 덮개를 뜯어낼 수 있을 것이다"
+  ],
+  "DA_GAME_BATCLAW_WALL": [
+   "패널이 녹슬어 약해져 있다"
+  ],
+  "DA_GAME_BIRDCAGE": [
+   "펭귄이 매단 새장 안에 기계 새가 들어 있다. 새에는 동작 센서가 달려 있어 누군가 밑을 지나가면 떨어져 폭발한다"
+  ],
+  "DA_GAME_BLACKMASK": [
+   "블랙 마스크. 쌍권총으로 무장했다"
+  ],
+  "DA_GAME_BLACKMASK_BRAWLER": [
+   "블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_BRAWLER_ARMORED": [
+   "아머를 입은 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_DEFEATED": [
+   "블랙 마스크. 전투 불능"
+  ],
+  "DA_GAME_BLACKMASK_KNIFE": [
+   "칼 두 자루를 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_KNIFE_ARMORED": [
+   "아머를 입고 칼 두 자루를 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_MOLECULE": [
+   "블랙 마스크가 기술자를 살해할 때 쓴 총의 화약 흔적"
+  ],
+  "DA_GAME_BLACKMASK_PIPE": [
+   "쇠파이프를 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_PIPE_ARMORED": [
+   "아머를 입고 쇠파이프를 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_RIFLE": [
+   "돌격 소총을 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_RIFLE_ARMORED": [
+   "아머를 입고 돌격 소총을 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_STUN": [
+   "스턴 배턴을 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_STUN_ARMORED": [
+   "아머를 입고 스턴 배턴을 든 블랙 마스크의 부하"
+  ],
+  "DA_GAME_BLACKMASK_SWITCH": [
+   "간이 과부하 스위치. 폭발로 일시 무력화할 수 있다. 스위치 3개를 동시에 무력화하면 전원이 끊긴다"
+  ],
+  "DA_GAME_BRONZE_TIGER": [
+   "브론즈 타이거. 살상력 높은 발톱형 무기를 쓰는 격투기의 달인"
+  ],
+  "DA_GAME_CellBlocks_Room01_DOOR": [
+   "봉쇄 중인 육중한 보안 게이트"
+  ],
+  "DA_GAME_CellHall00a_HUB_DOOR": [
+   "감방 구역으로 통하는 육중한 정문. 근처의 보안 패널로 제어된다"
+  ],
+  "DA_GAME_CellHall00b_Crate_Pile": [
+   "상자가 너무 무겁다. 도구 없이는 들어 올릴 수 없다"
+  ],
+  "DA_GAME_CellHall00b_GELSURFACE": [
+   "구조적으로 약한 천장은 폭발로 무너뜨릴 수 있다"
+  ],
+  "DA_GAME_CellHall00c_Barrels": [
+   "급조된 폭탄. 크립토 시퀀서로 기폭할 수 있다"
+  ],
+  "DA_GAME_CellHall00c_GATE": [
+   "탈옥을 꾀하는 죄수를 붙잡아 구속하기 위한 육중한 보안 게이트. 제어 장치는 이 근처에 있다"
+  ],
+  "DA_GAME_CellHall00c_MONITOR": [
+   "센트리 건은 이 모니터로 제어된다"
+  ],
+  "DA_GAME_CellHall00c_SentryGun": [
+   "자동 센트리 건. 표적 센서는 근처 모니터에 탑재되어 있다"
+  ],
+  "DA_GAME_CellHall00d_ELEVATOR_HANGING": [
+   "엘리베이터가 심하게 파손되어 해진 케이블에 매달려 있다"
+  ],
+  "DA_GAME_CellHall00d_LOCKED_DOOR": [
+   "문이 반대편에서 전자식으로 잠겨 있다"
+  ],
+  "DA_GAME_CellHall00d_Panel": [
+   "패널이 녹슨 고정쇠로 붙어 있다. 투척 무기로 파괴할 수 있다"
+  ],
+  "DA_GAME_CellHall00f_BEAM": [
+   "굵은 들보지만 흔들거린다. 끌어내릴 수 있을 것이다"
+  ],
+  "DA_GAME_CellHall00h_HOT_PIPE": [
+   "파이프 균열에서 고온의 증기가 뿜어져 나오고 있다"
+  ],
+  "DA_GAME_CellHall00j_BOLTS": [
+   "금고 덮개가 볼트로 고정되어 있다. 3개를 동시에 풀면 금고 제어를 오버라이드할 수 있다"
+  ],
+  "DA_GAME_CellHall00j_CONDUITS": [
+   "빨간 오버라이드 버튼을 누르면 금고 실린더가 회전한다. 4개 부분을 일직선으로 맞추면 잠금이 해제된다"
+  ],
+  "DA_GAME_CellHall00j_VAULTCONTROL": [
+   "금고 제어 패널"
+  ],
+  "DA_GAME_CellHall00m_BATCLAW_FENCE": [
+   "펜스가 낡고 녹슬었다. 도구를 쓰면 뜯어낼 수 있을 것이다"
+  ],
+  "DA_GAME_CellRoom_05_ARKHAM_DOOR": [
+   "아캄 동의 문"
+  ],
+  "DA_GAME_CellRoom_05_ARKHAM_DOOR_CRYPTO": [
+   "아캄 동의 문. 암호 코드 키 %RED%감마%WHITE%가 필요하다. 코드 키는 관리동에 있었던 것 같다"
+  ],
+  "DA_GAME_CellRoom_05_ARKHAM_DOOR_POWER": [
+   "아캄 동의 문. 공장 구역의 정전 때문에 잠겨 있다"
+  ],
+  "DA_GAME_CellRoom00f_FLOOR": [
+   "바닥 판이 썩어 약해져 있다. 충격을 주면 바닥이 꺼질 것이다"
+  ],
+  "DA_GAME_CellRoom01_BLOODY_KEYPAD": [
+   "키패드에 묻은 피 묻은 지문으로 보아 키 코드는 1241이다"
+  ],
+  "DA_GAME_CellRoom01_ELEVATOR_PANEL": [
+   "엘리베이터 패널의 전원이 꺼져 있어 쓸 수 없다"
+  ],
+  "DA_GAME_CellRoom01_PANEL": [
+   "보안문 제어 패널"
+  ],
+  "DA_GAME_CellRoom02_BARRIER": [
+   "벽에 간신히 붙어 있는 급조된 장애물"
+  ],
+  "DA_GAME_CellRoom03_Debris": [
+   "출구를 급히 막아 놓은 흔적이 있다"
+  ],
+  "DA_GAME_CellRoom03_WEAKWALL": [
+   "약한 벽에서 갈고리가 튀어나와 있다"
+  ],
+  "DA_GAME_CellRoom04_HATCH": [
+   "점검용 해치는 환기 시스템으로 흘러드는 증기를 멈춰야 열린다"
+  ],
+  "DA_GAME_CellRoom05_CRYPTO_NO_POWER": [
+   "전력 부족으로 암호 패널이 작동하지 않는다. 전력이 복구되면 키 코드 %RED%감마%WHITE%가 필요하다"
+  ],
+  "DA_GAME_CellRoom05_POWER_OFF": [
+   "스위치를 보니 공장 구역에서 아캄 동으로 전력이 공급되지 않고 있다"
+  ],
+  "DA_GAME_CellRoom05_POWER_ON": [
+   "스위치를 켜면 전력이 공급되어 아캄 동으로 가는 문이 열린다"
+  ],
+  "DA_GAME_CHANDELIER": [
+   "샹들리에를 매단 와이어가 쉽게 끊어질 것 같다"
+  ],
+  "DA_GAME_CHG_BREAKER": [
+   "차단기가 드러나 있다. 이걸 내리면 송전을 끊을 수 있을 것이다"
+  ],
+  "DA_GAME_CHG_COVER": [
+   "차단기 보호 덮개가 약하고 녹슨 볼트로 고정되어 있다"
+  ],
+  "DA_GAME_CRYPTO_BLUE": [
+   "패널이 %BETACOLOR%베타%WHITE% 암호 보안 오버라이드로 잠겨 있다"
+  ],
+  "DA_GAME_CRYPTO_DOOR": [
+   "전자문의 잠금은 근처의 암호 보안 패널로 제어된다"
+  ],
+  "DA_GAME_CRYPTO_GATE": [
+   "리펄서 필드"
+  ],
+  "DA_GAME_CRYPTO_GREEN": [
+   "패널이 %GREEN%알파%WHITE% 암호 보안 오버라이드로 잠겨 있다"
+  ],
+  "DA_GAME_CRYPTO_INACTIVE": [
+   "작동하지 않는 암호 보안 패널"
+  ],
+  "DA_GAME_CRYPTO_LOCKED_BLUE": [
+   "패널이 %BETACOLOR%베타%WHITE% 암호 보안 오버라이드로 잠겨 있다"
+  ],
+  "DA_GAME_CRYPTO_LOCKED_GREEN": [
+   "패널이 %GREEN%알파%WHITE% 암호 보안 오버라이드로 잠겨 있다"
+  ],
+  "DA_GAME_CRYPTO_LOCKED_RED": [
+   "패널이 %RED%감마%WHITE% 암호 보안 오버라이드로 잠겨 있다"
+  ],
+  "DA_GAME_CRYPTO_RED": [
+   "패널이 %RED%감마%WHITE% 암호 보안 오버라이드로 잠겨 있다"
+  ],
+  "DA_GAME_CRYPTO_WHITE": [
+   "웨인테크가 개발한 이 보안 패널은 블랙게이트 교도소를 지키기 위해 곳곳에 쓰이고 있다"
+  ],
+  "DA_GAME_DEAD": [
+   "사망"
+  ],
+  "DA_GAME_DEBRIS_PILE": [
+   "무거운 잔해가 어수선하게 쌓여 있다"
+  ],
+  "DA_GAME_DEOTHUG_BRAWLER": [
+   "DEO 요원"
+  ],
+  "DA_GAME_DEOTHUG_PIPE": [
+   "경찰봉을 든 DEO 요원"
+  ],
+  "DA_GAME_DEOTHUG_RIFLE": [
+   "돌격 소총을 든 DEO 요원"
+  ],
+  "DA_GAME_DETECTIVE_MODE": [
+   "탐정 모드"
+  ],
+  "DA_GAME_DOOR_CRYPTO_LOCKED": [
+   "문이 전자식으로 잠겨 열리지 않는다. 근처의 보안 패널로 제어된다"
+  ],
+  "DA_GAME_ELECTRODES": [
+   "근처 발전기에서 전력을 받는 고전압 전극"
+  ],
+  "DA_GAME_ELEVATOR_HATCH": [
+   "점검 해치가 약해져 있다. 폭발로 파괴할 수 있다"
+  ],
+  "DA_GAME_ELITE_THUG": [
+   "군용 개틀링 건으로 무장한 펭귄의 부하. 탄약 공급 팩은 뜯어낼 수 있을 것 같다"
+  ],
+  "DA_GAME_EXPLOSIVEGEL_PIPE": [
+   "구조적으로 약한 파이프는 폭발로 제거할 수 있다"
+  ],
+  "DA_GAME_EXPLOSIVEGEL_SURFACE": [
+   "구조적으로 약한 벽이나 바닥은 폭발로 무너뜨릴 수 있다"
+  ],
+  "DA_GAME_EXPLOSIVEGEL_SWITCH": [
+   "폭발로 패널을 파괴하면 연결된 장치를 해제할 수 있다"
+  ],
+  "DA_GAME_EXPOSED_NODE": [
+   "드러난 노드 사이에서 일정한 주기로 아크 방전이 일어나고 있다"
+  ],
+  "DA_GAME_EXPOSED_WIRES": [
+   "이곳의 배선은 낡고 드러나 있다. 일정한 주기로 패널에 전기가 흐른다"
+  ],
+  "DA_GAME_FLOORDOOR": [
+   "관리동 발전기 밑으로 들어가기 위한 비상 점검 해치"
+  ],
+  "DA_GAME_FLOORGRATES": [
+   "점검용 터널로 들어가는 진입 지점"
+  ],
+  "DA_GAME_GEL_PUMP": [
+   "펌프가 보낸 고온의 증기가 통풍구를 채우고 있다. 폭발로 비상 오버라이드 잠금을 밀어 넣으면 펌프가 멈춘다"
+  ],
+  "DA_GAME_GEL_SWITCH_REUSABLE": [
+   "보안 차단기. 폭발로 일시적으로 끌 수 있다"
+  ],
+  "DA_GAME_GENERATOR_ADMIN": [
+   "관리동 주발전기"
+  ],
+  "DA_GAME_GENERATOR_ADMIN_STAGE1": [
+   "관리동 주발전기. 불안정해서 언제 사고가 나도 이상하지 않다"
+  ],
+  "DA_GAME_GENERATOR_ADMIN_STAGE2": [
+   "관리동 주발전기. 일시 정지 중. 발전기 3대가 동시에 일시 정지하면 시스템이 리셋된다"
+  ],
+  "DA_GAME_GENERATOR_ADMIN_STAGE3": [
+   "관리동 주발전기. 안정적으로 가동 중"
+  ],
+  "DA_GAME_GENERATOR_ARKHAM": [
+   "아캄 동 주발전기"
+  ],
+  "DA_GAME_GENERATOR_CELLBLOCKS": [
+   "감방 구역 주발전기"
+  ],
+  "DA_GAME_GENERATOR_CELLBLOCKS_STAGE1": [
+   "감방 구역 주발전기. 불안정해서 언제 사고가 나도 이상하지 않다"
+  ],
+  "DA_GAME_GENERATOR_CELLBLOCKS_STAGE2": [
+   "감방 구역 주발전기. 일시 정지 중. 발전기 3대가 동시에 일시 정지하면 시스템이 리셋된다"
+  ],
+  "DA_GAME_GENERATOR_CELLBLOCKS_STAGE3": [
+   "감방 구역 주발전기. 안정적으로 가동 중"
+  ],
+  "DA_GAME_GENERATOR_INDUSTRIAL": [
+   "공장 구역 주발전기"
+  ],
+  "DA_GAME_GENERATOR_INDUSTRIAL_STAGE1": [
+   "공장 구역 주발전기. 불안정해서 언제 사고가 나도 이상하지 않다"
+  ],
+  "DA_GAME_GENERATOR_INDUSTRIAL_STAGE2": [
+   "공장 구역 주발전기. 일시 정지 중. 발전기 3대가 동시에 일시 정지하면 시스템이 리셋된다"
+  ],
+  "DA_GAME_GENERATOR_INDUSTRIAL_STAGE3": [
+   "공장 구역 주발전기. 안정적으로 가동 중"
+  ],
+  "DA_GAME_GLOBAL_BLACKMASK_BOMB": [
+   "이 전자 장치는 충전이 끝나면 폭발한다. 폭탄은 근처 스위치 3개에서 전력을 공급받고 있다"
+  ],
+  "DA_GAME_GLOBAL_UNCONSCIOUS": [
+   "기절"
+  ],
+  "DA_GAME_GOSECTION05_SCAFFOLD": [
+   "허술하게 만든 비계다. 쉽게 무너뜨릴 수 있을 것이다"
+  ],
+  "DA_GAME_Gotham02_LADDER": [
+   "사다리 고정 장치가 헐거워져 있다"
+  ],
+  "DA_GAME_GUARD_INCAPACITATED": [
+   "움직일 수 없는 상태"
+  ],
+  "DA_GAME_HEAVY_GATE": [
+   "보안 게이트가 너무 무거워 움직일 수 없다. 근처의 보안 패널로 조작할 수 있다"
+  ],
+  "DA_GAME_HOSTAGES": [
+   "죄수들에게 인질로 잡힌 블랙게이트 교도관"
+  ],
+  "DA_GAME_HUB_DOOR": [
+   "감방 구역을 교도소의 다른 구역과 구분하는 게이트"
+  ],
+  "DA_GAME_HUB_LIGHTHOUSE_CELLDOOR": [
+   "감방 구역 무기고 문은 반대편에서 잠겨 있다. 비상 오버라이드 스위치는 감시탑 꼭대기에 있다"
+  ],
+  "DA_GAME_HubArkham_DOOR_CELLBLOCKS": [
+   "감방 구역 문"
+  ],
+  "DA_GAME_HubCell_DOOR_CELLBLOCKS": [
+   "감방 구역 정문"
+  ],
+  "DA_GAME_IHA_FANBLADE": [
+   "환풍기를 멈추면 전기 회로가 드러나 접근할 수 있다"
+  ],
+  "DA_Game_IHB_WaterPump": [
+   "대형 송수 펌프가 점검 구역으로 가는 길을 막고 있다. 앞쪽 피스톤에 비상 정지 스위치가 달려 있다"
+  ],
+  "DA_GAME_IHJ_VENTLOCK": [
+   "압력 해제 밸브의 전자 잠금. 강한 충격을 가하면 해제할 수 있다"
+  ],
+  "DA_GAME_IND_HUB_DOOR_CONSOLE": [
+   "문은 아날로그 장치로 제어되는데, 현재 작동하지 않는다"
+  ],
+  "DA_GAME_IND_HUB_DOOR_CONSOLE_SWITCH": [
+   "스위치를 켜면 공장 구역의 문이 열린다"
+  ],
+  "DA_GAME_IND_ROOM_03_STOMPERS": [
+   "피스톤이 닫혀 방으로 가는 길을 막고 있다. 장치를 가동하면 피스톤이 열린 위치로 돌아간다"
+  ],
+  "DA_GAME_Ind02_LADDER": [
+   "사다리"
+  ],
+  "DA_GAME_Ind02_LEDGE_GRAB": [
+   "턱을 잡고 벽을 따라 이동할 수 있다"
+  ],
+  "DA_GAME_Ind02_WALLDECAL_A": [
+   "공장 구역 레벨 A"
+  ],
+  "DA_GAME_Ind02_WALLDECAL_B": [
+   "공장 구역 레벨 B"
+  ],
+  "DA_GAME_Ind03_SHOCK_FLOOR": [
+   "일정한 주기로 패널에 전기가 흐른다"
+  ],
+  "DA_GAME_Ind04_Lamp": [
+   "투척 무기로 조명을 부술 수 있다"
+  ],
+  "DA_GAME_IndHall00C_FLOODGATE": [
+   "수문이 닫혀 있다"
+  ],
+  "DA_GAME_IndHall00C_FLOODGATE_STUCK": [
+   "수문이 닫힌 채 꼼짝하지 않는다"
+  ],
+  "DA_GAME_IndHall00c_GRUNDY": [
+   "솔로몬 그런디. 이 거대한 괴물에게는 대부분의 공격이 통하지 않는다"
+  ],
+  "DA_GAME_IndHall00c_GRUNDY_BOX": [
+   "배전함에서 고압 전선이 뻗어 나와 홍수 제어 장치에 비상 전원을 공급한다"
+  ],
+  "DA_GAME_IndHall00C_MAGNATICLOCK": [
+   "수문이 페일세이프 자기 잠금으로 닫혀 있다"
+  ],
+  "DA_GAME_IndHall00c_PIPE": [
+   "구조적으로 약한 파이프는 폭발로 무너뜨릴 수 있다"
+  ],
+  "DA_GAME_IndHall00c_PUDDLE": [
+   "물웅덩이를 통해 전기를 흘릴 수 있다"
+  ],
+  "DA_GAME_IndHall00C_SLUDGE": [
+   "통로에 무언가 있는 것 같지만 쏟아지는 오수 때문에 잘 보이지 않는다"
+  ],
+  "DA_GAME_IndHall00c_VENTS": [
+   "하수구에서 인화성이 높은 유황 가스가 올라오고 있다"
+  ],
+  "DA_GAME_IndHall00D_FAN": [
+   "거대한 환풍기. 회전이 너무 빨라 지나갈 수 없다"
+  ],
+  "DA_GAME_IndHall00D_GASPIPE": [
+   "파이프에서 새는 천연가스에 불이 붙으면 폭발이 일어날 것이다"
+  ],
+  "DA_GAME_IndHall00e_VENTCOVER": [
+   "환기 시스템 점검 해치. 근처의 전기 모터로 열린다"
+  ],
+  "DA_GAME_IndHall00f_GASTANK": [
+   "연료통에 휘발성이 높은 액체가 들어 있다"
+  ],
+  "DA_GAME_IndHall00f_HANGING_MAGNET": [
+   "대형 자석이 가는 쇠사슬에 위태롭게 매달려 있다"
+  ],
+  "DA_GAME_INDROOM02_ELEVATORCALL": [
+   "화물 엘리베이터 호출 스위치"
+  ],
+  "DA_GAME_INDROOM02_NOPOWER_CALL": [
+   "전력이 복구되지 않으면 엘리베이터도 움직이지 않는다"
+  ],
+  "DA_GAME_IndRoom03_DOORGEARS": [
+   "문의 기계 장치가 드러나 있어 망가뜨리면 문이 열린 채로 고정된다"
+  ],
+  "DA_GAME_IndRoom03_GATE": [
+   "이 구역의 전력이 복구되면 보안 게이트가 열린다"
+  ],
+  "DA_GAME_IndRoom03_PLATE": [
+   "압력판에 무게가 실리면 근처의 문이 열린다"
+  ],
+  "DA_GAME_IndRoom05_BOARDS": [
+   "전도 패널을 막기 위한 판이지만 오래되어 약해져 있다"
+  ],
+  "DA_GAME_IndRoom05_GRATE": [
+   "쇠창살이 파손되어 있어 폭발로 파괴할 수 있다"
+  ],
+  "DA_GAME_IndRoom05_PIPE": [
+   "파이프에서 대량의 오수가 쏟아져 길을 막고 있다"
+  ],
+  "DA_GAME_IndRoom05_PIPEGATE": [
+   "발전기가 주 차수 밸브를 제어한다"
+  ],
+  "DA_GAME_IndRoom05_SHOCK_ARC": [
+   "흘러내리는 물 때문에 작동 스위치를 켤 수 없다. 외부 전력 커플러에 전류를 흘리면 스위치가 켜질지도 모른다"
+  ],
+  "DA_GAME_IndRoom05_SLIDING_GATE": [
+   "게이트가 닫혀 있다. 근처의 장치로 조작할 수 있다"
+  ],
+  "DA_GAME_JOKER": [
+   "조커. 스턴 배턴을 든 미치광이 살인마"
+  ],
+  "DA_GAME_JOKER_PA": [
+   "방송 시스템. 조커는 교도소장실에서 방송을 하고 있다"
+  ],
+  "DA_GAME_JOKER_PAINT": [
+   "조커의 페인트가 아직 마르지 않았다"
+  ],
+  "DA_GAME_JOKER_TEETH": [
+   "조커가 남긴 딱딱이 이빨. 다가가면 폭발한다"
+  ],
+  "DA_GAME_JOKERTHUG_BRAWLER": [
+   "조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_BRAWLER_ARMORED": [
+   "아머를 입은 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_KNIFE": [
+   "칼 두 자루를 든 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_KNIFE_ARMORED": [
+   "아머를 입고 칼 두 자루를 든 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_PIPE": [
+   "쇠파이프를 든 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_PIPE_ARMORED": [
+   "아머를 입고 쇠파이프를 든 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_RIFLE": [
+   "돌격 소총을 든 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_RIFLE_ARMORED": [
+   "아머를 입고 돌격 소총을 든 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_STUN": [
+   "스턴 배턴을 든 조커의 부하"
+  ],
+  "DA_GAME_JOKERTHUG_STUN_ARMORED": [
+   "아머를 입고 스턴 배턴을 든 조커의 부하"
+  ],
+  "DA_GAME_LIGHTHOUSE_BARRIERS": [
+   "금속 장애물. 파손되고 녹슬어 약해졌다"
+  ],
+  "DA_GAME_LIGHTHOUSE_HATCH": [
+   "점검 해치가 잠겨 있다. 위에서만 열 수 있다"
+  ],
+  "DA_GAME_LIGHTHOUSE_HATCH_UNLOCKED": [
+   "점검 해치의 잠금이 풀려 있다. 충격을 주면 열릴 것이다"
+  ],
+  "DA_GAME_LIGHTHOUSE_WALKWAY": [
+   "통로를 고정한 볼트가 녹슬어 약해진 것 같다"
+  ],
+  "DA_GAME_LINEL_LAUNCHER_PANEL": [
+   "표면이 튼튼하게 보강되어 있다. 라인 런처의 고정점으로 적합할 것 같다"
+  ],
+  "DA_GAME_LOCKED_DOOR": [
+   "잠긴 문"
+  ],
+  "DA_GAME_LOCKED_DOOR_OTHERSIDE": [
+   "문이 반대편에서 전자식으로 잠겨 있다"
+  ],
+  "DA_GAME_MASK": [
+   "흉악범 블랙 마스크가 쓰는 마스크와 비슷하다. 이 마스크는 자기로 만들어져 깨지기 쉽다"
+  ],
+  "DA_GAME_NOISEMAKER_ALARMBELL": [
+   "경보 소음으로 적의 주의를 끌 수 있을 것이다"
+  ],
+  "DA_GAME_NOISEMAKER_EXTINGUISHER": [
+   "소화기를 터뜨리면 적의 주의를 끌 수 있을 것이다"
+  ],
+  "DA_GAME_NOISEMAKER_TRASHCAN": [
+   "쓰레기통을 맞히면 적의 주의를 끌 수 있을 것이다"
+  ],
+  "DA_GAME_NOISEMAKER_VALVE": [
+   "밸브 꼭지를 열면 적의 주의를 끌 수 있을 것이다"
+  ],
+  "DA_GAME_PENGUIN": [
+   "오스왈드 코블팟, 통칭 펭귄. 빼앗은 산탄총으로 무장했다"
+  ],
+  "DA_GAME_PENGUIN_DEFEATED": [
+   "오스왈드 코블팟, 통칭 펭귄. 전투 불능"
+  ],
+  "DA_GAME_PENGUIN_KNIFE_ARMORED": [
+   "아머를 입고 칼 두 자루를 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUIN_PIPE_ARMORED": [
+   "아머를 입고 쇠파이프를 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUIN_RIFLE_ARMORED": [
+   "아머를 입고 돌격 소총을 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUIN_STUN_ARMORED": [
+   "아머를 입고 스턴 배턴을 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUIN_THUG_GRENADE": [
+   "수류탄을 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUIN_UNARMED": [
+   "오스왈드 코블팟, 통칭 펭귄"
+  ],
+  "DA_GAME_PenguinBlood_01": [
+   "펭귄의 핏자국이 여기서 끊겨 있다"
+  ],
+  "DA_GAME_PenguinBlood_02": [
+   "키패드에 묻은 피 묻은 지문으로 보아 키 코드는 603이다"
+  ],
+  "DA_GAME_PenguinBlood_03": [
+   "펭귄의 피 묻은 손자국으로 보아 놈이 여기서 전자 장치를 조작했다"
+  ],
+  "DA_GAME_PenguinBlood_Generic": [
+   "펭귄의 피"
+  ],
+  "DA_GAME_PENGUINTHUG_ARMORED": [
+   "아머를 입은 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUINTHUG_BRAWLER": [
+   "펭귄의 부하"
+  ],
+  "DA_GAME_PENGUINTHUG_KNIFE": [
+   "칼 두 자루를 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUINTHUG_PIPE": [
+   "쇠파이프를 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUINTHUG_RIFLE": [
+   "돌격 소총을 든 펭귄의 부하"
+  ],
+  "DA_GAME_PENGUINTHUG_STUN": [
+   "스턴 배턴을 든 펭귄의 부하"
+  ],
+  "DA_GAME_QUADCOPTER": [
+   "깡패들에게 침입자의 존재를 알리고 위치를 비추는 보안 드론. 전기와 폭발물에 약하다"
+  ],
+  "DA_GAME_QUADCOPTER_TURRET": [
+   "깡패들에게 침입자의 존재를 알리고 공격하는 무장 보안 드론. 전기와 폭발물에 약하다"
+  ],
+  "DA_GAME_REMOVABLE_GRATE": [
+   "볼트가 녹슬어 약해진 것 같다"
+  ],
+  "DA_GAME_SCANBAR_TEXT": [
+   "//스캔 중"
+  ],
+  "DA_GAME_SHOCK_BATARANG_CIRCUIT": [
+   "근처 전원에서 아크 방전을 일으키면 회로가 연결되어 접속된 장치에 전력이 공급된다"
+  ],
+  "DA_GAME_SHOCK_BATARANG_HIT": [
+   "전기를 흘리면 장치를 작동시킬 수 있다"
+  ],
+  "DA_GAME_SHOCK_POWERSOURCE": [
+   "장치에서 드러난 전선으로 전기가 흘러 이 구역에 전기가 통하고 있다"
+  ],
+  "DA_GAME_SPIKE_STRIP": [
+   "폭동을 일으킨 죄수를 막기 위한 스파이크 함정"
+  ],
+  "DA_GAME_THUG_BRAWLER": [
+   "블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_BRAWLER_ARMORED": [
+   "아머를 입은 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_KNIFE": [
+   "칼 두 자루를 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_KNIFE_ARMORED": [
+   "아머를 입고 칼 두 자루를 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_PIPE": [
+   "쇠파이프를 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_PIPE_ARMORED": [
+   "아머를 입고 쇠파이프를 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_RIFLE": [
+   "돌격 소총을 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_RIFLE_ARMORED": [
+   "아머를 입고 돌격 소총을 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_STUN": [
+   "스턴 배턴을 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_THUG_STUN_ARMORED": [
+   "아머를 입고 스턴 배턴을 든 블랙게이트의 깡패"
+  ],
+  "DA_GAME_UNLOCKED_DOOR": [
+   "잠금이 풀린 문"
+  ],
+  "DA_GAME_VANTAGE_POINT": [
+   "주변을 살피기 위한 은신처"
+  ],
+  "DA_GAME_WAYNETECH_LARGE": [
+   "잠긴 웨인테크 상자(대)"
+  ],
+  "DA_GAME_WAYNETECH_SMALL": [
+   "잠긴 웨인테크 상자(소)"
+  ],
+  "DA_GAME_WeakConcreteFloor": [
+   "이 부분의 콘크리트는 열화되어 구조적으로 약해져 있다"
+  ],
+  "DA_GOTHAM_CATWOMAN": [
+   "캣우먼. 날렵하고 수수께끼에 싸인 도둑"
+  ],
+  "UI_GAME_Admin03_WARDEN": [
+   "톰 조셉. 블랙게이트 교도소장"
+  ],
+  "UI_GAME_BLACKMASK_HEALTH_NAME": [
+   "블랙 마스크"
+  ],
+  "UI_GAME_CATWOMAN_HEALTH_NAME": [
+   "캣우먼"
+  ],
+  "UI_GAME_DEADSHOT_HEALTH_NAME": [
+   "데드샷"
+  ],
+  "UI_GAME_GRUNDY_HEALTH_NAME": [
+   "솔로몬 그런디"
+  ],
+  "UI_GAME_HubAdmin_DEADSHOT": [
+   "데드샷. 암살의 달인이자 저격의 명수"
+  ],
+  "UI_GAME_HubInd_BARRIER": [
+   "급조된 장애물은 걷어차 치울 수 있다"
+  ],
+  "UI_GAME_JOKER_HEALTH_NAME": [
+   "조커"
+  ],
+  "UI_GAME_PENGUIN_HEALTH_NAME": [
+   "펭귄"
+  ],
+  "UI_GAME_TIGER_HEALTH_NAME": [
+   "브론즈 타이거"
+  ]
+ },
+ "vo_anim_04_meeting_with_gordon.cloc": {
+  "04_Meeting_With_Gordon": [
+   "배트맨: 날 부르고 싶었다면 더 나은 방법이 있을 텐데, 고든.",
+   "마침 경찰 무전을 듣고 있었다.",
+   "고든: 방법이야 곧 생각나겠지. 휴대폰 번호를 알려 줘도 되고 말이야.",
+   "배트맨: 알아낸 건?",
+   "고든: 6시간 전에 블랙게이트에서 폭발이 있었어.",
+   "탈옥 시도가 일이 커진 게 아니냐는 얘기야.",
+   "배트맨: 그 틈에 죄수들이 교도관들을 제압했군.",
+   "고든: 그런 것 같아. 교도소 게이트 밖에 대기 중인 우리 쪽 사람들과 대치 중이지.",
+   "배트맨: 인질은?",
+   "고든: 교도소 직원 전원이야.",
+   "배트맨: 블랙게이트라... 얼마 전에도 갔던 것 같군.",
+   "고든: 상기시키지 말게.",
+   "배트맨: 난 강변 쪽에서 교도소로 잠입하겠다.",
+   "고든: 그쪽은 어려워. 물에서 벽이 솟아 있는 거나 마찬가지야.",
+   "고든: 배트맨, 놈들은 전부 안에 있어. 좀도둑부터 최악 중의 최악까지.",
+   "그리고 그 대부분이 자네에게 원한을 품고 있지.",
+   "배트맨: 그럼 원한을 풀 기회를 주지."
+  ]
+ },
+ "vo_anim_10_penguin_outro.cloc": {
+  "10_Penguin_Outro": [
+   "펭귄: 배트맨, 말로 하면 다 통하잖아, 응?",
+   "배트맨: 날 매수할 생각인가?",
+   "펭귄: 아니, 상식적인 얘기라고... 내가 여기서 제일 덜 위험한 놈 중 하나라는 건 뻔하잖아.",
+   "그러니까 말이야... 이 몸이 세 보이냐고?",
+   "배트맨: 넌 육체적인 위협은 아니지만, 사람을 조종하고 음모를 꾸미는 데는 달인이지.",
+   "이 교도소에 갇히고도 남을 짓을 해 온 놈이다.",
+   "펭귄: 아이고, 과찬이셔, 배트맨.",
+   "근데 나처럼 날지도 못하는 불쌍한 새를 왜 굳이 새장에 가두려는 거야?",
+   "배트맨: 가장 중요한 이유를 말해 주지.",
+   "고담 시민을 네 범죄로부터 지키기 위해서다."
+  ]
+ },
+ "vo_anim_13_deadshot_outro.cloc": {
+  "13_Deadshot_Outro": [
+   "배트맨: 나쁜 소식을 전하긴 미안하지만,",
+   "세 배짜리 보수는 교도소 화폐로 받게 될 거다.",
+   "캣우먼: 왜 잔챙이들한테 시간을 낭비하는 거야?",
+   "아캄 동에 도움을 기다리는 인질들이 있잖아, 기억해?",
+   "배트맨: 기억하고 있다.",
+   "캣우먼: 그럼 구출에나 집중하지 그래?",
+   "뒤는 내가 봐 줄게.",
+   "배트맨: 왜인지 마음이 놓이지 않는군.",
+   "캣우먼: 남자들이란... 자기가 상황을 쥐고 있다고 믿는 게 귀엽다니까."
+  ]
+ },
+ "vo_anim_17_run_in_black_mask.cloc": {
+  "17_Run_In_Black_Mask": [
+   "블랙 마스크: 배전반은 고정됐나? 되돌릴 수 없는 거지?",
+   "인질: 네, 네... 이제 가도 될까요?",
+   "블랙 마스크: 그래.",
+   "배트맨: 교도소 발전기 전부를 과부하시키다니. 시오니스는 미쳤어!"
+  ]
+ },
+ "ui_detectivecases.cloc": {
+  "DC_01_GROUNDZERO_NAME": [
+   "그라운드 제로"
+  ],
+  "DC_01_GROUNDZERO_SOLVED": [
+   "폭발물이 든 팔찌가 블랙게이트에 반입되어 토이맨의 손목에 채워졌다. 놈은 교도소 외부 세력에게 어떤 행동을 강요받았을 가능성이 높다. 토이맨은 직접 만든 특수 공구로 위험을 무릅쓰고 팔찌를 풀려 했다. 그 결과 팔찌가 터져 대규모 폭발이 일어났고, 토이맨은 목숨을 잃었으며 교도소 전체도 큰 피해를 입었다."
+  ],
+  "DC_01_ITEMA_FLAVORTEXT": [
+   "불에 그을리고 일부가 녹아내린 롱노즈 플라이어의 잔해. 공구 흔적으로 보아 수제품이다."
+  ],
+  "DC_01_ITEMA_TITLE": [
+   "롱노즈 플라이어"
+  ],
+  "DC_01_ITEMB_FLAVORTEXT": [
+   "팔찌의 일부. 속이 빈 내부에 강력한 폭약의 잔여물이 있다. 긁힌 자국은 정밀 공구로 가공한 흔적과 일치. 금속 조각에서 채취한 DNA는 토이맨이라 불리는 악당의 것과 일치했다."
+  ],
+  "DC_01_ITEMB_TITLE": [
+   "휘어진 금속 덩어리"
+  ],
+  "DC_01_ITEMC_FLAVORTEXT": [
+   "블랙게이트 감방에 쓰이는 특수 폴리머 등의 소재로 된 잔해 조각. 손상 흔적으로 보아 폭발 지점 근처에 있던 것으로 보인다."
+  ],
+  "DC_01_ITEMC_TITLE": [
+   "잔해 조각"
+  ],
+  "DC_02_ITEMA_FLAVORTEXT": [
+   "화학 공격 시 공권력 인원이 쓰는 방독면. 필터에 초기형 조커 가스의 흔적이 미량 남아 있다."
+  ],
+  "DC_02_ITEMA_TITLE": [
+   "방독면"
+  ],
+  "DC_02_ITEMB_FLAVORTEXT": [
+   "교도소 식당에서 쓰는 스프레이 캔 식품. 내용물도, 분사용 에어로졸 가스도 비어 있다."
+  ],
+  "DC_02_ITEMB_TITLE": [
+   "빈 캔"
+  ],
+  "DC_02_ITEMC_FLAVORTEXT": [
+   "배수관과 환기관이 덕트 테이프로 연결되어 있다. 관과 관 사이에는 천이 덧대어져 있다."
+  ],
+  "DC_02_ITEMC_TITLE": [
+   "금속 파이프"
+  ],
+  "DC_02_ITEMD_FLAVORTEXT": [
+   "교도관이 히죽 웃는 얼굴로 죽어 있다. 근처에 비슷한 시체가 더 있다. 이 웃음은 조커 가스를 마셨다는 증거다."
+  ],
+  "DC_02_ITEMD_TITLE": [
+   "교도관의 시체"
+  ],
+  "DC_02_JOKERWILD_NAME": [
+   "날뛰는 조커"
+  ],
+  "DC_02_JOKERWILD_SOLVED": [
+   "폭발로 블랙게이트가 혼란에 빠지기 전부터 조커는 계략을 꾸미고 있었다. 놈은 먼저 작업 시간에 교도소 주방에서 스프레이 캔 치즈를 훔쳤고, 파이프와 천으로 만든 필터로 조커 가스의 주성분인 아산화질소를 캔에서 추출했다. 그리고 폭발의 혼란을 틈타 방독면을 손에 넣었다. 조커는 관리동으로 가서 최대한 많은 교도관에게 가스를 살포했다."
+  ],
+  "DC_03_ITEMA_FLAVORTEXT": [
+   "교도소 부소장. 이마에 총을 맞고 사망했다. 화약 화상, 사입각, 바지의 마모로 보아 무릎을 꿇은 채 처형된 것으로 보인다."
+  ],
+  "DC_03_ITEMA_TITLE": [
+   "부소장"
+  ],
+  "DC_03_ITEMB_FLAVORTEXT": [
+   "하수도부터 상부 구조까지 그려진 관리동 단면도. 글씨는 부소장의 필적과 일치. 소장 집무실 상세도 부분이 찢겨 나갔다."
+  ],
+  "DC_03_ITEMB_TITLE": [
+   "손으로 그린 지도"
+  ],
+  "DC_03_ITEMC_FLAVORTEXT": [
+   "육군사관학교 졸업 반지. 표면이 닳았고, 새겨진 글자 틈에 하얀 광대 피부 조각이 끼어 있다."
+  ],
+  "DC_03_ITEMC_TITLE": [
+   "졸업 반지"
+  ],
+  "DC_03_ITEMD_FLAVORTEXT": [
+   "유리 의안. 충격으로 빠져 바닥에 떨어진 듯 고르지 않은 흠집이 있다. 소장이 3개월 전 의안을 했다고 한다. 그의 것일지도 모른다."
+  ],
+  "DC_03_ITEMD_TITLE": [
+   "유리 의안"
+  ],
+  "DC_03_KIDNAPPED_NAME": [
+   "납치"
+  ],
+  "DC_03_KIDNAPPED_SOLVED": [
+   "독방을 탈출한 조커는 부소장을 찾아내 궁지로 몰았다. 조셉 소장의 집무실을 중심으로 관리동 지도를 그리게 한 조커는 소장을 기습해 붙잡을 방법을 궁리했다. 하지만 육군사관학교 출신답게 소장은 순순히 굴복하지 않았다. 둘은 주먹을 주고받았고, 소장의 의안이 튀어나갈 만큼 격렬하게 싸웠다."
+  ],
+  "DC_04_ITEMA_FLAVORTEXT": [
+   "두개골 없는 유골. 제1경추의 손상으로 보아 머리가 뜯겨 나간 것으로 보인다. 부패 정도는 사후 수 주에서 수 년까지 다양하다. 대부분 너덜너덜한 죄수복을 입고 있다."
+  ],
+  "DC_04_ITEMA_TITLE": [
+   "유골"
+  ],
+  "DC_04_ITEMB_FLAVORTEXT": [
+   "소량의 이끼와 지의류. 하수도에서 자라는 것이 아니라 햇빛이 드는 바깥의 습한 곳에서 자라는 것이다."
+  ],
+  "DC_04_ITEMB_TITLE": [
+   "식물"
+  ],
+  "DC_04_ITEMC_FLAVORTEXT": [
+   "유랑 서커스와 간판스타 \"괴력의 알비노\"의 고담 방문을 알리는 전단. 물에 젖어 색이 바랬다. 수십 년 전 전단으로 보인다."
+  ],
+  "DC_04_ITEMC_TITLE": [
+   "서커스 전단"
+  ],
+  "DC_04_SIXTYFEET_NAME": [
+   "지하 60피트"
+  ],
+  "DC_04_SIXTYFEET_SOLVED": [
+   "하수도는 수십 년 전부터 인기 있는 탈옥 경로였다. 탈옥 도중 솔로몬 그런디와 마주친 죄수도 많았고, 그 흔적도 남아 있다. 그런디는 거대한 언데드로, 보통 슬로터 스웜프라는 늪에 살지만 날씨가 나쁘거나 몸을 숨기고 싶을 때는 이 일대를 즐겨 찾는 듯하다. 그런디는 탈옥수의 머리를 뽑아 으깨는 것을 좋아하는 모양이다."
+  ],
+  "DC_05_BIRDOFPREY_NAME": [
+   "날지 못하는 맹금"
+  ],
+  "DC_05_BIRDOFPREY_SOLVED": [
+   "펭귄은 예전부터 탈옥을 계획하고 있었다. 놈의 부하들은 교도관 근무 교대표를 파악해 들키지 않게 작은 삽으로 터널을 파 나갔다. 그런데 블랙게이트 폭발 사고로 펭귄에게 뜻밖의 기회가 찾아왔다. 펭귄은 곧장 감방 구역의 무기고로 가서 정비 업체의 토치로 키패드를 느슨하게 만든 뒤 삽으로 뜯어냈다. 부하들을 무장시킨 펭귄은 힘으로 블랙게이트를 빠져나가기로 했다."
+  ],
+  "DC_05_ITEMA_FLAVORTEXT": [
+   "아세틸렌 가스 토치. 절반이 비었고 아직 따뜻하다. 비교적 최근에 사용된 듯하다. 블랙게이트 정비를 맡은 하청 업체 고담 공조 서비스의 로고가 있다."
+  ],
+  "DC_05_ITEMA_TITLE": [
+   "토치"
+  ],
+  "DC_05_ITEMB_FLAVORTEXT": [
+   "블랙게이트 무기고의 보안 키패드. 흔한 유형이다. 벽에서 뜯겨 이곳에 버려졌다. 주변에 그을린 자국이 있어 가열한 뒤 뜯어낸 것을 알 수 있다."
+  ],
+  "DC_05_ITEMB_TITLE": [
+   "파손된 키패드"
+  ],
+  "DC_05_ITEMC_FLAVORTEXT": [
+   "블랙게이트 교도관의 순찰 교대표가 적힌 종이 뭉치를 끼운 클립보드."
+  ],
+  "DC_05_ITEMC_TITLE": [
+   "교도소 클립보드"
+  ],
+  "DC_05_ITEMD_FLAVORTEXT": [
+   "작고 숨기기 쉬운 원예 도구. 날이 닳았고 흙이 눌어붙어 있다. 흙 성분은 블랙게이트가 세워진 땅의 것과 일치."
+  ],
+  "DC_05_ITEMD_TITLE": [
+   "작은 삽"
+  ],
+  "DC_06_BREAKOUT_NAME": [
+   "강행 탈옥"
+  ],
+  "DC_06_BREAKOUT_SOLVED": [
+   "폭동이 일어나자 안전 확보를 위한 봉쇄 프로토콜이 발동해 교도소 발전 시설이 격리되었다. 하지만 블랙 마스크와 부하들은 주요 유압 케이블을 끊어 발전 시설로 이어지는 많은 문을 열어 두었다. 놈들은 나머지 문을 쇠지렛대로 비틀어 열었고, 같은 쇠지렛대로 무기고도 부수고 들어갔다. 그 후 직접 만든 주파수 변조기로 발전 시설 마지막 문의 잠금 신호를 무력화하고, 저항하는 자들을 쓰러뜨리며 시설 안으로 침입했다."
+  ],
+  "DC_06_ITEMA_FLAVORTEXT": [
+   "호스 일부와 고인 유압액. 유압액은 교도소에서 흔히 볼 수 있으며, 문 같은 무거운 설비를 움직이는 동력으로 쓰인다."
+  ],
+  "DC_06_ITEMA_TITLE": [
+   "유압액 호스"
+  ],
+  "DC_06_ITEMB_FLAVORTEXT": [
+   "교도소 작업장에서 쉽게 구할 수 있는 부품으로 만든 주먹만 한 장치. 작동시키면 한 장치에서 다른 장치로 가는 신호를 변경하거나 무력화할 수 있다."
+  ],
+  "DC_06_ITEMB_TITLE": [
+   "수제 소형 장치"
+  ],
+  "DC_06_ITEMC_FLAVORTEXT": [
+   "평범한 쇠지렛대. 단단한 금속에 대고 막 사용한 듯 양 끝이 약간 휘고 닳았다."
+  ],
+  "DC_06_ITEMC_TITLE": [
+   "닳은 쇠지렛대"
+  ],
+  "DC_07_ITEMA_FLAVORTEXT": [
+   "교도소의 대략적인 평면도. 감방 구역에는 \"해피 랜드\", 공장 구역에는 \"스마일 타운\", 관리동에는 \"머더러 빌\"이라고 적혀 있다."
+  ],
+  "DC_07_ITEMA_TITLE": [
+   "블랙게이트 지도"
+  ],
+  "DC_07_ITEMB_FLAVORTEXT": [
+   "큰 나사식 캡. 가스통 운반 시 밸브를 보호하는 데 쓰인다. 잔여물에서 조커 가스의 흔적이 미량 검출된다."
+  ],
+  "DC_07_ITEMB_TITLE": [
+   "가스통 캡"
+  ],
+  "DC_07_ITEMC_FLAVORTEXT": [
+   "\"대규모 시설 공조의 원칙\". 교도소 도서관 직업 훈련 코너에 있던 낡은 참고서다. 빨간색과 초록색 크레용으로 잔뜩 메모가 되어 있다."
+  ],
+  "DC_07_ITEMC_TITLE": [
+   "공조 매뉴얼"
+  ],
+  "DC_07_NOLAUGHINGMATTER_NAME": [
+   "웃을 일이 아니다"
+  ],
+  "DC_07_NOLAUGHINGMATTER_SOLVED": [
+   "조커는 블랙게이트를 무척 사랑한다. 갇혀 있다는 점만 빼면 블랙게이트의 위치, 경치, 구조 등 모든 것이 놈이 꿈꾸던 \"집\"의 조건에 들어맞는다. 그야말로 완벽한 집이다... 다른 사람만 살지 않는다면. 이 꿈을 현실로 만들기 위해 조커는 악명 높은 조커 가스를 조제하고, 블랙게이트 주민들을 독살하려고 교도소 공조 시스템을 연구했다. 단순하고, 우아하고, 무자비하게 꿈의 집을 손에 넣겠다는 것이다."
+  ],
+  "DC_08_BIRDCAGE_NAME": [
+   "감방이라는 새장"
+  ],
+  "DC_08_BIRDCAGE_SOLVED": [
+   "폭발로 블랙게이트가 혼돈에 빠지자마자 펭귄은 행동을 개시했다. 먼저 감방 구역의 감시 카메라를 무력화했다. 다음으로 깨진 욕실 거울로 무기고를 지키던 센서 레이저를 반사시켜, 들키지 않고 부하들을 무기고에 들여보냈다. 마지막으로 모든 출입구에 전선을 둘러치게 했다. 교도관 1진은 강한 전기 충격에 기절했다. 펭귄은 이어질 공격에 대비해 교도관들을 인간 방패로 삼았다."
+  ],
+  "DC_08_ITEMA_FLAVORTEXT": [
+   "벽걸이형 교도소 감시 카메라의 파편. 죄수들이 낮 시간을 보내는 감방 구역 공용 공간과 여러 감방 문을 비추던 것이다. 다른 감시 카메라의 잔해도 감방 구역 곳곳에 떨어져 있다."
+  ],
+  "DC_08_ITEMA_TITLE": [
+   "부서진 감시 카메라"
+  ],
+  "DC_08_ITEMB_FLAVORTEXT": [
+   "욕실 거울 파편. 중심부를 비롯해 표면이 울퉁불퉁하다. 강한 광선을 오랫동안 받은 듯하다."
+  ],
+  "DC_08_ITEMB_TITLE": [
+   "거울 파편"
+  ],
+  "DC_08_ITEMC_FLAVORTEXT": [
+   "코드와 전선 다발. 감방 구역 곳곳의 전원 박스에서 뜯어낸 것이다."
+  ],
+  "DC_08_ITEMC_TITLE": [
+   "전기 배선"
+  ],
+  "DC_09_FINALSTAND_NAME": [
+   "최후의 저항"
+  ],
+  "DC_09_FINALSTAND_SOLVED": [
+   "블랙 마스크가 발전 시설을 포위한 가운데, 교도관 한 명이 마스터 터빈 제어실 근처에 바리케이드를 치고 악당과 부하들을 막아내려 했다. 그는 힘닿는 데까지 반격했지만 오래 버틸 수 없다는 걸 알고 있었다. 그는 아내에게 마지막 전화를 걸어 작별을 고했다. 그리고 곧 적에게 제압당해 살해되었다. 블랙 마스크는 교도관의 엄지를 잘라 시설 제어실의 생체 인증 잠금을 해제했다."
+  ],
+  "DC_09_ITEMA_FLAVORTEXT": [
+   "대기 모드인 개인 휴대전화. 마지막 발신 기록이 메모리에 남아 있다. 통화에서 교도관이 아내에게 작별을 고하고 있다. 뒤에서 총성이 들린다."
+  ],
+  "DC_09_ITEMA_TITLE": [
+   "휴대전화"
+  ],
+  "DC_09_ITEMB_FLAVORTEXT": [
+   "교도소 지급 무기에서 배출된 탄피. 총격전이 있은 지 얼마 안 된 듯하다."
+  ],
+  "DC_09_ITEMB_TITLE": [
+   "탄피"
+  ],
+  "DC_09_ITEMC_FLAVORTEXT": [
+   "성인 남성의 엄지. 급하고 거칠게 잘린 듯하다. 제어 패널 근처에 있었던 점으로 보아, 이 구역에 많은 생체 인증 잠금을 풀기 위해 지문을 쓴 것으로 보인다."
+  ],
+  "DC_09_ITEMC_TITLE": [
+   "잘린 엄지"
+  ],
+  "DC_10_BIDDINGWAR_NAME": [
+   "매수 경쟁"
+  ],
+  "DC_10_BIDDINGWAR_SOLVED": [
+   "블랙게이트를 장악한 세 거물 악당은 데드샷을 한편으로 끌어들이는 것이 얼마나 가치 있는지 알고 있었다. 놈들은 각자 데드샷에게 제안했고, 데드샷은 영리하게 모든 제안을 받아들였다. 하지만 데드샷이 원한 건 돈이 아니었다. 놈이 원한 것은 교도소 안을 자유롭게 돌아다니며, 자기에게 유리하도록 편을 바꿀 수 있는 자유였다."
+  ],
+  "DC_10_ITEMA_FLAVORTEXT": [
+   "1만 달러짜리 무기명 채권 여러 장. 교도소에 반입된 것이 분명하다. 펭귄의 지문이 묻어 있다."
+  ],
+  "DC_10_ITEMA_TITLE": [
+   "무기명 채권"
+  ],
+  "DC_10_ITEMB_FLAVORTEXT": [
+   "크루거랜드 금화 한 줌. 교도소에 반입된 것이 분명하다. 블랙 마스크의 지문이 묻어 있다."
+  ],
+  "DC_10_ITEMB_TITLE": [
+   "금화"
+  ],
+  "DC_10_ITEMC_FLAVORTEXT": [
+   "\"백억만 달러\"를 지불하겠다는 약속이 피를 잉크 삼아 손가락으로 적혀 있다. 비정상적인 필체다. 대문자 J로 서명되어 있다."
+  ],
+  "DC_10_ITEMC_TITLE": [
+   "손으로 쓴 차용증"
+  ],
+  "DC_10_ITEMD_FLAVORTEXT": [
+   "손으로 그린 사격 표적. 구멍이 여럿 뚫려 있는데, 크기와 모양으로 보아 총알이 아니라 조약돌 같은 것을 던진 듯하다. 구멍은 \"FL\"이라는 글자를 이룬다. 해당 이니셜의 수감자는 여럿이지만 가장 유명한 자는 플로이드 로턴, 통칭 데드샷이다."
+  ],
+  "DC_10_ITEMD_TITLE": [
+   "수제 종이 표적"
+  ],
+  "DC_11_ITEMA_FLAVORTEXT": [
+   "문고판 크기의 일기장. 끈과 작은 자물쇠로 잠겨 있어 안을 볼 수 없다."
+  ],
+  "DC_11_ITEMA_TITLE": [
+   "일기장"
+  ],
+  "DC_11_ITEMB_FLAVORTEXT": [
+   "할린 퀸젤 박사의 근무 이력과 감독 기록이 담긴 마닐라지 파일. 가장 최근 기록은 금지 물품인 식당 스프레이 캔 치즈를 조커에게 전하려 한 일로 질책받은 내용이다."
+  ],
+  "DC_11_ITEMB_TITLE": [
+   "인사 파일"
+  ],
+  "DC_11_ITEMC_FLAVORTEXT": [
+   "작은 금속 열쇠. 일기장 자물쇠에 흔히 쓰이는 크기와 모양이다."
+  ],
+  "DC_11_ITEMC_TITLE": [
+   "작은 열쇠"
+  ],
+  "DC_11_ORDERS_NAME": [
+   "퀸 선생의 지시"
+  ],
+  "DC_11_ORDERS_SOLVED": [
+   "정신과 의사 할린 퀸젤은 블랙게이트에서 비교적 새로운 직원이다. 그녀의 인사 파일에는 한 수감자와의 면담 및 치료 횟수가 점점 늘어나는 모습이 자세히 기록되어 있다. 그 수감자는 다름 아닌 조커이며, 그녀는 스프레이 캔 치즈를 조커의 독방에 반입하려 한 적까지 있다고 한다. 이에 인사 파일에는 조커가 젊은 의사를 심리적으로 지배하고 있는 것은 아닌가 하는 우려가 적혀 있다. 퀸젤 박사의 개인 일기에도 조커에 대한 집착이 드러나 있다. 처음에는 \"환자 ARK119805\"로 적혀 있던 조커는 점차 \"미스터 J\"로 불리게 되었고, 그 주위에는 하트가 그려지게 되었다."
+  ],
+  "DC_12_ITEMA_FLAVORTEXT": [
+   "올가미 모양으로 묶인 밧줄. 고리 부분에 반쯤 마른 핏자국이 있다. 밧줄 끝은 거칠게 잘려 있다."
+  ],
+  "DC_12_ITEMA_TITLE": [
+   "올가미"
+  ],
+  "DC_12_ITEMB_FLAVORTEXT": [
+   "교도관 제복 셔츠. 일반 지급품이다. 깃을 따라 고른 간격으로 찢어져 있다. 여러 개의 칼날에 동시에 베인 듯하다."
+  ],
+  "DC_12_ITEMB_TITLE": [
+   "교도관 제복"
+  ],
+  "DC_12_ITEMC_FLAVORTEXT": [
+   "교도관 초소의 문. 찌그러진 모양으로 보아 여러 명이 몰려와 억지로 연 듯하다."
+  ],
+  "DC_12_ITEMC_TITLE": [
+   "파손된 문"
+  ],
+  "DC_12_ITEMD_FLAVORTEXT": [
+   "교도소 지급 슬리퍼. 끈 부분에 \"터너\"라고 적혀 있다."
+  ],
+  "DC_12_ITEMD_TITLE": [
+   "죄수용 슬리퍼"
+  ],
+  "DC_12_ITEME_FLAVORTEXT": [
+   "배수관 조각. 교도소 복도 천장에 깔린 파이프와 비슷하다. 매우 날카로운 칼날에 잘린 듯하다."
+  ],
+  "DC_12_ITEME_TITLE": [
+   "잘린 파이프"
+  ],
+  "DC_12_LIFELINE_NAME": [
+   "목숨을 건 구출"
+  ],
+  "DC_12_LIFELINE_SOLVED": [
+   "블랙게이트를 뒤흔든 폭발 이후의 혼란 속에, 피에 굶주린 죄수들이 교도관 초소를 습격해 문을 부수고 안에 있던 남자를 에워쌌다. 죄수들은 남자의 목에 밧줄을 감아 천장 파이프에 매달기 시작했다. 그때 브론즈 타이거(본명 벤 터너)가 나타나, 되찾은 클로 글러브를 끼고 뛰어들었다. 파이프를 잘라 교도관을 올가미에서 풀어 주기까지는 했지만, 브론즈 타이거라도 수적 열세를 뒤집을 수는 없었고, 결국 제압당해 붙잡히고 말았다."
+  ],
+  "DC_13_ITEMA_FLAVORTEXT": [
+   "교도소 부서장급이 쓰는 소형 컴퓨터. 이 단말기에는 다른 파일들과 함께 블랙게이트 송전망 도면 등이 있다. 공장 감독의 것이 틀림없다."
+  ],
+  "DC_13_ITEMA_TITLE": [
+   "태블릿 컴퓨터"
+  ],
+  "DC_13_ITEMB_FLAVORTEXT": [
+   "여성의 사진. 블랙 마스크의 애인의 특징과 똑같다."
+  ],
+  "DC_13_ITEMB_TITLE": [
+   "사진"
+  ],
+  "DC_13_ITEMC_FLAVORTEXT": [
+   "교도소 치과의가 쓰던 것으로 보이는 도구들. 정밀하고 날카로운 금속 기구다."
+  ],
+  "DC_13_ITEMC_TITLE": [
+   "치과 도구"
+  ],
+  "DC_13_ITEMD_FLAVORTEXT": [
+   "날짜가 적힌 종잇조각. 필체가 제각각이다. 몇 주에 걸쳐 블랙게이트 내 조커의 움직임을 기록한 것이다."
+  ],
+  "DC_13_ITEMD_TITLE": [
+   "구겨진 종이"
+  ],
+  "DC_13_POWERPLAY_NAME": [
+   "파워 플레이"
+  ],
+  "DC_13_POWERPLAY_SOLVED": [
+   "블랙 마스크는 조커에게 뿌리 깊은 증오를 품고, 예전부터 놈의 목숨을 노려 왔다. 부하들에게 블랙게이트 안에서 조커의 움직임을 쫓게 해 그 습관을 파악하는 한편, 블랙 마스크는 부지런히 치과 도구를 모았다. 물론 트레이드마크인 미소를 망가뜨려 조커에게 고통을 주려는 것이다. 폭발 사고는 조커에게 접근할 절호의 기회였다. 블랙 마스크는 공장 감독의 태블릿을 훔쳐 공장 구역으로 향했다. 교도소 전력을 조작해 조커를 끌어내려는 것이다."
+  ],
+  "DC_14_INFORMATION_NAME": [
+   "정보 수집"
+  ],
+  "DC_14_INFORMATION_SOLVED": [
+   "블랙게이트 수감자 한 명 혹은 여러 명이, 담장 밖의 누군가를 위해 일부 죄수의 정보를 모으고 있었던 모양이다... 의뢰인의 명함에 적힌 전화번호는 메트로폴리스 지역 번호로, 배트컴퓨터로 조회한 결과 그곳 공중전화의 번호와 일치했다. 카운트 버티고의 경력서는 불태워져 버려진 흔적이 있는데, 부적합하다고 판단된 듯하다. 교도소에서 외부로 정보가 전달되었는지는 확실치 않다. 다만 누군가가 이 수감자들에게 큰 관심을 품고 있는 것은 분명하다."
+  ],
+  "DC_14_ITEMA_FLAVORTEXT": [
+   "교도소가 실시한 브론즈 타이거 등 여러 수감자의 정신 감정 기록이 담긴 USB 메모리. 교도소 메인프레임에서 정보를 복사한 것이 틀림없다."
+  ],
+  "DC_14_ITEMA_TITLE": [
+   "USB 메모리"
+  ],
+  "DC_14_ITEMB_FLAVORTEXT": [
+   "수감자 플로이드 로턴(통칭 데드샷)의 모습이 담긴 감시 카메라 영상 DVD."
+  ],
+  "DC_14_ITEMB_TITLE": [
+   "DVD"
+  ],
+  "DC_14_ITEMC_FLAVORTEXT": [
+   "타다 남은 서류. 슈퍼 악당 \"카운트 버티고\"로 알려진 베르너 버티고의 수감 기록인 듯하다."
+  ],
+  "DC_14_ITEMC_TITLE": [
+   "그을린 종이"
+  ],
+  "DC_14_ITEMD_FLAVORTEXT": [
+   "명함. 미색 종이 가운데에 검은 엠보싱으로 전화번호가 찍혀 있다."
+  ],
+  "DC_14_ITEMD_TITLE": [
+   "명함"
+  ],
+  "DC_CASELOCKED_NAME": [
+   "? ? ?"
+  ],
+  "DC_SOLVED_TEXT": [
+   "터치해서 보기"
+  ]
+ },
+ "vo_anim_11_run_in_with_joker.cloc": {
+  "11_Run_In_With_Joker": [
+   "배트맨: 조커...",
+   "조커: 이런, 귀한 손님 오셨네!",
+   "내 인테리어 마음에 들어? 아직 덜 끝났는데 말이야",
+   "더 가 보면 내가 손본 게 어떤 건지 알게 될 거야",
+   "배트맨: 난 아무 데도 안 간다. 너도 마찬가지다",
+   "크립토 시퀀서 코드를 내놔라. 그리고 여기서 끝내자",
+   "조커: 음, 그건 싫은데",
+   "난 소장 집무실에 가서 리모델링을 마무리할 테니, 넌 소장이나 찾아",
+   "아니, 난 친절하니까 찾을 필요도 없게 해 주지. 소장은 회의실에 있어",
+   "그는... 회의에서 빠져나올 수가 없거든. 분위기가 꽤 뜨거운 모양이야",
+   "곧 폭발할 것 같다고!"
+  ]
+ },
+ "vo_anim_19_black_mask_outro.cloc": {
+  "19_Black_Mask_Outro": [
+   "배트맨: 교도소 전력 공급이 복구됐다",
+   "아캄 동 발전기를 되살리자...",
+   "\"최후의 생존자\"는 못 됐군"
+  ]
+ },
+ "vo_anim_24_cw_outro_rick_flag.cloc": {
+  "24_CW_Outro_Rick_Flag": [
+   "배트맨: 누굴 위해 움직였지? 누가 베인을 원한 거냐?",
+   "캣우먼: 모른다고 했잖아. 난 익명으로 고용돼서 익명으로 지시를 받았을 뿐이야",
+   "배트맨: 그래서 그냥 따랐나?",
+   "캣우먼: 거절할 수 없는 제안을 받았다고만 해 두지",
+   "내가 당신한테 거절할 수 없는 제안을 하면 어쩔래?",
+   "병사: 연방 요원이다! 캣우먼, 그에게서 떨어져!",
+   "떨어지라고 했다. 두 번 말 안 한다",
+   "배트맨: 신분을 밝혀라",
+   "병사: 릭 플래그 대위다",
+   "배트맨: 처음 듣는 이름이군",
+   "플래그: 믿든 말든, 자네가 전혀 모르는 연방 작전이 수행되고 있다. 모르는 편이 낫지. 이 시설은 우리가 확보한다. 협조에 감사하지",
+   "이 여자는 다시 구금한다",
+   "배트맨: 대위, 이 사건 전체가 베인을 이 감방에서 탈옥시키기 위한 위장이었다. 베인은 지금...",
+   "플래그: 부두에 닿기 전에 우리가 붙잡았다. 오늘 밤 자네는 많은 목숨을 구했다, 배트맨. 자부심을 가져도 좋아"
+  ]
+ },
+ "vo_anim_29_waller_cutaway_1.cloc": {
+  "29_Waller_Cutaway_01": [
+   "보좌관: 바쁘신데 죄송합니다, 국장님. 블랙게이트 영상이 들어오면 알려 달라고 하셔서...",
+   "보시다시피 예상치 못한 사태가 벌어졌습니다",
+   "병사: 우리 존재가 드러날 위험이 있습니다. 중단해야 합니다",
+   "?: 이 작전의 결정권자는 나다. 작전은 계속한다. 여기서 얻을 게 분명히 있어"
+  ]
+ },
+ "vo_anim_32_bm_stops_cw.cloc": {
+  "32_BM_Stops_CW": [
+   "캣우먼: 거기서 꽤 당했나 보네. 더 빨리 못 걸어? 자, 가!",
+   "배트맨: 캣우먼",
+   "캣우먼: 자, 밖으로 나가. 금방 따라갈게",
+   "나한테 푹 빠졌나 봐?",
+   "배트맨: 끝내자"
+  ]
+ },
+ "platform_specific.cloc": {
+  "DC_BAT_COMPUTER_TEXT": [
+   "%SELECT% 배트컴퓨터"
+  ],
+  "FE_BATSUIT_LOCKED_DESCRIPTION": [
+   "Sony Entertainment Network 계정에 사인인한 상태로 PlayStation®3에서 「배트맨™: 아캄 오리진」을 플레이해 이 배트슈트를 해금하십시오"
+  ],
+  "FE_BATSUIT_LOCKED_TITLE": [
+   "배트슈트 잠김"
+  ],
+  "FE_BATSUIT_UNLOCKED_DESCRIPTION": [
+   "PlayStation®3판 「배트맨™: 아캄 오리진」을 플레이해 주셔서 감사합니다. 「BEWARE THE BATMAN」 배트슈트가 해금되었습니다!"
+  ],
+  "FE_BATSUIT_UNLOCKED_TITLE": [
+   "배트슈트 해금"
+  ],
+  "FE_MAIN_MENU_BATSUIT_LOCKED": [
+   "「BEWARE THE BATMAN」 배트슈트 해금하기"
+  ],
+  "FE_MAIN_MENU_BATSUIT_UNLOCKED": [
+   "「BEWARE THE BATMAN」 배트슈트 해금 완료"
+  ],
+  "FE_STARTSCREEN_TOUCH_TO_START": [
+   "터치스크린을 탭하세요"
+  ],
+  "INV_BEWARE_DESCRIPTION": [
+   "PlayStation®3에서 「배트맨™: 아캄 오리진」을 플레이하면 메인 메뉴에서 해금. 총탄 피해를 절반으로 줄인다."
+  ],
+  "INV_BEWARE_HOWTO_UNLOCK": [
+   "PlayStation®3에서 「배트맨™: 아캄 오리진」을 실행한 뒤 메인 메뉴에서 해금하십시오."
+  ],
+  "INV_BEWARE_TITLE": [
+   "BEWARE THE BATMAN"
+  ],
+  "PLATFORM_PROMPT_TOGGLE_DETECTIVEMODE": [
+   "스크린(터치스크린)을 탭해 탐정 모드 전환"
+  ],
+  "PLATFORM_PROMPT_USE_ANALYZER": [
+   "스크린(터치스크린)을 길게 터치해 분석기 사용"
+  ],
+  "POPUP_GEL_LAUNCHER_HOWTO": [
+   "%DPADLEFT% 로 젤 런처 장비, %LEFTSHOULDER% (길게 누르기)로 목표 선택. %RIGHTSHOULDER%로 발사. %LEFTSHOULDER% (연타)로 속사. %LEFTSHOULDER% (길게 누르기)+해당 액션 버튼으로 폭파."
+  ],
+  "PSN_CONNECTIONLOST": [
+   "PlayStation®Network에서 사인아웃되었습니다. 온라인 기능을 이용하려면 사인인해야 합니다"
+  ],
+  "PSN_JAILBAIT": [
+   "연령 제한으로 인해 이 애플리케이션에서는 PlayStation®Network 기능을 이용할 수 없습니다"
+  ],
+  "PSN_UNKNOWNERROR": [
+   "PlayStation®Network와 통신하는 중 오류가 발생했습니다"
+  ],
+  "SAVEDATA_CORRUPT_CONTINUE": [
+   "파일이 손상되어 삭제합니다. 괜찮습니까?"
+  ],
+  "UI_FRONT_END_AUTO_SAVE": [
+   "이 게임은 특정 시점에 자동으로 저장됩니다. 이 아이콘이 표시되는 동안 메모리 카드를 빼거나 전원을 끄지 마십시오"
+  ],
+  "UI_PROMPT_CRYPTO_DISABLE_TILT": [
+   "%RIGHTSHOULDER% 모션 센서 기능 끄기"
+  ],
+  "UI_PROMPT_CRYPTO_ENABLE_TILT": [
+   "%RIGHTSHOULDER% 모션 센서 기능 켜기"
+  ]
+ },
+ "ui_popups.cloc": {
+  "INV_BATCLAW_AQUIRED": [
+   "배트클로 획득"
+  ],
+  "INV_BATCLAW_HOWTO": [
+   "%DPADUP%로 배트클로 장비, %LEFTSHOULDER%(길게 누르기)로 목표를 선택하고 %RIGHTSHOULDER%로 발사."
+  ],
+  "INV_BATCLAW_POPUP_DESCRIPTION": [
+   "갈고리 모양의 발사체를 쏴서 손이 닿지 않는 물체도 끌어당길 수 있다."
+  ],
+  "POPUP_ARMOR_AQUIRED": [
+   "아머 강화 획득"
+  ],
+  "POPUP_ARMOR_DESCRIPTION": [
+   "배트슈트의 아머 강화 부품. 부품을 4개 모을 때마다 피해 내성이 50%% 증가한다."
+  ],
+  "POPUP_ARMOR_HOWTO": [
+   "%SELECT%로 아이템 표시. 아머 부품을 4개 모으면 자동으로 업그레이드가 적용된다."
+  ],
+  "POPUP_ARMOR_UPGRADED": [
+   "아머 업그레이드"
+  ],
+  "POPUP_BATSUIT_1_Belt_AQUIRED": [
+   "블래키스트 나이트 벨트 획득"
+  ],
+  "POPUP_BATSUIT_1_Belt_DESCRIPTION": [
+   "블래키스트 나이트 배트슈트의 벨트. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_1_BOOTS_AQUIRED": [
+   "블래키스트 나이트 부츠 획득"
+  ],
+  "POPUP_BATSUIT_1_BOOTS_DESCRIPTION": [
+   "블래키스트 나이트 배트슈트의 부츠. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_1_CHEST_AQUIRED": [
+   "블래키스트 나이트 체스트 획득"
+  ],
+  "POPUP_BATSUIT_1_CHEST_DESCRIPTION": [
+   "블래키스트 나이트 배트슈트의 체스트 피스. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_1_COWL_AQUIRED": [
+   "블래키스트 나이트 카울 획득"
+  ],
+  "POPUP_BATSUIT_1_COWL_DESCRIPTION": [
+   "블래키스트 나이트 배트슈트의 카울. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_1_GLOVES_AQUIRED": [
+   "블래키스트 나이트 글러브 획득"
+  ],
+  "POPUP_BATSUIT_1_GLOVES_DESCRIPTION": [
+   "블래키스트 나이트 배트슈트의 글러브. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_2_Belt_AQUIRED": [
+   "New 52 벨트 획득"
+  ],
+  "POPUP_BATSUIT_2_Belt_DESCRIPTION": [
+   "New 52 배트슈트의 벨트. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_2_BOOTS_AQUIRED": [
+   "New 52 부츠 획득"
+  ],
+  "POPUP_BATSUIT_2_BOOTS_DESCRIPTION": [
+   "New 52 배트슈트의 부츠. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_2_CHEST_AQUIRED": [
+   "New 52 체스트 획득"
+  ],
+  "POPUP_BATSUIT_2_CHEST_DESCRIPTION": [
+   "New 52 배트슈트의 체스트 피스. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_2_COWL_AQUIRED": [
+   "New 52 카울 획득"
+  ],
+  "POPUP_BATSUIT_2_COWL_DESCRIPTION": [
+   "New 52 배트슈트의 카울. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_2_GLOVES_AQUIRED": [
+   "New 52 글러브 획득"
+  ],
+  "POPUP_BATSUIT_2_GLOVES_DESCRIPTION": [
+   "New 52 배트슈트의 글러브. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_4_Belt_AQUIRED": [
+   "레드 선 벨트 획득"
+  ],
+  "POPUP_BATSUIT_4_Belt_DESCRIPTION": [
+   "레드 선 배트슈트의 벨트. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_4_BOOTS_AQUIRED": [
+   "레드 선 부츠 획득"
+  ],
+  "POPUP_BATSUIT_4_BOOTS_DESCRIPTION": [
+   "레드 선 배트슈트의 부츠. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_4_CHEST_AQUIRED": [
+   "레드 선 체스트 획득"
+  ],
+  "POPUP_BATSUIT_4_CHEST_DESCRIPTION": [
+   "레드 선 배트슈트의 체스트 피스. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_4_COWL_AQUIRED": [
+   "레드 선 카울 획득"
+  ],
+  "POPUP_BATSUIT_4_COWL_DESCRIPTION": [
+   "레드 선 배트슈트의 카울. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_4_GLOVES_AQUIRED": [
+   "레드 선 글러브 획득"
+  ],
+  "POPUP_BATSUIT_4_GLOVES_DESCRIPTION": [
+   "레드 선 배트슈트의 글러브. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_5_Belt_AQUIRED": [
+   "원 밀리언 벨트 획득"
+  ],
+  "POPUP_BATSUIT_5_Belt_DESCRIPTION": [
+   "원 밀리언 배트슈트의 벨트. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_5_BOOTS_AQUIRED": [
+   "원 밀리언 부츠 획득"
+  ],
+  "POPUP_BATSUIT_5_BOOTS_DESCRIPTION": [
+   "원 밀리언 배트슈트의 부츠. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_5_CHEST_AQUIRED": [
+   "원 밀리언 체스트 획득"
+  ],
+  "POPUP_BATSUIT_5_CHEST_DESCRIPTION": [
+   "원 밀리언 배트슈트의 체스트 피스. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_5_COWL_AQUIRED": [
+   "원 밀리언 카울 획득"
+  ],
+  "POPUP_BATSUIT_5_COWL_DESCRIPTION": [
+   "원 밀리언 배트슈트의 카울. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_5_GLOVES_AQUIRED": [
+   "원 밀리언 글러브 획득"
+  ],
+  "POPUP_BATSUIT_5_GLOVES_DESCRIPTION": [
+   "원 밀리언 배트슈트의 글러브. 부품 5개를 모두 모으면 슈트를 착용하고 보너스를 얻을 수 있다."
+  ],
+  "POPUP_BATSUIT_COMPLETE": [
+   "배트슈트 완성"
+  ],
+  "POPUP_BATSUIT_PIECE_HOWTO": [
+   "배트컴퓨터에서 아이템 표시. 부품을 5개 모으면 새 슈트를 착용할 수 있다."
+  ],
+  "POPUP_CRYPTO_BLUE_AQUIRED": [
+   "암호 키(베타) 획득"
+  ],
+  "POPUP_CRYPTO_BLUE_DESCRIPTION": [
+   "키 카드에 암호 %BETACOLOR%베타%WHITE%가 담겨 있다. 이제 %BETACOLOR%파란색%WHITE% 보안 패널에서 크립토 시퀀서를 사용할 수 있다."
+  ],
+  "POPUP_CRYPTO_BLUE_HOWTO": [
+   "크립토 시퀀서로 %BETACOLOR%파란색%WHITE% 보안 패널에 접근할 수 있게 되었다."
+  ],
+  "POPUP_CRYPTO_GREEN_AQUIRED": [
+   "암호 키(알파) 획득"
+  ],
+  "POPUP_CRYPTO_GREEN_DESCRIPTION": [
+   "키 카드에 암호 %GREEN%알파%WHITE%가 담겨 있다. 이제 %GREEN%녹색%WHITE% 보안 패널에서 크립토 시퀀서를 사용할 수 있다."
+  ],
+  "POPUP_CRYPTO_GREEN_HOWTO": [
+   "크립토 시퀀서로 %GREEN%녹색%WHITE% 보안 패널에 접근할 수 있게 되었다."
+  ],
+  "POPUP_CRYPTO_RED_AQUIRED": [
+   "암호 키(감마) 획득"
+  ],
+  "POPUP_CRYPTO_RED_DESCRIPTION": [
+   "키 카드에 암호 %RED%감마%WHITE%가 담겨 있다. 이제 %RED%빨간색%WHITE% 보안 패널에서 크립토 시퀀서를 사용할 수 있다."
+  ],
+  "POPUP_CRYPTO_RED_HOWTO": [
+   "크립토 시퀀서로 %RED%빨간색%WHITE% 보안 패널에 접근할 수 있게 되었다."
+  ],
+  "POPUP_GAUNTLETS_AQUIRED": [
+   "헤비 건틀릿 획득"
+  ],
+  "POPUP_GAUNTLETS_DESCRIPTION": [
+   "배트슈트의 건틀릿 강화 부품. 격투로 주는 피해가 증가한다."
+  ],
+  "POPUP_GAUNTLETS_HOWTO": [
+   "%SELECT%로 아이템 표시. 전투 시 피해 증가는 자동으로 적용된다."
+  ],
+  "POPUP_GEL_GLUE_AQUIRED": [
+   "접착 젤 획득"
+  ],
+  "POPUP_GEL_GLUE_DESCRIPTION": [
+   "폭발 젤 카트리지 업그레이드. 기폭 시 접착 물질을 방출해 목표 기계를 멈출 수 있다."
+  ],
+  "POPUP_GEL_GLUE_HOWTO": [
+   "%DPADLEFT%로 젤 런처 장비, %LEFTSHOULDER%(길게 누르기)로 목표 선택, %RIGHTSHOULDER%로 발사. %LEFTSHOULDER%(연타)로 속사. 폭발하면 접착 젤이 방출된다."
+  ],
+  "POPUP_GEL_LAUNCHER_AQUIRED": [
+   "젤 런처 획득"
+  ],
+  "POPUP_GEL_LAUNCHER_DESCRIPTION": [
+   "공기압으로 폭발 젤을 발사하는 총. 젤을 원격으로 기폭해 소규모 폭발을 일으킬 수 있다. 카트리지는 한 번에 3발까지 발사 가능."
+  ],
+  "POPUP_GEL_PROXIMITY_AQUIRED": [
+   "근접 젤 획득"
+  ],
+  "POPUP_GEL_PROXIMITY_DESCRIPTION": [
+   "폭발 젤 카트리지 업그레이드. 발사된 카트리지는 적이 옆을 지나가면 폭발한다. 원격 기폭도 가능."
+  ],
+  "POPUP_GEL_PROXIMITY_HOWTO": [
+   "%DPADLEFT%로 젤 런처 장비, %LEFTSHOULDER%(길게 누르기)로 목표 선택, %RIGHTSHOULDER%로 발사. %LEFTSHOULDER%(연타)로 속사. 발사된 젤 카트리지는 적이 다가오면 폭발한다."
+  ],
+  "POPUP_LINELAUNCHER_AQUIRED": [
+   "라인 런처 획득"
+  ],
+  "POPUP_LINELAUNCHER_DESCRIPTION": [
+   "벽과 벽 사이에 케이블을 걸어 짚라인을 만들 수 있다."
+  ],
+  "POPUP_LINELAUNCHER_HOWTO": [
+   "%DPADRIGHT%로 라인 런처 장비, %LEFTSHOULDER%(길게 누르기)로 준비하고 %RIGHTSHOULDER%로 발사. %LEFTSHOULDER%(연타)로 속사. %FACERIGHT%로 라인에서 내린다."
+  ],
+  "POPUP_RUSH_AQUIRED": [
+   "러시 업그레이드 획득"
+  ],
+  "POPUP_RUSH_DESCRIPTION": [
+   "체력이 가득 찬 상태로 적을 쓰러뜨리면 러시 바가 충전된다. 러시 바가 늘어날수록 주는 피해가 증가하고, 피해를 받으면 러시 바가 사라진다."
+  ],
+  "POPUP_RUSH_HOWTO": [
+   "체력이 가득 찬 상태로 적을 쓰러뜨리면 주는 피해가 더욱 증가한다. 피해를 받지 않으면 러시 바를 유지할 수 있다."
+  ],
+  "POPUP_SHOCK_AQUIRED": [
+   "쇼크 배터랭 획득"
+  ],
+  "POPUP_SHOCK_DESCRIPTION": [
+   "배터랭 업그레이드. 배터랭이 명중하면 내장된 고용량 배터리에서 전류가 방출된다. 적 기절, 전자기기 합선, 두 지점 사이 아크 방전 유도 등에 사용할 수 있다."
+  ],
+  "POPUP_SHOCK_HOWTO": [
+   "%DPADDOWN%로 배터랭 장비, %LEFTSHOULDER%로 목표를 선택하고 %RIGHTSHOULDER%로 던진다. %LEFTSHOULDER%(연타)로 속사."
+  ],
+  "POPUP_TIGHTROPE_AQUIRED": [
+   "줄타기 획득"
+  ],
+  "POPUP_TIGHTROPE_DESCRIPTION": [
+   "라인 런처용 강화 케이블. 줄 위에 올라 줄타기하듯 이동할 수 있다."
+  ],
+  "POPUP_TIGHTROPE_HOWTO": [
+   "%DPADRIGHT%로 라인 런처 장비, %LEFTSHOULDER%(길게 누르기)로 준비하고 %RIGHTSHOULDER%로 발사. %LEFTSHOULDER%(연타)로 속사. %FACERIGHT%로 라인에서 내린다. %FACEDOWN%로 라인에 오른다."
+  ],
+  "UI_POPUP_BLACKMASK_STATUS": [
+   "마스크:"
+  ],
+  "UI_POPUP_BOMBS_STATUS": [
+   "폭탄:"
+  ],
+  "UI_POPUP_CAGES_STATUS": [
+   "새장:"
+  ],
+  "UI_POPUP_CRYPTO_HELP": [
+   "크립토 시퀀서로 보안 단말기를 해킹한다. %LEFTANALOG%로 올바른 코드를 찾고 %CONFIRM%을 누르면 해킹을 시작한다."
+  ],
+  "UI_POPUP_HOSTAGES_STATUS": [
+   "인질:"
+  ],
+  "UI_POPUP_JOKERPAINT_ACQUIRED": [
+   "조커의 페인트 발견"
+  ],
+  "UI_POPUP_JOKERPAINT_DESCRIPTION": [
+   "조커는 투명 페인트로 교도소 곳곳에 낙서와 힌트를 남기고 있다. 페인트는 탐정 모드로 볼 수 있다."
+  ],
+  "UI_POPUP_JOKERPAINT_HOWTO": [
+   "탐정 모드를 켜면 주변에 조커의 페인트가 있는지 조사할 수 있다."
+  ],
+  "UI_POPUP_PRESENTS_STATUS": [
+   "선물:"
+  ],
+  "UI_POPUP_TEETH_STATUS": [
+   "이빨:"
+  ],
+  "UI_PROMPT_YOU_GOT_A_THING_CLOSE": [
+   "%CONFIRM%닫기"
+  ],
+  "UI_PROMPT_YOU_GOT_A_THING_MORE": [
+   "%CONFIRM%상세 정보"
+  ]
+ },
+ "vo_anim_07_run_in_with_penguin.cloc": {
+  "07_Run_In_With_Penguin": [
+   "배트맨: 이 악취미 같은 게임은 뭐지, 터너?",
+   "펭귄: 배트맨! 내 투기장에 온 걸 환영한다!",
+   "평소 운동 시간보다 훨씬 재미있지. 너도 그렇게 생각할 거다!",
+   "게다가 타이밍이 완벽하군! 우리 챔피언에게 도전할 교도관가 마침 동났거든...",
+   "브론즈 타이거! 신사 여러분, 규칙은 간단하다. 안 죽은 놈이 계속 싸운다!",
+   "브론즈 타이거: 그만해, 펭귄! 난 네 꼭두각시가 아니야!",
+   "펭귄: 타이거, 내 병사가 되길 거부한 순간부터 넌 내 장난감이야!",
+   "자... 죽기 싫으면 싸워!",
+   "브론즈 타이거: 미안하다, 배트맨. 네가 내 입장이라도 똑같이 했을 거다",
+   "배트맨: 난 네 입장이 될 일이 없다, 터너",
+   "브론즈 타이거: 그건 사고였어...",
+   "펭귄: 잡담은 거기까지! 죽을 때까지 싸워라!"
+  ]
+ },
+ "vo_anim_09_penguin_intro.cloc": {
+  "09_Penguin_Intro": [
+   "펭귄: 서둘러, 멍청이들아! 이 속도면 너희 기다리다 형기가 끝나겠다!",
+   "드디어!",
+   "배트맨: 관계자 외 출입 금지다",
+   "넌 관계자가 아니지",
+   "펭귄: 틀렸어, 배트맨... 여긴 이제 내 구역이야. 무단 침입한 건 너라고!",
+   "이 벽 너머에 있는 물건 덕분에 블랙게이트에 온 보람이 있단 말이지!",
+   "내가 끝장났다고 생각한 놈들에게 똑똑히 보여 주겠어!",
+   "강한 자만 살아남는다. 투기장과 똑같지! 난 살아남을 거다!",
+   "배트맨: 그렇게는 안 된다"
+  ]
+ },
+ "vo_anim_15_joker_intro.cloc": {
+  "15_Joker_Intro": [
+   "조커: 아, 배트맨! 정식으로 환영하지. 겨울, 여름, 봄, 가을용 내 새 별장에 온 걸 환영해!",
+   "여기 오는 길에 내 새 장식들 좀 봤겠지?",
+   "자, 어떤지 말해 봐",
+   "배트맨: 소꿉장난은 이제 끝이다, 조커",
+   "크립토 시퀀서 코드를 내놔! 당장 키 카드를 넘겨!",
+   "조커: 제일 마음에 드는 장식이 이거야. 가스통을 교도소 메인 공조 장치에 달아서 계속 뿜어내게 해 놨지",
+   "원래는 폭동 진압용 가스였는데 내가 레시피를 좀 바꿨거든",
+   "죄수나 인질이 조금만 들이마셔도 그 뇌를 내가 조종할 수 있게 돼",
+   "너무 많이 마시면 뇌가 스튜가 돼 버리지만",
+   "배트맨: 방출을 멈춰라, 조커",
+   "조커: 그건 안 되지, 박쥐 양반. 고고 가스를 멈출 수 있는 건 여기 있는 컴퓨터뿐이야",
+   "그것도 시퀀서 코드가 있어야만 가능하다고!",
+   "근데 코드가 어디 있는지는 모르겠네~ 지하 주방 근처에라도 있으려나?",
+   "내 집 마련하면 할 일이 참 많다니까!",
+   "내 집 얘기가 나와서 말인데, 넌 사유지를 기웃거리는 좀도둑이라고 할 수 있겠지?",
+   "그렇다면 난 무슨 수를 써서라도 내 땅을 지켜야겠어!"
+  ]
+ },
+ "vo_anim_18_black_mask_intro.cloc": {
+  "18_Black_Mask_Intro": [
+   "배트맨: 네 경쟁 갱단 놈들은 전부 블랙게이트에 있다",
+   "여길 폭파하면 살아남는 건 너뿐이지... 탈출할 수 있다면. 그렇지, 블랙 마스크?",
+   "블랙 마스크: 정답이다. 난 경쟁자들, 특히 조커와의 일을 끝장내려고 여기 들어왔지",
+   "방해는 못 하게 해 주마",
+   "배트맨: 죄 없는 목숨이 위험하다. 그들을 죽게 둘 순 없다",
+   "블랙 마스크: 이봐, 이 발전기들을 시간 안에 안정시키게 해 달라는 기도가 이뤄질 거라 생각하나?",
+   "배트맨: 정답이다"
+  ]
+ },
+ "vo_anim_23_bm_opens_vault_a.cloc": {
+  "23_BM_Opens_Vault_A": [
+   "배트맨: 끝났다. 인질을 풀어 줘라",
+   "캣우먼: 이 감방에 들여보내 줘서 고마워",
+   "나 혼자서도 할 수 있었겠지만, 굳이 위험을 무릅쓸 필요는 없잖아?",
+   "배트맨: 인질 따윈 처음부터 없었군. 처음부터 베인이 목적이었어",
+   "캣우먼: 옥상에서 날 잡았을 때부터지",
+   "미안해. 원래는 너한테 잡혀서 블랙게이트에 수감되는 게 계획이었어",
+   "그런데 네가 여기 나타나는 바람에 계획을 바꾼 거야",
+   "배트맨: 왜 베인을 풀어 주려는 거지?",
+   "캣우먼: 그 괴물한텐 가까이 가고 싶지도 않아. 그건 믿어 줘",
+   "죽고 싶은 것도 아니고! 그냥 빚을 갚으려고 한 일이야",
+   "배트맨: 누구한테 진 빚이지?",
+   "캣우먼: 그건 말 못 해, 미남 씨. 의뢰인은 비밀이야",
+   "난 그냥 짐을 받아서 배달할 뿐이고",
+   "배트맨: 캣우먼, 그게 누구든 베인이 다시 힘을 얻으면 어떻게 될지 알고 있나?",
+   "얼마나 많은 사람이 다치고... 죽을지?",
+   "캣우먼: 그런 건 생각 안 하는 주의야. 그래야 일도 하고 밤에 잠도 자지",
+   "지금은 베인을 여기서 데리고 나가야 해",
+   "배트맨: 날 쓰러뜨리고 가야 할 거다",
+   "캣우먼: 음... 그러고 싶긴 한데, 넌 내가 이 말라깽이 친구랑 여기서 빠져나가는 걸 지켜보기만 하게 될 거야",
+   "배트맨: 어째서지?",
+   "캣우먼: 조커도 그렇게 나쁜 놈은 아니더라. 친해지고 나면 말이야",
+   "선물을 잔뜩 받았거든. 거기에 작은 폭탄을 달아서 교도소 곳곳에 놔뒀어. 그러니까 찾아와 봐",
+   "배트맨: 대체 무슨 짓을...",
+   "캣우먼: 하루 종일 수다 떨 수도 있지만, 서두르는 게 좋지 않겠어?",
+   "타이머가 달려 있으니까. 어디부터 찾아야 할지는 알려 줄게",
+   "배트맨: 이걸로 끝이라고 생각하지 마라",
+   "캣우먼: 나도 그러길 바라",
+   "자, 덩치 씨. 이만 실례하자고"
+  ]
+ },
+ "vo_anim_25_joker_secret.cloc": {
+  "25_Joker_Secret": [
+   "겁 많은 교도관: 조심해",
+   "무모한 교도관: 이 녀석? 완전 맛이 갔잖아. 봐 봐!",
+   "조커: 퉤!",
+   "조커: 인심 좋은 교도관 양반이네. 입고 있던 셔츠까지 벗어 주다니...",
+   "조커: 여긴 이상 없음!"
+  ]
+ },
+ "vo_game_global.cloc": {
+  "Play_BM_VO_IG_006": [
+   "배트맨: 여긴 건널 수 없군... 아니, 웨인 사가 관리동에 새 엘리베이터를 납품했을 거다",
+   "그 근처에 라인 런처가 굴러다닐지도 모르겠군"
+  ],
+  "Play_BM_VO_IG_006a": [
+   "배트맨: 여긴 뛰어 건널 수 없군..."
+  ],
+  "Play_BM_VO_IG_007": [
+   "배트맨: 감시탑 꼭대기까지 올라가야겠군. 거기서 문을 제어하는 것 같다"
+  ],
+  "Play_BM_VO_IG_013a": [
+   "배트맨: 폭발물을 처리해야 한다. 하지만 먼저 찾아야겠군"
+  ],
+  "Play_BM_VO_IG_013b": [
+   "배트맨: 인질은... 어디 있지?"
+  ],
+  "Play_BM_VO_IG_013c": [
+   "배트맨: 빨리 배전반을 끊는 게 좋겠군. 그런데 어디 있지?"
+  ],
+  "Play_BM_VO_IG_014": [
+   "배트맨: 캣우먼, 네 차례다. 그녀는 아마 부두로 향하겠지"
+  ],
+  "Play_CW_VO_HUD_Random_012a": [
+   "캣우먼: 근육질 마초들한테 둘러싸이는 건 싫지 않지만... 교도소 안에서는 사양이야"
+  ],
+  "Play_CW_VO_HUD_Random_012b": [
+   "캣우먼: 교도소에선 피부가 망가지기만 해"
+  ],
+  "Play_CW_VO_HUD_Random_012c": [
+   "캣우먼: 귀 뒤를 긁어 주면 뭐든 말해 줄게... 거의 뭐든"
+  ],
+  "Play_CW_VO_HUD_Random_012e": [
+   "캣우먼: 교도소엔 훔칠 만한 게 거의 없어... 아예 없진 않지만"
+  ],
+  "Play_CW_VO_HUD_Random_012f": [
+   "캣우먼: 고양이는 개가 아니야. 불러도 안 가고, 앉으라 해도 안 앉고, 얼굴도 안 핥아. 기분이 아주 좋지 않은 한은"
+  ],
+  "Play_CW_VO_HUD_Random_012g": [
+   "캣우먼: 동물 보호소 사람들이 신나게 활약하겠는걸"
+  ],
+  "Play_CW_VO_HUD_Random_012h": [
+   "캣우먼: 이 교도소에서 갱생하는 사람은 거의 없나 봐?"
+  ],
+  "Play_CW_VO_HUD_Random_012i": [
+   "캣우먼: 여기서 나가면 제일 먼저 느긋하게 벼룩 목욕부터 할 거야!"
+  ]
+ },
+ "ui_frontend_menus.cloc": {
+  "UI_FE_CONCEPT_VIEWER_MOVE": [
+   "%LEFTANALOG%%DARKGRAY%이동"
+  ],
+  "UI_FE_CONCEPT_VIEWER_ZOOM": [
+   "%LEFTSHOULDER%%RIGHTSHOULDER%%DARKGRAY%줌"
+  ],
+  "UI_FE_DELETE_SAVE_GAME_CANCEL": [
+   "아니요"
+  ],
+  "UI_FE_DELETE_SAVE_GAME_CONFIRM": [
+   "예"
+  ],
+  "UI_FE_DELETING_SAVE_GAME_PROGRESS": [
+   "삭제 중..."
+  ],
+  "UI_FE_GALLERY_LOCKED_TITLE": [
+   "잠김"
+  ],
+  "UI_FE_GAME_COMPLETION": [
+   "%COMPLETION_PERCENTAGE%%% 완료"
+  ],
+  "UI_FE_MAIN_MENU_TITLE": [
+   "메인 메뉴"
+  ],
+  "UI_FE_NEW_GAME_PLUS_DESCRIPTION": [
+   "게임을 처음부터 다시 시작해 다른 순서로 보스를 쓰러뜨립니다. 새 아이템을 해금하고 새 무비도 볼 수 있습니다! 업그레이드와 게임 진행 상황은 사라지지만, 수사 사건 진행, 배트슈트 부품, 갤러리 해금은 유지됩니다.\n\n새 게임+를 시작하면 되돌릴 수 없습니다.\n계속하시겠습니까?"
+  ],
+  "UI_FE_NEW_GAME_PLUS_TITLE": [
+   "새 게임+ 해금"
+  ],
+  "UI_FE_NEW_RETURN_TO_MENU": [
+   "취소"
+  ],
+  "UI_FE_NEW_START_NEW_GAME_PLUS": [
+   "새 게임+ 시작"
+  ],
+  "UI_FE_SAVE_SLOT_ONE": [
+   "세이브 데이터 1"
+  ],
+  "UI_FE_SAVE_SLOT_THREE": [
+   "세이브 데이터 3"
+  ],
+  "UI_FE_SAVE_SLOT_TWO": [
+   "세이브 데이터 2"
+  ],
+  "UI_FE_TIME_PLAYED": [
+   "플레이 시간 %PLAY_TIME%"
+  ],
+  "UI_FRONT_END_CONCEPT_GALLERY": [
+   "콘셉트 갤러리"
+  ],
+  "UI_FRONT_END_CONTINUE_GAME": [
+   "이어하기"
+  ],
+  "UI_FRONT_END_CREDITS": [
+   "크레디트"
+  ],
+  "UI_FRONT_END_DELETE_SAVE_GAME": [
+   "이 세이브 데이터를 정말 삭제하시겠습니까?"
+  ],
+  "UI_FRONT_END_HINTBAR_BACK": [
+   "%CANCEL%%DARKGRAY%뒤로"
+  ],
+  "UI_FRONT_END_HINTBAR_DELETE": [
+   "%FACEUP%%DARKGRAY%삭제"
+  ],
+  "UI_FRONT_END_HINTBAR_PLAY": [
+   "%CONFIRM%%DARKGRAY%플레이"
+  ],
+  "UI_FRONT_END_HINTBAR_SELECT": [
+   "%CONFIRM%%DARKGRAY%선택"
+  ],
+  "UI_FRONT_END_HINTBAR_ZOOM": [
+   "%CONFIRM%%DARKGRAY%줌"
+  ],
+  "UI_FRONT_END_LOCATION_ADMIN": [
+   "관리동"
+  ],
+  "UI_FRONT_END_LOCATION_ARKHAM": [
+   "아캄"
+  ],
+  "UI_FRONT_END_LOCATION_CELLBLOCKS": [
+   "감방 구역"
+  ],
+  "UI_FRONT_END_LOCATION_GOTHAM": [
+   "고담"
+  ],
+  "UI_FRONT_END_LOCATION_INDUSTRIAL": [
+   "공장 구역"
+  ],
+  "UI_FRONT_END_LOCATION_LIGHTHOUSE": [
+   "감시탑"
+  ],
+  "UI_FRONT_END_MOVIE_GALLERY": [
+   "무비 갤러리"
+  ],
+  "UI_FRONT_END_NAME": [
+   "내용"
+  ],
+  "UI_FRONT_END_NEW_GAME": [
+   "새 게임"
+  ],
+  "UI_FRONT_END_NEW_GAME_PLUS": [
+   "새 게임+"
+  ],
+  "UI_FRONT_END_OPTIONS": [
+   "옵션"
+  ],
+  "UI_FRONT_END_SAVE_GAME_EMPTY": [
+   "데이터 없음"
+  ],
+  "UI_FRONT_END_SELECT_SAVE_GAME": [
+   "세이브 데이터 선택"
+  ]
+ },
+ "vo_anim_01_bm_opening_internal_anim_02_game_intro.cloc": {
+  "01_02_Opening": [
+   "배트맨: 고담 시티는 내 도시다. 지금으로선... 3개월 전, 나는 고담 최악의 악당들을 처리했다.",
+   "하지만 내가 있다고 범죄자가 사라지는 건 아니다.",
+   "나를 노리는 자들도 있다. 놈들보다 한발 앞서 나가는 수밖에 없다.",
+   "그래, 오늘 밤처럼.",
+   "캣우먼: 애들 사탕 뺏기보다 쉽네. 그 애가 정부 비밀 조직이라는 게 문제지만.",
+   "배트맨: 네가 누군지는 모르겠지만...",
+   "이 건물은 이미 영업이 끝났다. 몰랐나?",
+   "캣우먼: 알았지. 근데 난 24시간 영업이거든. 원래 야행성이라.",
+   "설마 코스프레 좋아하는 경비원은 아니겠지?",
+   "배트맨: 난 범죄가 있는 곳에 갈 뿐이다.",
+   "캣우먼: 벌써 수다는 끝이야? 아직 내가 가르릉대는 것도 못 봤으면서?",
+   "배트맨: 블랙게이트에 들어가면 가르릉댈 일도 없을 거다.",
+   "DEO 분대장: 목표 확인.",
+   "목표가 데이터를 보유 중. DEO 보안 오메가 팀 대응 중.",
+   "배트맨: 내가 대응 중이다.",
+   "DEO 분대장: 여긴 사유지다. 민간 일에 끼어들지 마라.",
+   "배트맨: 마침 나가려던 참이다.",
+   "제법이군...",
+   "DEO 분대장: 무장팀, 데이터를 확보해라!",
+   "나머지는 배트맨을 이 옥상에서 놓치지 마라!"
+  ]
+ },
+ "vo_anim_08_bronze_tiger_outro.cloc": {
+  "08_Bronze_Tiger_Outro": [
+   "펭귄: 죽을 때까지다, 배트맨! 숨통을 끊어!",
+   "브론즈 타이거: 그냥... 해라.",
+   "배트맨: 거절한다.",
+   "펭귄: 여긴 내 투기장이다, 배트맨! 넌 내 장난감이야!",
+   "가라! 날 거역한 대가를 치르게 해!",
+   "둘 다 죽여!",
+   "브론즈 타이거: 펭귄은 맡기마, 배트맨! 여긴 내가 막는다!",
+   "배트맨: 수가 너무 많아. 게다가 그 상처로는 무리다!",
+   "브론즈 타이거: 펭귄은 교도소 깊은 곳에 다른 무리를 배치해 뒀다. 뭘 지키는지는 모르지만 중요한 게 틀림없어! 어서 가!",
+   "배트맨: 아캄 동의 입구인가...",
+   "브론즈 타이거: 고맙다, 배트맨."
+  ]
+ },
+ "vo_anim_12_deadshot_intro.cloc": {
+  "12_Deadshot_Intro": [
+   "데드샷: 이봐 박쥐 양반, 네가 망토로 몸의 정확한 위치를 숨긴다는 건 알고 있었지.",
+   "근데 실제로 어떻게 하는지 본 건 처음이야. 대단한데!",
+   "배트맨: 네 목적은 뭐지? 세 거물 중 누가 널 고용했나?",
+   "데드샷: 전부 다. 놈들은 모르지만. 일석삼조라는 거지.",
+   "전부한테 부하가 돼 주겠다고 했어. 경찰이든 교도소를 털려는 놈이든 막아 주겠다고.",
+   "안됐지만 박쥐 양반, 너도 그 '털려는 놈'에 딱 들어가거든!"
+  ]
+ },
+ "vo_anim_23_bm_opens_vault_b.cloc": {
+  "23_BM_Opens_Vault_B": [
+   "배트맨: 끝났다. 인질을 풀어 줘라.",
+   "캣우먼: 이 감방에 들여보내 줘서 고마워.",
+   "나 혼자서도 할 수 있었겠지만, 굳이 위험할 필요는 없잖아?",
+   "배트맨: 인질 같은 건 처음부터 없었다. 처음부터 노린 건 베인이었군.",
+   "캣우먼: 옥상에서 날 잡았을 때부터 말이지.",
+   "미안해. 원래 계획은 네게 잡혀서 블랙게이트에 수감되는 거였어.",
+   "그런데 네가 여기 나타나는 바람에 계획을 바꾼 거지.",
+   "배트맨: 왜 베인을 풀어 주려는 거지?",
+   "캣우먼: 그 괴물한텐 다가가고 싶지도 않아. 그건 믿어 줘.",
+   "자살할 생각은 없으니까! 그냥 빚을 갚으려고 한 일이야.",
+   "배트맨: 누구한테 진 빚이지?",
+   "캣우먼: 그건 말 못 해, 미남 씨. 의뢰인은 비밀이거든.",
+   "난 그냥 물건을 받아서 배달할 뿐이야.",
+   "배트맨: 캣우먼, 그게 누구든 베인이 다시 힘을 얻으면 어떻게 될지 아나?",
+   "얼마나 많은 사람이 다치고... 죽을지?",
+   "캣우먼: 그런 건 생각 안 하는 주의야. 그래야 일도 하고 밤에 잠도 자지.",
+   "지금은 베인을 여기서 데리고 나가야 해.",
+   "배트맨: 날 쓰러뜨리고 가야 할 거다.",
+   "캣우먼: 그것도 끌리긴 하지만, 그냥 아무 일 없이 나가고 싶네. 그리고 넌 그렇게 해 줄 거야.",
+   "배트맨: 내가?",
+   "캣우먼: 펭귄은 거래를 좋아하거든. 게다가 널 증오하지.",
+   "인질 몇 명을 나눠 받았어. 그 사람들한테 폭탄을 감아서 블랙게이트 곳곳에 앉혀 놨지.",
+   "배트맨: 대체 무슨 생각으로...",
+   "캣우먼: 하루 종일 수다 떨 수도 있지만, 서두르는 게 좋지 않을까?",
+   "타이머가 달려 있거든. 어디부터 찾아야 할지는 알려 줄게.",
+   "배트맨: 이걸로 끝이라고 생각하지 마라.",
+   "캣우먼: 나도 그러길 바라.",
+   "자, 덩치 씨. 이만 실례할게."
+  ]
+ },
+ "vo_anim_27_black_mask_secret.cloc": {
+  "27_Black_Mask_Secret": [
+   "기술자: 블랙 마스크가 발전기를 마구 건드리는 바람에 냉난방 시스템이 이상해졌어.",
+   "파이프가 팽창과 수축을 자주 반복해서 약해진 거야.",
+   "블랙 마스크: 조커... 조커만 처리하면...",
+   "교도관: 그자를 놔줘라!",
+   "블랙 마스크: 왜? 그 광대에 비하면 아무 가치도 없는 놈인데.",
+   "기술자: 안 돼! 맞으면...",
+   "블랙 마스크: 으아아아아아아악!",
+   "기술자: 어... 어디로 갔지?",
+   "교도관: 몰라. 하지만 조커는 조심하는 게 좋겠군."
+  ]
+ },
+ "vo_anim_31_waller_cutaway_3.cloc": {
+  "31_Waller_Cutaway_3": [
+   "???: 흠, 이 남자는 저격수 겸 화기 전문가로 쓸 만하겠군...",
+   "병사: 글쎄요. 데드샷은 성격이 불안정합니다.",
+   "???: 그에게 맡길 일에 성격은 상관없어."
+  ]
+ },
+ "vo_anim_thankyou_video.cloc": {
+  "V0_ThankYou_Video": [
+   "플레이해 주셔서 감사합니다."
+  ]
+ },
+ "vo_game_admin.cloc": {
+  "Play_BM_CW_VO_HUD_006a": [
+   "캣우먼: 넌 일을 하면 아주 요란하게 하는구나. 공장 시설까지 들렸어."
+  ],
+  "Play_BM_CW_VO_HUD_006b": [
+   "배트맨: 거기서 뭘 하고 있었지?"
+  ],
+  "Play_BM_CW_VO_HUD_006c": [
+   "캣우먼: 남들이랑 좀 사이좋게 놀았지. 너도 가끔 해 봐."
+  ],
+  "Play_BM_CW_VO_HUD_006d": [
+   "배트맨: 노는 건 내 전문이 아니다."
+  ],
+  "Play_BM_CW_VO_HUD_006e": [
+   "캣우먼: 그런 것 같네. 조커한테서 코드는 얻었어?"
+  ],
+  "Play_BM_CW_VO_HUD_006f": [
+   "배트맨: 아직이다. 꽤 애를 먹을 것 같군."
+  ],
+  "Play_BM_CW_VO_HUD_006g": [
+   "캣우먼: 서두르는 게 좋을 거야. 인질들이 점점 숨을 못 쉬게 되거든."
+  ],
+  "Play_BM_CW_VO_HUD_006h": [
+   "배트맨: 무슨 뜻이지?"
+  ],
+  "Play_BM_CW_VO_HUD_006i": [
+   "캣우먼: 조커 말이야. 감금 장소의 환기를 꺼 버렸어. 공기는 기껏해야 두 시간 정도밖에 안 남았을걸."
+  ],
+  "Play_BM_CW_VO_HUD_006j": [
+   "배트맨: 좀 더 일찍 알려 줬으면 좋았을 텐데."
+  ],
+  "Play_BM_CW_VO_HUD_009a_1": [
+   "배트맨: 조커는 무력화했다. 아캄 동의 시퀀서 코드를 손에 넣었다."
+  ],
+  "Play_BM_CW_VO_HUD_009a_2": [
+   "배트맨: 캣우먼, 아캄 동의 시퀀서 코드를 손에 넣었다."
+  ],
+  "Play_BM_CW_VO_HUD_009b_1": [
+   "캣우먼: 좋아. 남은 건 펭귄뿐이네. 혼쭐을 내 줘, 미남 씨."
+  ],
+  "Play_BM_CW_VO_HUD_009b_2": [
+   "캣우먼: 잘됐네. 이제 블랙 마스크만 남았어. 혼쭐을 내 줘, 미남 씨."
+  ],
+  "Play_BM_CW_VO_HUD_009b_3": [
+   "캣우먼: 드디어 블랙 마스크만 남았네. 끝장을 내 줘, 미남 씨."
+  ],
+  "Play_BM_CW_VO_HUD_009b_4": [
+   "캣우먼: 남은 건 펭귄이랑 블랙 마스크네. 좋아하는 쪽부터 해치워."
+  ],
+  "Play_BM_CW_VO_HUD_009c": [
+   "배트맨: 소장의 단말기 데이터를 보면 아캄 동의 환기 시스템은 공기 공급이 끊긴 적이 없다.",
+   "뭘 숨기고 있지?"
+  ],
+  "Play_BM_CW_VO_HUD_009d": [
+   "캣우먼: 여자한텐 비밀이 있기 마련이야, 알지? 다음에 만날 때까지 수수께끼를 조금 남겨 두는 거야. 그럼 안녕!"
+  ],
+  "Play_BM_VO_IG_016": [
+   "배트맨: 지금은 가만히 있어라. 밖은 너무 위험하다."
+  ],
+  "Play_BM_VO_IG_017": [
+   "배트맨: 동료들을 데리고 안전한 곳으로 피해라."
+  ],
+  "Play_Deadshot_VO_IG_001": [
+   "데드샷: 조준이 안 돼."
+  ],
+  "Play_Deadshot_VO_IG_002": [
+   "데드샷: 거슬리는 조명이군."
+  ],
+  "Play_Deadshot_VO_IG_003": [
+   "데드샷: 자, 이제 슬슬 진지하게 해 볼까."
+  ],
+  "Play_Deadshot_VO_IG_003a": [
+   "데드샷: *Gets taken out* voxes"
+  ],
+  "Play_Hostage_VO_IG_001": [
+   "겁먹은 인질: 네, 알겠습니다."
+  ],
+  "Play_Hostage_VO_IG_002": [
+   "안도한 인질: 고마워요, 배트맨."
+  ],
+  "Play_JOKER_VO_COM_001": [
+   "조커: 타이밍이 나빴군! 마침 오늘이 박쥐 퇴치약 뿌리는 날이었거든!"
+  ],
+  "Play_JOKER_VO_COM_002": [
+   "조커: 사서가 위기다, 배트맨! 도서관인데 책임은 누가 지나? 책-임! 하하!"
+  ],
+  "Play_JOKER_VO_COM_003": [
+   "조커: 너무하잖아, 배트맨! 그건 매너가 아니지. 대신 가스나 한 방 먹어라!"
+  ],
+  "Play_JOKER_VO_COM_004": [
+   "조커: 네가 어슬렁대는 걸 보고 있자니 지루하군... 이러다간 심심해서 소장을 죽여 버릴 것 같아!"
+  ],
+  "Play_JOKER_VO_COM_005a": [
+   "조커: 블랙게이트에서 생방송으로 전해 드립니다. 대인기 신규 퀴즈쇼 '맞히거나 죽거나'!",
+   "제공은 셔미의 물총 꽃, 그리고 송어 맛이 새로 나온 래리의 독 감초 사탕.",
+   "첫 번째 도전자는 파란 속옷과 번쩍이는 벨트를 사랑하는 패서디나 출신 전업주부... 배트맨입니다!",
+   "게임 규칙은 간단합니다. 퍼즐을 풀면 소장을 구할 도구를 드립니다!",
+   "퍼즐을 못 풀면 참가상으로 교도소 직원 시체를 평생 배달해 드립니다! 준비됐나요... 자, 맞히거나 죽거나!"
+  ],
+  "Play_JOKER_VO_COM_005b": [
+   "조커: 도전자에게 1점!"
+  ],
+  "Play_JOKER_VO_COM_005c": [
+   "조커: 너 이 게임 해 본 적 있지?"
+  ],
+  "Play_JOKER_VO_COM_005d": [
+   "조커: 훌륭한 출발! 하지만 아직 갈 길이 멀다고!"
+  ],
+  "Play_JOKER_VO_COM_005e": [
+   "조커: 아이고, 이건 대실패!"
+  ],
+  "Play_JOKER_VO_COM_005f": [
+   "조커: 이런 허접이이이!"
+  ],
+  "Play_JOKER_VO_COM_005g": [
+   "조커: 도전자 선발을 좀 더 깐깐하게 해야겠어."
+  ],
+  "Play_JOKER_VO_COM_006a": [
+   "조커: 여보세요, 주간 코미디 편집부죠?",
+   "다시 전화할게. 배트맨이 날 두들겨 패려고 하거든.",
+   "그래, 그게 웃기다니까!"
+  ],
+  "Play_JOKER_VO_COM_006b": [
+   "조커: 이봐 박쥐 양반, 굼뜬 슈퍼히어로와 잘생기고 똑똑한 광대 얘기 들어 봤어?"
+  ],
+  "Play_JOKER_VO_COM_006c": [
+   "조커: 이게 좋냐? 내가 네가 사는 똥투성이 동굴까지 찾아가서 한판 붙자고 하면?"
+  ],
+  "Play_JOKER_VO_COM_006d": [
+   "조커: 어릴 때 광대가 무서웠나? 무서워하는 법을 알아 두는 게 좋을걸..."
+  ],
+  "Play_JOKER_VO_COM_006e": [
+   "조커: 네 사망 소식을 알려야 할 날아다니는 쥐 친척이라도 있나?"
+  ],
+  "Play_JOKER_VO_COM_006f": [
+   "조커: 그 망토 차림이 영락없는 바보처럼 보인다고 누가 말해 준 적 없어?"
+  ],
+  "Play_JOKER_VO_COM_006g": [
+   "조커: 이봐 배트맨, 여기 의무실에 40년째 입원해 있는 놈도 너보단 빠르겠다."
+  ],
+  "Play_JOKER_VO_COM_006h": [
+   "조커: 내 마스터플랜은 절대 막을 수 없다, 절대로! 어때? 결정적 대사 연습 중이거든."
+  ],
+  "Play_JOKER_VO_COM_006i": [
+   "조커: 조커가 조커일 수 있는 비결이 뭔지 알아?",
+   "뛰어난 유머 감각, 빈틈없는 두뇌, 그리고 3년에 걸친 치과 치료지!"
+  ],
+  "Play_JOKER_VO_COM_006j": [
+   "조커: 내가 조커고 네가 배트맨인데, 왜 네가 더 웃기냐!"
+  ],
+  "Play_JOKER_VO_COM_006k": [
+   "조커: 인상 쓰고 등 구부리고 무서운 척하는데, 그거 진지하게 봐 주는 사람 있긴 해?"
+  ],
+  "Play_JOKER_VO_IG_001": [
+   "조커: 좋아, 박쥐 양반, 댄스 타이이이임이다!"
+  ],
+  "Play_JOKER_VO_IG_001a": [
+   "조커: 아무도 안 봐서 다행이다, 배트맨. 망신당할 뻔했어."
+  ],
+  "Play_JOKER_VO_IG_001b": [
+   "조커: 대단해! 대단히 형편없어!"
+  ],
+  "Play_JOKER_VO_IG_001c": [
+   "조커: 너 설마 날 웃겨 죽일 셈이냐?"
+  ],
+  "Play_JOKER_VO_IG_001d": [
+   "조커: 싸우는 중에 손톱 손질 좀 해도 될까? 너무 지루하거든!"
+  ],
+  "Play_JOKER_VO_IG_001e": [
+   "조커: 터치! 이제 네가 술래!"
+  ],
+  "Play_JOKER_VO_IG_001f": [
+   "조커: 아아, 자기는 정말 우아하게 춤추는군."
+  ],
+  "Play_JOKER_VO_IG_001g": [
+   "조커: 좀 더 나은 라이벌이 있었으면 좋겠군."
+  ],
+  "Play_WARDEN_BM_VO_IG_001a": [
+   "소장: 배트맨, 멈춰! 문을 열면 폭발하게 돼 있어!"
+  ],
+  "Play_WARDEN_BM_VO_IG_001b": [
+   "배트맨: 다른 사무실은?"
+  ],
+  "Play_WARDEN_BM_VO_IG_001c": [
+   "소장: 조커가 모든 문에 폭약을 설치했어.",
+   "다른 입구를 찾아. 옥상에 갈 수 있다면 거기로 시도해 봐."
+  ],
+  "Play_WARDEN_BM_VO_IG_001d": [
+   "배트맨: 소장은 거기서 움직이지 마라."
+  ],
+  "Play_WARDEN_BM_VO_IG_001e": [
+   "소장: 복면 양반 말대로 하지. 움직이려 해도 못 움직이지만."
+  ],
+  "Play_WARDEN_BM_VO_IG_002a": [
+   "배트맨: 소장! 들리나?"
+  ],
+  "Play_WARDEN_BM_VO_IG_002b": [
+   "소장: 꽤 오래 걸렸군."
+  ],
+  "Play_WARDEN_BM_VO_IG_002c": [
+   "배트맨: 옛 친구와 회포를 좀 풀었다. 아는 대로 상황을 말해 줘."
+  ],
+  "Play_WARDEN_BM_VO_IG_002d": [
+   "소장: 자세한 건 그 광대만 알겠지만, 폭발물 배선이 꽤 복잡해.",
+   "조커는 보안 배전반을 제어 장치로 쓰고 있어.",
+   "전선 하나만 잘라도 전부 날아가는 구조야."
+  ],
+  "Play_WARDEN_BM_VO_IG_002e": [
+   "배트맨: 전선을 건드리지 않고 폭발물을 처리하려면 제어 장치를 단락시키는 수밖에 없겠군.",
+   "그러려면 전자기 펄스를 만드는 장치가 필요하다."
+  ],
+  "Play_WARDEN_BM_VO_IG_002f": [
+   "소장: 이 사무실 바로 아래에 정비 터널로 이어지는 출구가 있어.",
+   "거기 가면 쓸 만한 도구가 있을지도 몰라."
+  ],
+  "Play_WARDEN_BM_VO_IG_002g": [
+   "배트맨: 다시 오겠다."
+  ]
+ },
+ "vo_game_gotham.cloc": {
+  "Play_BM_VO_IG_018": [
+   "배트맨: 중무장했군. 들키지 않게 해야겠다."
+  ],
+  "Play_BM_VO_IG_019": [
+   "배트맨: 여기서 끝이다."
+  ],
+  "Play_CW_BM_VO_IG_001a": [
+   "캣우먼: 땀 한 방울 안 흘리고 태연하게 해치우네.",
+   "설마 무력한 여자한테까지 그러진 않겠지?"
+  ],
+  "Play_CW_BM_VO_IG_001b": [
+   "배트맨: 넌 무력함과는 거리가 멀어 보이는데?"
+  ],
+  "Play_CW_BM_VO_IG_001d": [
+   "캣우먼: 잘생기고 강하고, 게다가 감정에 솔직하기까지.",
+   "모든 여자의 이상형이네."
+  ],
+  "Play_CW_BM_VO_IG_002a": [
+   "캣우먼: 어머, 나 반했나 봐. 왜 이제야 만난 거지?"
+  ],
+  "Play_CW_BM_VO_IG_002b": [
+   "배트맨: 장난은 거기까지다. 훔친 걸 내놓으면 여기서 끝내 주지."
+  ],
+  "Play_CW_BM_VO_IG_002c": [
+   "캣우먼: 배트맨, 나에 대해 알아 둬야 할 게 있어.",
+   "내가 따르는 규칙은 딱 하나. 먼저 찾은 사람이 임자.",
+   "그리고 손에 넣은 건 절대 안 놔!"
+  ],
+  "Play_CW_BM_VO_IG_003a": [
+   "캣우먼: 와, 힘들었겠다. 쉬고 싶으면 천천히 쉬어."
+  ],
+  "Play_CW_BM_VO_IG_004a": [
+   "캣우먼: 너, 밤새도록 할 셈이야?"
+  ],
+  "Play_CW_BM_VO_IG_004b": [
+   "배트맨: 기억해 둬라. 난 절대 멈추지 않는다."
+  ],
+  "Play_CW_BM_VO_IG_004c": [
+   "캣우먼: 내 보수의 절반을 줄 테니 여기서 그만두자고 하면?"
+  ],
+  "Play_CW_BM_VO_IG_004d": [
+   "배트맨: 거절한다."
+  ],
+  "Play_CW_BM_VO_IG_004e": [
+   "캣우먼: 그럼 3분의 2는? 이 도시엔 더 나쁜 놈들도 있잖아. 그놈들이나 쫓으라고..."
+  ],
+  "Play_CW_BM_VO_IG_004f": [
+   "배트맨: 그놈들도 잡을 거다. 지금은 눈앞의 상대에 집중할 뿐이다."
+  ],
+  "Play_CW_BM_VO_IG_004g": [
+   "캣우먼: 눈앞에 보이는 건 내 뒷모습뿐일걸. 여기서 안녕이야!"
+  ],
+  "Play_CW_BM_VO_IG_007": [
+   "캣우먼: 위야, 위!"
+  ],
+  "Play_CW_VO_IG_005": [
+   "캣우먼: 안녕!"
+  ],
+  "Play_CW_VO_IG_006": [
+   "캣우먼: 이봐, 여기 위야!"
+  ],
+  "Play_CW_VO_IG_009": [
+   "캣우먼: 아래 조심해. 하하하!"
+  ],
+  "Play_CW_VO_Intro_Taunt_001": [
+   "캣우먼: 이쪽이야!"
+  ],
+  "Play_CW_VO_Intro_Taunt_002": [
+   "캣우먼: 잘 따라와, 굼벵이."
+  ],
+  "Play_CW_VO_Intro_Taunt_003": [
+   "Misc Laughter 1"
+  ],
+  "Play_CW_VO_Intro_Taunt_004": [
+   "Misc Laughter 2"
+  ],
+  "Play_CW_VO_Intro_Taunt_005": [
+   "Misc Laughter 3"
+  ],
+  "Play_CW_VO_Intro_Taunt_006": [
+   "Misc Laughter4"
+  ],
+  "Play_CW_VO_Intro_Taunt_007": [
+   "캣우먼: 나쁘지 않네."
+  ],
+  "Play_CW_VO_Intro_Taunt_008": [
+   "캣우먼: 이 녀석들을 어떻게 처리하는지 보자고."
+  ],
+  "Play_CW_VO_Intro_Taunt_009": [
+   "캣우먼: 거의 괜찮았는데..."
+  ],
+  "Play_CW_VO_Intro_Taunt_010": [
+   "캣우먼: 빨리!"
+  ],
+  "Play_CW_VO_Intro_Taunt_011": [
+   "캣우먼: 지루한 사람 또 있어?"
+  ],
+  "Play_CW_VO_Intro_Taunt_012": [
+   "캣우먼: 너 짜증 나."
+  ],
+  "Play_CW_VO_Intro_Taunt_013": [
+   "캣우먼: 제대로 하는 거 맞아?"
+  ],
+  "Play_CW_VO_Intro_Taunt_014": [
+   "(Rough landing from a fall)"
+  ],
+  "Play_CW_VO_Intro_Taunt_015": [
+   "(Falling a short distance unexpectedly)"
+  ],
+  "Play_CW_VO_Intro_Taunt_016": [
+   "캣우먼: 업로드는 어떻게 하는 거였더라?"
+  ],
+  "Play_THUG_DEO_VO_IG_001": [
+   "DEO 요원: 방심하지 마. 위쪽을 잘 살펴. 침입자와 박쥐 놈이 옥상을 이용하고 있다."
+  ],
+  "Play_THUG_DEO_VO_IG_002": [
+   "DEO 요원: 그렇습니다, 고양이 차림입니다. '야옹' 하는, 그거요.",
+   "여자는 배트맨과 손잡은 것 같습니다. 조수라고 할까요.",
+   "아직입니다. 알겠습니다. 이상."
+  ]
+ },
+ "vo_hints.cloc": {
+  "Play_BM_VO_HINT_01": [
+   "배트맨: 캣우먼은 펭귄이 운동장에 있을지도 모른다고 했다. 운동장으로 가자."
+  ],
+  "Play_BM_VO_HINT_01a": [
+   "배트맨: 창고에 가면 운동장으로 나가는 데 필요한 걸 찾을 수 있을지도 모른다."
+  ],
+  "Play_BM_VO_HINT_02ab": [
+   "배트맨: 펭귄의 핏자국을 따라가면 아캄 동으로 곧장 갈 수 있을 거다."
+  ],
+  "Play_BM_VO_HINT_03": [
+   "배트맨: 감시탑을 지나지 않으면 감방 구역 지하에도... 펭귄에게도 갈 수 없다."
+  ],
+  "Play_BM_VO_HINT_04a": [
+   "배트맨: 여긴 건널 수 없군...",
+   "아니, 웨인 코퍼레이션이 관리동에 새 엘리베이터를 납품했을 거다."
+  ],
+  "Play_BM_VO_HINT_04b": [
+   "배트맨: 라인 런처를 손에 넣었으니 이제 감시탑에 갈 수 있다. 펭귄은 내가 처리한다."
+  ],
+  "Play_BM_VO_HINT_05": [
+   "배트맨: 조커가 소장을 붙잡고 있다. 소장 구출이 최우선이다."
+  ],
+  "Play_BM_VO_HINT_06": [
+   "배트맨: 소장에게 가려면 라인 런처가 필요하다.",
+   "관리동 공사 구역에서 찾을 수 있을지도 모른다."
+  ],
+  "Play_BM_VO_HINT_07ab": [
+   "배트맨: 관리동 옥상 입구를 이용하면 소장에게 갈 수 있을 거다."
+  ],
+  "Play_BM_VO_HINT_08": [
+   "배트맨: 폭파 장치를 단락시킬 도구가 필요하다. 지하실부터 찾아보는 게 좋겠군."
+  ],
+  "Play_BM_VO_HINT_09": [
+   "배트맨: 교도소장 집무실로 통하는 비밀 입구는 공장 시설에서만 접근할 수 있다."
+  ],
+  "Play_BM_VO_HINT_10ab": [
+   "배트맨: 블랙 마스크는 공장 시설 더 깊은 곳으로 향했다. 발전실까지 안내해 주겠군."
+  ],
+  "Play_BM_VO_HINT_11a": [
+   "배트맨: 공장 구역의 전력을 복구해야 한다. 그게 블랙 마스크에게 갈 유일한 방법이다."
+  ],
+  "Play_BM_VO_HINT_11b": [
+   "배트맨: 올바른 암호 코드를 손에 넣었다. 이제 공장 시설의 전력을 복구하고 블랙 마스크를 찾을 수 있다."
+  ],
+  "Play_BM_VO_HINT_12": [
+   "배트맨: 공장 시설의 전력을 복구해야 한다.",
+   "블랙 마스크가 죽인 기술자가 키 카드를 떨어뜨렸다.",
+   "그걸 쓰면 될지도 모르겠군."
+  ],
+  "Play_BM_VO_HINT_13": [
+   "배트맨: 캣우먼이 말한 탄약고를 조사하는 게 좋겠다."
+  ],
+  "Play_BM_VO_HINT_14": [
+   "배트맨: 이제 아캄 동으로 가서 인질들을 구하기만 하면 된다."
+  ],
+  "Play_BM_VO_HINT_15a": [
+   "배트맨: 블랙게이트가 흔적도 없이 날아가기 전에 조커의 선물이란 걸 해제해야 한다."
+  ],
+  "Play_BM_VO_HINT_15b": [
+   "배트맨: 블랙게이트가 폭파되기 전에 교도관들을 구하고 폭탄을 해제해야 한다."
+  ],
+  "Play_BM_VO_HINT_15c": [
+   "배트맨: 과전류로 블랙게이트 전체가 날아가기 전에 배전반을 찾아야 한다."
+  ],
+  "Play_BM_VO_HINT_16": [
+   "배트맨: 베인을 데리고 도망치기 전에 캣우먼을 찾아야 한다."
+  ],
+  "Play_BM_VO_HINT_17": [
+   "배트맨: 인질이군... 그의 구출이 최우선이다."
+  ]
+ },
+ "player.cloc": {
+  "BM_INV_BATARANG": [
+   "배터랭"
+  ],
+  "BM_INV_BATARANGSHOCK": [
+   "쇼크 배터랭"
+  ],
+  "BM_INV_BATCLAW": [
+   "배트클로"
+  ],
+  "BM_INV_GELGLUE": [
+   "접착 젤 런처"
+  ],
+  "BM_INV_GELLAUNCHER": [
+   "젤 런처"
+  ],
+  "BM_INV_GELPROXIMITY": [
+   "근접 젤 런처"
+  ],
+  "BM_INV_LINELAUNCHER": [
+   "라인 런처"
+  ]
+ },
+ "ui_frontend_artwork.cloc": {
+  "UI_ART_01_NAME": [
+   "블랙게이트"
+  ],
+  "UI_ART_01_UNLOCK": [
+   "수사 사건: 그라운드 제로 해결 시 해금"
+  ],
+  "UI_ART_02_NAME": [
+   "조커의 부하"
+  ],
+  "UI_ART_02_UNLOCK": [
+   "수사 사건: 날뛰는 조커 해결 시 해금"
+  ],
+  "UI_ART_03_NAME": [
+   "중앙 복도"
+  ],
+  "UI_ART_03_UNLOCK": [
+   "수사 사건: 납치 해결 시 해금"
+  ],
+  "UI_ART_04_NAME": [
+   "교도소 지하"
+  ],
+  "UI_ART_04_UNLOCK": [
+   "수사 사건: 지하 60피트 해결 시 해금"
+  ],
+  "UI_ART_05_NAME": [
+   "중무장한 펭귄의 부하"
+  ],
+  "UI_ART_05_UNLOCK": [
+   "수사 사건: 날지 못하는 맹금 해결 시 해금"
+  ],
+  "UI_ART_06_NAME": [
+   "블랙 마스크의 부하"
+  ],
+  "UI_ART_06_UNLOCK": [
+   "수사 사건: 강행 탈옥 해결 시 해금"
+  ],
+  "UI_ART_07_NAME": [
+   "죽을 때까지"
+  ],
+  "UI_ART_07_UNLOCK": [
+   "수사 사건: 웃을 일이 아니다 해결 시 해금"
+  ],
+  "UI_ART_08_NAME": [
+   "감방 구역"
+  ],
+  "UI_ART_08_UNLOCK": [
+   "수사 사건: 감방이라는 새장 해결 시 해금"
+  ],
+  "UI_ART_09_NAME": [
+   "최후의 1인"
+  ],
+  "UI_ART_09_UNLOCK": [
+   "수사 사건: 최후의 저항 해결 시 해금"
+  ],
+  "UI_ART_10_NAME": [
+   "대기 감방"
+  ],
+  "UI_ART_10_UNLOCK": [
+   "수사 사건: 매수 경쟁 해결 시 해금"
+  ],
+  "UI_ART_11_NAME": [
+   "감시탑 교도관"
+  ],
+  "UI_ART_11_UNLOCK": [
+   "수사 사건: 퀸 선생의 지시 해결 시 해금"
+  ],
+  "UI_ART_12_NAME": [
+   "브론즈 타이거"
+  ],
+  "UI_ART_12_UNLOCK": [
+   "수사 사건: 목숨을 건 구출 해결 시 해금"
+  ],
+  "UI_ART_13_NAME": [
+   "배트클로"
+  ],
+  "UI_ART_13_UNLOCK": [
+   "수사 사건: 파워 플레이 해결 시 해금"
+  ],
+  "UI_ART_14_NAME": [
+   "고양이를 쫓아서"
+  ],
+  "UI_ART_14_UNLOCK": [
+   "수사 사건: 정보 수집 해결 시 해금"
+  ],
+  "UI_ART_15_NAME": [
+   "수감"
+  ],
+  "UI_ART_15_UNLOCK": [
+   "조커의 이빨을 모두 찾으면 해금"
+  ],
+  "UI_ART_16_NAME": [
+   "펭귄의 부하"
+  ],
+  "UI_ART_16_UNLOCK": [
+   "펭귄의 새장을 모두 찾으면 해금"
+  ],
+  "UI_ART_17_NAME": [
+   "무기 보관고로"
+  ],
+  "UI_ART_17_UNLOCK": [
+   "블랙 마스크를 모두 찾으면 해금"
+  ],
+  "UI_ART_18_NAME": [
+   "포식자 모드"
+  ],
+  "UI_ART_18_UNLOCK": [
+   "게임 클리어 시 해금"
+  ],
+  "UI_ART_SECRET_01_NAME": [
+   "펭귄의 부하 (경무장)"
+  ],
+  "UI_ART_SECRET_01_UNLOCK": [
+   "시크릿"
+  ],
+  "UI_ART_SECRET_02_NAME": [
+   "수감"
+  ],
+  "UI_ART_SECRET_02_UNLOCK": [
+   "시크릿"
+  ]
+ },
+ "ui_inventory.cloc": {
+  "INV_ARMOR_DESCRIPTION": [
+   "부품 4개를 모으면 피해 내성이 50%% 증가한다."
+  ],
+  "INV_ARMOR_TITLE": [
+   "아머"
+  ],
+  "INV_BAT_SUIT_TITLE": [
+   "배트슈트"
+  ],
+  "INV_BATARANG_DESCRIPTION": [
+   "배트맨의 상징적인 무기. 방심한 적을 기절시키거나 손이 닿지 않는 물체를 맞힐 때 사용한다."
+  ],
+  "INV_BATARANG_TITLE": [
+   "배터랭"
+  ],
+  "INV_BATCLAW_DESCRIPTION": [
+   "갈고리 모양의 발사체를 쏴서 손이 닿지 않는 물체를 끌어당길 수 있다."
+  ],
+  "INV_BATCLAW_TITLE": [
+   "배트클로"
+  ],
+  "INV_BLACKESTNIGHT_DESCRIPTION": [
+   "무덤에서 돌아온 배트맨의 슈트. 피해를 받지 않는다."
+  ],
+  "INV_BLACKESTNIGHT_TITLE": [
+   "블랙스트 나이트"
+  ],
+  "INV_CRYPTO_DESCRIPTION": [
+   "크립토 시퀀서로 블랙게이트 곳곳의 보안 단말기를 해킹할 수 있다. 일부 패널은 교도소 안에서 얻는 보안 키가 필요하다."
+  ],
+  "INV_CRYPTO_TITLE": [
+   "크립토 시퀀서"
+  ],
+  "INV_CRYPTOALPHA_HEADER": [
+   "알파"
+  ],
+  "INV_CRYPTOBETA_HEADER": [
+   "베타"
+  ],
+  "INV_CRYPTODELTA_HEADER": [
+   "델타"
+  ],
+  "INV_CRYPTOGAMMA_HEADER": [
+   "감마"
+  ],
+  "INV_CRYPTOKEYS_HEADER": [
+   "암호 키"
+  ],
+  "INV_EQUIP_TITLE": [
+   "장비"
+  ],
+  "INV_EQUIPPED_TITLE": [
+   "장비 중"
+  ],
+  "INV_EXPLOSIVE_HEADER": [
+   "폭발"
+  ],
+  "INV_GELLAUNCHER_DESCRIPTION": [
+   "공기압으로 폭발 젤을 발사하는 총. 젤은 원격으로 기폭할 수 있으며, 한 번에 3발까지 설치할 수 있다."
+  ],
+  "INV_GELLAUNCHER_TITLE": [
+   "젤 런처"
+  ],
+  "INV_GELUPGRADES_HEADER": [
+   "젤 업그레이드"
+  ],
+  "INV_GLUE_HEADER": [
+   "접착"
+  ],
+  "INV_GLUEGEL_DESCRIPTION": [
+   "카트리지를 기폭해 접착 젤을 퍼뜨려서 움직이는 물체를 붙잡아 멈출 수 있다."
+  ],
+  "INV_GLUEGEL_TITLE": [
+   "접착 젤 카트리지"
+  ],
+  "INV_GRAPNEL_DESCRIPTION": [
+   "그래플 건은 이동 장비 중 필수적인 도구다. 적절한 지점에 명중시키면 그 위치까지 몸을 끌어올린다."
+  ],
+  "INV_GRAPNEL_TITLE": [
+   "그래플 건"
+  ],
+  "INV_HEAVYGAUNTLETS_DESCRIPTION": [
+   "업그레이드할 때마다 전투 피해가 증가한다. 1회에 25%%, 2회에 50%%, 3회에 100%% 증가."
+  ],
+  "INV_HEAVYGAUNTLETS_TITLE": [
+   "헤비 건틀릿"
+  ],
+  "INV_INCOMPLETE_TITLE": [
+   "슈트 미완성"
+  ],
+  "INV_LEVEL01_HEADER": [
+   "레벨 01"
+  ],
+  "INV_LEVEL01_SH_TITLE": [
+   "[01]"
+  ],
+  "INV_LEVEL02_HEADER": [
+   "레벨 02"
+  ],
+  "INV_LEVEL02_SH_TITLE": [
+   "[02]"
+  ],
+  "INV_LEVEL03_HEADER": [
+   "레벨 03"
+  ],
+  "INV_LINELAUNCHER_DESCRIPTION": [
+   "벽과 벽 사이에 케이블을 쏴서 집라인을 만들 수 있다."
+  ],
+  "INV_LINELAUNCHER_TITLE": [
+   "라인 런처"
+  ],
+  "INV_MILLION_DESCRIPTION": [
+   "853세기 배트맨의 슈트. 받는 피해가 25%% 감소한다."
+  ],
+  "INV_MILLION_TITLE": [
+   "원 밀리언"
+  ],
+  "INV_MISSING_ITEM_TITLE": [
+   "???"
+  ],
+  "INV_MISSING_ITEMCOMPACT_TITLE": [
+   "???"
+  ],
+  "INV_NEW52_DESCRIPTION": [
+   "New 52의 새 슈트. 주는 피해가 25%% 증가한다."
+  ],
+  "INV_NEW52_TITLE": [
+   "New 52"
+  ],
+  "INV_ORIGINS_DESCRIPTION": [
+   "최소한의 방어력과 공격력을 갖춘 기본 배트슈트."
+  ],
+  "INV_ORIGINS_TITLE": [
+   "아캄 오리진"
+  ],
+  "INV_PROXIMITYGEL_DESCRIPTION": [
+   "벽이나 바닥에 발사한 근접 폭발 젤은 적이 다가오면 기폭한다. 원격 기폭도 가능."
+  ],
+  "INV_PROXIMITYGEL_TITLE": [
+   "근접 젤 카트리지"
+  ],
+  "INV_PROXY_HEADER": [
+   "근접"
+  ],
+  "INV_REDSON_DESCRIPTION": [
+   "레드 선의 배트맨코프 슈트. 체력 회복률이 50%% 증가한다."
+  ],
+  "INV_REDSON_TITLE": [
+   "레드 선"
+  ],
+  "INV_RUSH_DESCRIPTION": [
+   "체력이 가득 찬 상태로 적을 쓰러뜨리면 러시 바가 충전된다. 러시 바가 늘수록 주는 피해가 증가하며, 피해를 받으면 러시 바가 사라진다."
+  ],
+  "INV_RUSH_TITLE": [
+   "러시"
+  ],
+  "INV_SHOCKBATARANG_DESCRIPTION": [
+   "장치에 전원을 넣거나 합선시킬 수 있는 전기 배터랭. 두 쇼크 배터랭 사이에 아크 방전을 일으켜 장치를 작동시키거나 합선시킨다."
+  ],
+  "INV_SHOCKBATARANG_TITLE": [
+   "쇼크 배터랭"
+  ],
+  "INV_SUIT_HOWTO_UNLOCK": [
+   "부품 5개를 모으면 슈트 해금"
+  ],
+  "INV_SUITS_TITLE": [
+   "슈트"
+  ],
+  "INV_TIGHTROPE_DESCRIPTION": [
+   "라인 런처 사용 시 케이블 위에 올라타 줄타기를 할 수 있다."
+  ],
+  "INV_TIGHTROPE_TITLE": [
+   "줄타기"
+  ],
+  "INV_UPGRADES_HEADER": [
+   "업그레이드"
+  ]
+ },
+ "ui_map_overview_selection.cloc": {
+  "UI_HUB_SELECT_CELL_BLOCKS_REAR": [
+   "//감방 구역 후문"
+  ],
+  "UI_HUB_SELECT_IND_GENERATOR": [
+   "//공장 구역 발전기"
+  ],
+  "UI_HUB_UNKNOWN": [
+   "//구역 정보 없음"
+  ],
+  "UI_MAP_ARKHAM_CTR": [
+   "아캄 동 입구"
+  ],
+  "UI_MAP_ARKHAM_NO": [
+   "아캄 동 입구 %DARKGRAY%[미발견]"
+  ],
+  "UI_MAP_ARKHAM_YES": [
+   "아캄 동 입구 %GREEN%[발견]"
+  ],
+  "UI_MAP_BLACKMASK_CTR": [
+   "블랙 마스크"
+  ],
+  "UI_MAP_BLACKMASK_NO": [
+   "블랙 마스크 %DARKGRAY%[미체포]"
+  ],
+  "UI_MAP_BLACKMASK_YES": [
+   "블랙 마스크 %GREEN%[체포]"
+  ],
+  "UI_MAP_CAPTURED_CTR": [
+   "%GREEN%[체포]"
+  ],
+  "UI_MAP_CODES_CTR": [
+   "아캄 동 키 코드"
+  ],
+  "UI_MAP_CODES_NO": [
+   "아캄 동 키 코드 %DARKGRAY%[미발견]"
+  ],
+  "UI_MAP_CODES_YES": [
+   "아캄 동 키 코드 %GREEN%[발견]"
+  ],
+  "UI_MAP_EXPLORED": [
+   "탐색 완료"
+  ],
+  "UI_MAP_FOUND_CTR": [
+   "%GREEN%[발견]"
+  ],
+  "UI_MAP_JOKER_CTR": [
+   "조커"
+  ],
+  "UI_MAP_JOKER_NO": [
+   "조커 %DARKGRAY%[미체포]"
+  ],
+  "UI_MAP_JOKER_YES": [
+   "조커 %GREEN%[체포]"
+  ],
+  "UI_MAP_NOT_CAPTURED_CTR": [
+   "%DARKGRAY%[미체포]"
+  ],
+  "UI_MAP_NOT_FOUND_CTR": [
+   "%DARKGRAY%[미발견]"
+  ],
+  "UI_MAP_OVERVIEW_SELECT_ADMIN": [
+   "//관리동"
+  ],
+  "UI_MAP_OVERVIEW_SELECT_CELL_BLOCKS": [
+   "//감방 구역"
+  ],
+  "UI_MAP_OVERVIEW_SELECT_IND": [
+   "//공장 구역"
+  ],
+  "UI_MAP_OVERVIEW_SELECT_LIGHTHOUSE": [
+   "//감시탑"
+  ],
+  "UI_MAP_PENGUIN_CTR": [
+   "펭귄"
+  ],
+  "UI_MAP_PENGUIN_NO": [
+   "펭귄 %DARKGRAY%[미체포]"
+  ],
+  "UI_MAP_PENGUIN_YES": [
+   "펭귄 %GREEN%[체포]"
+  ],
+  "UI_MAP_POWER_CTR": [
+   "아캄 동 발전기"
+  ],
+  "UI_MAP_POWER_NO": [
+   "아캄 동 발전기 %DARKGRAY%[정지]"
+  ],
+  "UI_MAP_POWER_YES": [
+   "아캄 동 발전기 %GREEN%[전력 복구]"
+  ],
+  "UI_MAP_SECRETS": [
+   "시크릿"
+  ],
+  "UI_PM_CANCEL": [
+   "%CANCEL%%DARKGRAY%뒤로"
+  ],
+  "UI_PM_CHOOSE": [
+   "목적지 선택"
+  ],
+  "UI_PM_CONTINUE": [
+   "%CONFIRM%계속"
+  ],
+  "UI_PM_CYCLE": [
+   "%ZOOM%%DARKGRAY%선택 변경"
+  ],
+  "UI_PM_FINALWARNING": [
+   "캣우먼을 쫓아 감시탑으로 가겠습니까? 블랙게이트로 돌아올 수 없게 됩니다."
+  ],
+  "UI_PM_RETURN": [
+   "%CONFIRM%돌아가기"
+  ],
+  "UI_PM_TRAVEL": [
+   "%CONFIRM%이동"
+  ],
+  "UI_PM_VIEWMAP": [
+   "%CONFIRM%%DARKGRAY%맵 보기"
+  ],
+  "UI_PM_VIEWMAP_CTR": [
+   "%CONFIRM%맵 보기"
+  ],
+  "UI_POWER_FOUND_CTR": [
+   "%GREEN%[전력 복구]"
+  ],
+  "UI_POWER_NOT_FOUND_CTR": [
+   "%DARKGRAY%[정지]"
+  ]
+ },
+ "vo_anim_03_intro_ending.cloc": {
+  "03_Intro_Ending": [
+   "캣우먼: 첫 데이트를 이렇게 끝내다니. 신사인 줄 알았는데.",
+   "배트맨: 봐준 거다. 뭘 훔쳤지?",
+   "캣우먼: 그냥 파일이야. 의뢰인한테 벌써 보냈어.",
+   "배트맨: 파일에 뭐가 들었는지 말해. 블랙게이트보다는 나은 곳으로 보내주지.",
+   "캣우먼: 난 위험한 게 좋아. 게다가 파일 내용 따윈 관심 없어.",
+   "내 목적은 훔치는 거니까.",
+   "경찰: 고담 시경이다! 손을 보이는 곳에 들어!",
+   "캣우먼: 제법인데..."
+  ]
+ },
+ "vo_anim_14_warden_rescue.cloc": {
+  "14_Warden_Rescue": [
+   "배트맨: 다친 데는?",
+   "소장: 없네. 내 교도소가 이 꼴이 된 게 화가 날 뿐이지.",
+   "배트맨: 조커가 당신 집무실에 틀어박혔어. 다른 길은...?",
+   "소장: 있네. 책장 뒤에 비상 해치가 있어.",
+   "블랙게이트 지하 하수도로 이어지지.",
+   "폭동이 감당 못 할 지경이 될 때를 대비해 교도소 이사회가 만들게 했네.",
+   "배트맨: 이런 사태가 났는데 왜 쓰지 않았지?",
+   "소장: 직원들을 두고 갈 순 없지. 그런데 조커가 탈출 해치를 알아낸 게 틀림없어. 거기로 들어와서 날 붙잡았네.",
+   "배트맨: 공장 시설에서 하수도로 내려가 거기서 올라가야겠군. 조커도 그걸 알아... 소장은 안전한 곳을 찾아서—",
+   "소장: 부하들이 날 필요로 하는데 숨어 있을 순 없네. 블랙 마스크 같은 놈에게 눈을 잃었어도 부하들 목숨은 절대 아무에게도 넘기지 않아.",
+   "자네는 조커를 처리하게. 난 부하들을 돕겠네.",
+   "배트맨: 알겠어."
+  ]
+ },
+ "vo_anim_23_bm_opens_vault_c.cloc": {
+  "23_BM_Opens_Vault_C": [
+   "배트맨: 끝났다. 인질을 풀어줘.",
+   "캣우먼: 이 감방에 들여보내줘서 고마워.",
+   "나 혼자서도 할 수 있었겠지만, 굳이 위험을 감수할 필요는 없잖아?",
+   "배트맨: 인질은 처음부터 없었군. 애초에 노린 건 베인이었어.",
+   "캣우먼: 옥상에서 날 잡았을 때부터 말이지.",
+   "미안. 원래는 당신한테 잡혀서 블랙게이트에 수감되는 게 계획이었어.",
+   "그런데 당신이 여기 나타나서 계획을 바꾼 거야.",
+   "배트맨: 왜 베인을 풀어주려는 거지?",
+   "캣우먼: 그런 괴물한텐 가까이 가고 싶지도 않아. 정말이야.",
+   "죽고 싶은 생각은 없거든! 그냥 빚을 갚으려고 한 거야.",
+   "배트맨: 누구한테 진 빚이지?",
+   "캣우먼: 그건 말 못 해, 잘생긴 양반. 의뢰인은 비밀이야.",
+   "난 그냥 물건을 받아서 배달할 뿐이야.",
+   "배트맨: 캣우먼, 그게 누구든 베인이 다시 힘을 얻으면 어떻게 될지 알아?",
+   "얼마나 많은 사람이 다치고... 죽을지?",
+   "캣우먼: 그런 건 생각 안 하는 주의야. 그래야 일도 하고 밤에 잠도 자지.",
+   "지금은 베인을 여기서 데리고 나가야 해.",
+   "배트맨: 날 쓰러뜨리고 가야 할 거다.",
+   "캣우먼: 언젠가 꼭 시험해 보겠지만, 이번엔 그냥 여기서 나가게 해줘야겠어.",
+   "배트맨: 내가 놔줄 것 같나?",
+   "캣우먼: 응. 블랙 마스크는 묘한 인간이라, 원한을 갚을 수만 있다면 누구하고든 손을 잡더라고.",
+   "블랙 마스크가 배전반 오버라이드 도구를 줬어. 교도소 전체를 날려버릴 만한 대규모 전력 서지를 일으키는 법도 알려줬고. 그래서 설정해 두고 왔지.",
+   "배트맨: 대체 무슨 생각으로—",
+   "캣우먼: 하루 종일 수다 떨어도 되지만, 서두르는 게 좋지 않을까?",
+   "타이머가 걸려 있거든. 어디부터 찾아야 할지는 알려줄게.",
+   "배트맨: 이걸로 끝이라고 생각하지 마.",
+   "캣우먼: 나도 그러길 바라.",
+   "자, 덩치 씨. 이만 실례하자고."
+  ]
+ },
+ "vo_anim_28_after_credits_ending.cloc": {
+  "28_After_Credits_Ending": [
+   "???: 캣우먼은?",
+   "플래그: 명령대로 석방했습니다, 국장님.",
+   "기록은 말소됐고, 국가로부터 비밀리에 감사를 받았습니다.",
+   "왜 그 여자에게 고삐를 채우지 않는지 이해가 안 됩니다만.",
+   "최우선 임무는 달성하지 못했습니다. 체면을 지키려고 베인을 돌려줘야 했고요.",
+   "???: 그쯤 해둬요, 플래그 대위.",
+   "캣우먼은 좋은 일을 해줬어요.",
+   "플래그: 무슨 일 말입니까, 국장님? 그 변태 둘에게 우릴 이끈 것뿐 아닙니까?",
+   "월러: 당신 눈엔 변태로 보이겠지만...",
+   "내 눈엔 병사로 보여요."
+  ]
+ },
+ "vo_anim_30_waller_cutaway_2.cloc": {
+  "30_Waller_Cutaway_2": [
+   "???: 배트맨과 맨손으로 싸워서 한 발짝 차이라니... 대단하군."
+  ]
+ },
+ "vo_game_cellblocks.cloc": {
+  "Play_BM_CW_VO_HUD_004a": [
+   "배트맨: 게이트가 보이지만 지나갈 수 없겠군."
+  ],
+  "Play_BM_CW_VO_HUD_004a2": [
+   "캣우먼, 운동장으로 가는 다른 길이 있나?"
+  ],
+  "Play_BM_CW_VO_HUD_004b": [
+   "캣우먼: 지금 있는 곳에선 무리야. 당신의 배트 뭐시기는 못 써?"
+  ],
+  "Play_BM_CW_VO_HUD_004c": [
+   "배트맨: 이번엔 못 써."
+  ],
+  "Play_BM_CW_VO_HUD_004d": [
+   "캣우먼: 그래. 아까 이상한 방을 하나 찾았는데... 웨인테크 제품이 산더미처럼 있었어.",
+   "무기랑 군용품 만드는 그 회사 말이야. 알지?",
+   "쓸 만한 게 있을지도 몰라."
+  ],
+  "Play_BM_CW_VO_HUD_005a": [
+   "배트맨: 펭귄의 핏자국이 여기서 끊겼다... 문은 반대편에서 잠겼군. 캣우먼, 감방 구역 아래로 내려가는 다른 길이 있나?"
+  ],
+  "Play_BM_CW_VO_HUD_005b": [
+   "캣우먼: 시설 서쪽의 낡은 반입구로 지하에 갈 수 있는 것 같아. 거기로 가봐."
+  ],
+  "Play_BM_CW_VO_HUD_010a": [
+   "배트맨: 펭귄은 처리했다, 캣우먼. 이제 아캄 동에 들어갈 수 있어."
+  ],
+  "Play_BM_CW_VO_HUD_010b_1": [
+   "캣우먼: 잘했어. 그럼 그 광대의 비웃음을 지워버리고 오늘은 끝내자고."
+  ],
+  "Play_BM_CW_VO_HUD_010b_2": [
+   "캣우먼: 착하네. 블랙 마스크는 각오해야겠어. 남은 건 그놈뿐이니까."
+  ],
+  "Play_BM_CW_VO_HUD_010b_3": [
+   "캣우먼: 잘했어. 다음은 조커? 아니면 블랙 마스크?"
+  ],
+  "Play_BM_CW_VO_HUD_010c": [
+   "배트맨: 놈이 웨인테크 군수품을 가졌다는 걸 말하지 않은 이유라도 있나? 알았으면 도움이 됐을 텐데."
+  ],
+  "Play_BM_CW_VO_HUD_010d": [
+   "캣우먼: 그러게. 말했으면 도움이 됐겠네. 깜빡했나 봐."
+  ],
+  "Play_BM_VO_IG_001": [
+   "배트맨: 펭귄, 무기를 어디로 옮기는 거지...?",
+   "내가 너라면 인질을 단단히 지키겠지.",
+   "그렇다면 저 엘리베이터가 아캄 동으로 이어지는 건가..."
+  ],
+  "Play_BM_VO_IG_002": [
+   "배트맨: 서보 잠금장치군. 너무 낡아서 크립토 시퀀서가 안 통해."
+  ],
+  "Play_BM_VO_IG_003": [
+   "배트맨: 저게 운동장으로 가는 길인가..."
+  ],
+  "Play_BM_VO_IG_003a": [
+   "배트맨: 펭귄은 어디로 도망쳤지?"
+  ],
+  "Play_BM_VO_IG_004": [
+   "배트맨: 이걸로 게이트를 열 수 있겠군... 곧장 운동장으로 간다."
+  ],
+  "Play_BM_VO_IG_005": [
+   "배트맨: 펭귄의 피다. 핏자국이 저 잔해 더미에서 끊겼군..."
+  ],
+  "Play_BM_VO_IG_012": [
+   "배트맨: 안 되는군. 누가 잠금장치에 손을 댔어. 수동으로 열 수밖에."
+  ],
+  "Play_BM_VO_IG_015": [
+   "배트맨: 펭귄이 어디로 갔는지 알아내야 한다."
+  ],
+  "Play_CW_BM_VO_HUD_001a": [
+   "캣우먼: 펭귄은 이 구역 어딘가에서 뒤뚱거리고 있나 봐. 놈을 찾으면 아캄 동도 찾을 수 있을 거야."
+  ],
+  "Play_CW_BM_VO_HUD_001b": [
+   "배트맨: 알았다."
+  ],
+  "Play_CW_BM_VO_HUD_001c": [
+   "캣우먼: 잘 들어, 아캄 동 입구를 찾는 거야. 영웅 놀이하면서 소란 피울 때가 아니라고."
+  ],
+  "Play_CW_BM_VO_HUD_001d": [
+   "배트맨: 넌 네 뒤나 걱정해. 나도 할 일이 있다."
+  ],
+  "Play_CW_BM_VO_HUD_001e": [
+   "캣우먼: 음... 매력적인 뒤태인 건 확실하지."
+  ],
+  "Play_CW_BM_VO_HUD_002a": [
+   "캣우먼: 미남 씨, 죄수들이 운동장에서 파이트 클럽을 시작했나 봐. 자기들끼리 알아서 치고받으니 당신 수고를 덜었네!",
+   "그래도 가 봐. 펭귄이 구경하고 있을지도 몰라."
+  ],
+  "Play_CW_THUG_VO_IG_010a": [
+   "캣우먼: 이봐, 아가씨한테 좀 친절하게 대해줄래? 난 여기서 나가고 싶을 뿐이야."
+  ],
+  "Play_CW_THUG_VO_IG_010b": [
+   "펭귄의 부하: 보스가 할 말이 있대."
+  ],
+  "Play_CW_THUG_VO_IG_010c": [
+   "블랙 마스크의 부하: 그렇겐 안 되지. 이 여자는 내 거야."
+  ],
+  "Play_CW_THUG_VO_IG_010d": [
+   "캣우먼: 왜들 이렇게 날 찾는 거야?"
+  ],
+  "Play_CW_THUG_VO_IG_010e": [
+   "조커의 부하: 내가 알 게 뭐야. 명령받았으니 그뿐이지."
+  ],
+  "Play_CW_VO_HUD_006": [
+   "캣우먼: 체크, 체크, 원, 투... 이거 한번 해보고 싶었어. 자, 잘생긴 양반, 기억해. 조커는 관리동, 블랙 마스크는 공장 시설, 펭귄은 여기 감방 구역 어딘가에 있어. 그럼 일 시작해. 도움이 필요하면 불러. 어차피 \"도와줘\"라는 말은 죽어도 안 하겠지만."
+  ],
+  "Play_CW_VO_IG_007a": [
+   "캣우먼: 아팠어?"
+  ],
+  "Play_CW_VO_IG_007b": [
+   "캣우먼: 예방 주사는 맞았겠지? 고양이한테 병 옮기지 마."
+  ],
+  "Play_CW_VO_IG_007c": [
+   "캣우먼: 발톱은 이럴 때 쓰는 거야."
+  ],
+  "Play_CW_VO_IG_007d": [
+   "캣우먼: 날 어떤 여자로 보는 거야? 아마 그게 맞겠지만."
+  ],
+  "Play_CW_VO_IG_007e": [
+   "캣우먼: 이건 내가 이기겠는데."
+  ],
+  "Play_CW_VO_IG_007f": [
+   "캣우먼: 제대로 싸우는 거 맞아?"
+  ],
+  "Play_CW_VO_IG_008a": [
+   "캣우먼: 고글에 김 서리겠어."
+  ],
+  "Play_CW_VO_IG_008b": [
+   "캣우먼: 꼬리가 있었으면 털이 곤두섰을 거야."
+  ],
+  "Play_CW_VO_IG_008c": [
+   "캣우먼: 방금 건 아팠어."
+  ],
+  "Play_CW_VO_IG_008d": [
+   "캣우먼: 여자한테 손찌검하는 거야?"
+  ],
+  "Play_CW_VO_IG_009a": [
+   "캣우먼: 뭐야? 안 보여?"
+  ],
+  "Play_CW_VO_IG_009b": [
+   "캣우먼: 정말 박쥐만큼 눈이 나쁘구나."
+  ],
+  "Play_CW_VO_IG_009c": [
+   "캣우먼: *Different types of laughter*"
+  ],
+  "Play_CW_VO_IG_009d": [
+   "캣우먼: 준비됐어? 간다!"
+  ],
+  "Play_CW_VO_IG_009e": [
+   "캣우먼: 쉿, 금방 끝나."
+  ],
+  "Play_CW_VO_IG_009f": [
+   "캣우먼: 서두르지 마."
+  ],
+  "Play_CW_VO_IG_009g": [
+   "캣우먼: 이쪽이야."
+  ],
+  "Play_CW_VO_IG_009h": [
+   "캣우먼: 아니, 이쪽이라니까."
+  ],
+  "Play_CW_VO_IG_009i": [
+   "캣우먼: 자, 난 어디 있게?"
+  ],
+  "Play_Inter_VO_IG_001": [
+   "보안 메시지: 교도소 내 파괴 행위 감지. 폭동 진압용 진정제를 살포했습니다. 침착하게 심호흡하십시오."
+  ],
+  "Play_PEN_VO_IG_001a": [
+   "펭귄: 터너, 이 멍청아! 춤추지 말고 패!"
+  ],
+  "Play_PEN_VO_IG_001b": [
+   "펭귄: 펀치! 킥! 뭐라도 해!"
+  ],
+  "Play_THUG_PEN_VO_IG_001a": [
+   "꼼꼼한 깡패: 보스가 총을 전부 한데 모아 두래."
+  ],
+  "Play_THUG_PEN_VO_IG_001b": [
+   "대충대충 깡패: 이걸 왜 이렇게 많이 필요로 하는 거야?"
+  ],
+  "Play_THUG_PEN_VO_IG_001d": [
+   "꼼꼼한 깡패: 알 게 뭐야. 펭귄 둥지에선 펭귄 말을 따르는 거야."
+  ],
+  "Play_THUG_PEN_VO_IG_002a": [
+   "짜증 난 깡패: 이 대회에 담배 10갑을 걸었다고. 무슨 일이 있어도 보러 갈 거야!"
+  ],
+  "Play_THUG_PEN_VO_IG_002b": [
+   "약삭빠른 깡패: 펭귄 님이 여기 있으라고 했잖아? 움직이지 마.",
+   "놓칠 것도 없어. 보스가 터너를 본보기로 삼는 것뿐이야."
+  ]
+ },
+ "vo_game_industrial.cloc": {
+  "Play_BLMA_VO_IG_001": [
+   "블랙 마스크: 언제까지 어둠 속에 숨어 있을 순 없어!"
+  ],
+  "Play_BLMA_VO_IG_002": [
+   "블랙 마스크: 어디 있냐!"
+  ],
+  "Play_BLMA_VO_IG_003": [
+   "블랙 마스크: 나와라, 이 겁쟁이 놈아!"
+  ],
+  "Play_BLMA_VO_IG_004": [
+   "블랙 마스크: 나와라, 박쥐 양반!"
+  ],
+  "Play_BM_CW_VO_HUD_007a": [
+   "배트맨: 저 톱니바퀴를 고정해야 한다. 캣우먼, 이 근처에 무기고가 있나?"
+  ],
+  "Play_BM_CW_VO_HUD_007b": [
+   "캣우먼: 감방 구역에 보관고 같은 게 있었어. 웨인테크 잠금장치가 걸려 있었고. 시간 아까워서 해킹은 안 했어."
+  ],
+  "Play_BM_CW_VO_HUD_007c": [
+   "배트맨: 탄약 보관고겠군. 쓸 만하겠어."
+  ],
+  "Play_BM_CW_VO_HUD_008a": [
+   "배트맨: 블랙 마스크가 블랙게이트의 발전기에 과부하를 걸어 연쇄 반응을 일으키려 하고 있다."
+  ],
+  "Play_BM_CW_VO_HUD_008b": [
+   "캣우먼: 좋네. 신경 쓸 건 아캄 동 발전기뿐이고, 그건 아직 꺼져 있잖아!"
+  ],
+  "Play_BM_CW_VO_HUD_008c": [
+   "배트맨: 과부하를 막지 못하면 아캄 동 자체가 사라진다. 블랙게이트 전체가 날아가."
+  ],
+  "Play_BM_CW_VO_HUD_008d": [
+   "캣우먼: 아, 그래. 그럼 그때 여기 없도록 할게. 당신은 당신 일 해. 아무튼 아캄 동을 열려면 전력이 필요해."
+  ],
+  "Play_BM_CW_VO_HUD_011a": [
+   "캣우먼: 아직 가르릉거릴 수 있는 걸 보니 발전기는 당신이 처리했나 보네?"
+  ],
+  "Play_BM_CW_VO_HUD_011b": [
+   "배트맨: 아캄 발전기도 가동시켰다."
+  ],
+  "Play_BM_CW_VO_HUD_011c_1": [
+   "캣우먼: 박쥐 씨한테 일등상을 줘야겠네. 다음 타깃은 누구? 조커? 아니면 펭귄?"
+  ],
+  "Play_BM_CW_VO_HUD_011c_2": [
+   "캣우먼: 하이파이브는 나중에 하자... 지금은 조커를 쓰러뜨려야 해."
+  ],
+  "Play_BM_CW_VO_HUD_011c_3": [
+   "캣우먼: 역시 내 박쥐 씨야... 그런데 펭귄이 아직 밖에서 어슬렁거려. 그냥 둘 순 없지."
+  ],
+  "Play_BM_VO_IG_008": [
+   "배트맨: 사태가 걷잡을 수 없게 되기 전에 블랙 마스크를 쫓아야 한다."
+  ],
+  "Play_BM_VO_IG_009": [
+   "배트맨: 블랙 마스크가 다른 발전기를 오버라이드해서 전력 경로를 더 많이 바꾼 게 분명해."
+  ],
+  "Play_BM_VO_IG_010": [
+   "배트맨: 여기서 이 구역 전력을 복구할 수 있다. 하지만 교도소 보안 오버라이드 코드가 없군.",
+   "잠깐, 블랙 마스크가 죽인 기술자가 키 카드를 떨어뜨렸지. 그걸 쓰면 될지도 몰라."
+  ],
+  "Play_BM_VO_IG_020": [
+   "배트맨: 발전기를 안정시키지 않으면 블랙 마스크에게 갈 수 없다."
+  ],
+  "Play_BM_VO_IG_021": [
+   "배트맨: 그런디."
+  ],
+  "Play_THUG_BM_VO_IG_001a": [
+   "자신만만한 깡패: 조커네 졸개들이 얼굴을 내밀면 먼저 쏘고 나중에 웃어줘. 알았지?"
+  ],
+  "Play_THUG_BM_VO_IG_001b": [
+   "반항적인 깡패: 보스는 왜 조커 따위를 신경 쓰는 거야?"
+  ],
+  "Play_THUG_BM_VO_IG_001c": [
+   "자신만만한 깡패: 뭐든 상관없잖아. 빨간 코에 큰 신발 신은 놈이 있으면 죽이면 돼."
+  ],
+  "Play_THUG_JOKER_VO_IG_001a": [
+   "짜증 난 깡패: 긴장 좀 해. 언제 와도 이상하지 않다고 보스가 그랬잖아."
+  ],
+  "Play_THUG_JOKER_VO_IG_001b": [
+   "멍청한 깡패: 누가 온다고?"
+  ],
+  "Play_THUG_JOKER_VO_IG_001c": [
+   "짜증 난 깡패: 배트맨 말이야, 멍청아."
+  ],
+  "Play_THUG_JOKER_VO_IG_001d": [
+   "멍청한 깡패: 배트맨? 진짜로?"
+  ],
+  "Play_THUG_JOKER_VO_IG_001e": [
+   "짜증 난 깡패: 사인이라도 받고 싶냐? 움직이는 건 무조건 쏴."
+  ]
+ },
+ "ui_area_load_screen.cloc": {
+  "UI_HUB_LOAD_ADMIN": [
+   "관리동"
+  ],
+  "UI_HUB_LOAD_ARKHAM": [
+   "아캄 동"
+  ],
+  "UI_HUB_LOAD_CELLBLOCKS": [
+   "감방 구역"
+  ],
+  "UI_HUB_LOAD_GOTHAM": [
+   "고담 시티"
+  ],
+  "UI_HUB_LOAD_IND": [
+   "공장 구역"
+  ],
+  "UI_HUB_LOAD_LIGHTHOUSE": [
+   "감시탑"
+  ],
+  "UI_HUB_TWOWEEKSLATER": [
+   "2주 후"
+  ]
+ },
+ "ui_frontend_movies.cloc": {
+  "MOVIE TITLE": [
+   ""
+  ],
+  "UI_MOVIE_ARKHAM_WING": [
+   "아캄 동"
+  ],
+  "UI_MOVIE_ARRIVE_AT_BLACKGATE": [
+   "도착"
+  ],
+  "UI_MOVIE_BLACKMASK_INTRO": [
+   "블랙 마스크와의 대결"
+  ],
+  "UI_MOVIE_BLACKMASK_OUTRO": [
+   "블랙 마스크 패배"
+  ],
+  "UI_MOVIE_BLACKMASK_RUN_IN": [
+   "블랙 마스크와의 대면"
+  ],
+  "UI_MOVIE_BLACKMASK_SECRET": [
+   "시크릿 엔딩 블랙 마스크"
+  ],
+  "UI_MOVIE_BRONZE_TIGER_DEFEAT": [
+   "타이거 패배"
+  ],
+  "UI_MOVIE_CATWOMAN": [
+   "고양이"
+  ],
+  "UI_MOVIE_CATWOMAN_CAPTURED": [
+   "붙잡힌 캣우먼"
+  ],
+  "UI_MOVIE_CATWOMAN_FIGHT_INTRO": [
+   "캣 파이트"
+  ],
+  "UI_MOVIE_CATWOMAN_FIGHT_OUTRO": [
+   "캣우먼 패배"
+  ],
+  "UI_MOVIE_DEADSHOT_INTRO": [
+   "데드샷과의 대결"
+  ],
+  "UI_MOVIE_DEADSHOT_OUTRO": [
+   "데드샷 패배"
+  ],
+  "UI_MOVIE_FIND_CATWOMAN": [
+   "낯익은 얼굴"
+  ],
+  "UI_MOVIE_GORDON_MEETING": [
+   "고든과의 만남"
+  ],
+  "UI_MOVIE_JOKER_INTRO": [
+   "조커와의 대결 인트로"
+  ],
+  "UI_MOVIE_JOKER_OUTRO": [
+   "조커 패배"
+  ],
+  "UI_MOVIE_JOKER_RUN_IN": [
+   "조커와의 대면"
+  ],
+  "UI_MOVIE_JOKER_SECRET": [
+   "시크릿 엔딩 조커"
+  ],
+  "UI_MOVIE_OPENING": [
+   "고담 오프닝"
+  ],
+  "UI_MOVIE_OPENING_VAULT_A": [
+   "금고: 조커 라스트"
+  ],
+  "UI_MOVIE_OPENING_VAULT_B": [
+   "금고: 펭귄 라스트"
+  ],
+  "UI_MOVIE_OPENING_VAULT_C": [
+   "금고: 블랙 마스크 라스트"
+  ],
+  "UI_MOVIE_PENGUIN_INTRO": [
+   "펭귄과의 대결"
+  ],
+  "UI_MOVIE_PENGUIN_OUTRO": [
+   "펭귄 패배"
+  ],
+  "UI_MOVIE_PENGUIN_RUN_IN": [
+   "펭귄과의 대면"
+  ],
+  "UI_MOVIE_PENGUIN_SECRET": [
+   "시크릿 엔딩 펭귄"
+  ],
+  "UI_MOVIE_WALLER_CUTAWAY": [
+   "감시자"
+  ],
+  "UI_MOVIE_WALLER_CUTAWAY_BRONZETIGER": [
+   "난폭자"
+  ],
+  "UI_MOVIE_WALLER_CUTAWAY_DEADSHOT": [
+   "나이스 샷"
+  ],
+  "UI_MOVIE_WALLER_END": [
+   "스카우트"
+  ],
+  "UI_MOVIE_WARDEN": [
+   "소장 구출"
+  ]
+ },
+ "ui_global_popups_detectivecases.cloc": {
+  "DC_01_GROUNDZERO_TITLE": [
+   "%GREEN%그라운드 제로%WHITE%"
+  ],
+  "DC_01_ITEMA_PROBE_ANALZYER": [
+   "수사 사건 단서: 그을린 롱노즈 펜치"
+  ],
+  "DC_01_ITEMA_PROBE_NAME": [
+   "그을린 롱노즈 펜치"
+  ],
+  "DC_01_ITEMB_CURVEDMETAL_ANALZYER": [
+   "수사 사건 단서: 금속 팔찌의 일부"
+  ],
+  "DC_01_ITEMB_CURVEDMETAL_NAME": [
+   "금속 팔찌의 일부"
+  ],
+  "DC_01_ITEMC_RUBBLE_ANALZYER": [
+   "수사 사건 단서: 잔해 파편"
+  ],
+  "DC_01_ITEMC_RUBBLE_NAME": [
+   "잔해 파편"
+  ],
+  "DC_02_ITEMA_GASMASK_ANALYZER": [
+   "수사 사건 단서: 경찰용 방독면"
+  ],
+  "DC_02_ITEMA_GASMASK_NAME": [
+   "경찰용 방독면"
+  ],
+  "DC_02_ITEMB_FOODCANS_ANALYZER": [
+   "수사 사건 단서: 스프레이식 식품 캔"
+  ],
+  "DC_02_ITEMB_FOODCANS_NAME": [
+   "스프레이식 식품 캔"
+  ],
+  "DC_02_ITEMC_PIPES_ANALYZER": [
+   "수사 사건 단서: 금속 파이프 뭉치"
+  ],
+  "DC_02_ITEMC_PIPES_NAME": [
+   "금속 파이프 뭉치"
+  ],
+  "DC_02_ITEMD_DEADGUARD_ANALYZER": [
+   "수사 사건 단서: 교도관의 시체"
+  ],
+  "DC_02_ITEMD_DEADGUARD_NAME": [
+   "교도관의 시체"
+  ],
+  "DC_02_JOKERWILD_TITLE": [
+   "%GREEN%날뛰는 조커%WHITE%"
+  ],
+  "DC_03_ITEMA_ASSISTWARDEN_ANALYZER": [
+   "수사 사건 단서: 교도소 부소장(사망)"
+  ],
+  "DC_03_ITEMA_ASSISTWARDEN_NAME": [
+   "교도소 부소장(사망)"
+  ],
+  "DC_03_ITEMB_MAP_ANALYZER": [
+   "수사 사건 단서: 손으로 그린 관리동 지도"
+  ],
+  "DC_03_ITEMB_MAP_NAME": [
+   "손으로 그린 관리동 지도"
+  ],
+  "DC_03_ITEMC_RING_ANALYZER": [
+   "수사 사건 단서: 졸업 반지"
+  ],
+  "DC_03_ITEMC_RING_NAME": [
+   "졸업 반지"
+  ],
+  "DC_03_ITEMD_GLASSEYE_ANALYZER": [
+   "수사 사건 단서: 유리 의안"
+  ],
+  "DC_03_ITEMD_GLASSEYE_NAME": [
+   "유리 의안"
+  ],
+  "DC_03_KIDNAPPED_TITLE": [
+   "%GREEN%납치%WHITE%"
+  ],
+  "DC_04_ITEMA_BONES_ANALYZER": [
+   "수사 사건 단서: 인골 더미"
+  ],
+  "DC_04_ITEMA_BONES_NAME": [
+   "인골 더미"
+  ],
+  "DC_04_ITEMB_PLANTMATTER_ANALYZER": [
+   "수사 사건 단서: 식물"
+  ],
+  "DC_04_ITEMB_PLANTMATTER_NAME": [
+   "식물"
+  ],
+  "DC_04_ITEMC_FLYER_ANALYZER": [
+   "수사 사건 단서: 서커스 전단지"
+  ],
+  "DC_04_ITEMC_FLYER_NAME": [
+   "서커스 전단지"
+  ],
+  "DC_04_SIXTYFEET_TITLE": [
+   "%GREEN%지하 60피트%WHITE%"
+  ],
+  "DC_05_BIRDOFPREY_TITLE": [
+   "%GREEN%날지 못하는 맹금%WHITE%"
+  ],
+  "DC_05_ITEMA_TORCH_ANALYZER": [
+   "수사 사건 단서: 아세틸렌 버너"
+  ],
+  "DC_05_ITEMA_TORCH_NAME": [
+   "아세틸렌 버너"
+  ],
+  "DC_05_ITEMB_KEYPAD_ANALYZER": [
+   "수사 사건 단서: 파손된 키패드"
+  ],
+  "DC_05_ITEMB_KEYPAD_NAME": [
+   "파손된 키패드"
+  ],
+  "DC_05_ITEMC_CLIPBOARD_ANALYZER": [
+   "수사 사건 단서: 클립보드"
+  ],
+  "DC_05_ITEMC_CLIPBOARD_NAME": [
+   "클립보드"
+  ],
+  "DC_05_ITEMD_SPADE_ANALYZER": [
+   "수사 사건 단서: 소형 삽"
+  ],
+  "DC_05_ITEMD_SPADE_NAME": [
+   "소형 삽"
+  ],
+  "DC_06_BREAKOUT_TITLE": [
+   "%GREEN%탈옥 강행%WHITE%"
+  ],
+  "DC_06_ITEMA_HOSE_ANALYZER": [
+   "수사 사건 단서: 유압액 범벅의 고무 호스"
+  ],
+  "DC_06_ITEMA_HOSE_NAME": [
+   "유압액 범벅의 고무 호스"
+  ],
+  "DC_06_ITEMB_DEVICE_ANALYZER": [
+   "수사 사건 단서: 수제 장치"
+  ],
+  "DC_06_ITEMB_DEVICE_NAME": [
+   "수제 장치"
+  ],
+  "DC_06_ITEMC_CROWBAR_ANALYZER": [
+   "수사 사건 단서: 쇠지렛대"
+  ],
+  "DC_06_ITEMC_CROWBAR_NAME": [
+   "쇠지렛대"
+  ],
+  "DC_07_ITEMA_MAP_ANALYZER": [
+   "수사 사건 단서: 손으로 그린 블랙게이트 지도"
+  ],
+  "DC_07_ITEMA_MAP_NAME": [
+   "손으로 그린 블랙게이트 지도"
+  ],
+  "DC_07_ITEMB_STOPPER_ANALYZER": [
+   "수사 사건 단서: 실린더 캡"
+  ],
+  "DC_07_ITEMB_STOPPER_NAME": [
+   "실린더 캡"
+  ],
+  "DC_07_ITEMC_BOOK_ANALYZER": [
+   "수사 사건 단서: 환기 장치 매뉴얼"
+  ],
+  "DC_07_ITEMC_BOOK_NAME": [
+   "환기 장치 매뉴얼"
+  ],
+  "DC_07_NOLAUGHINGMATTER_TITLE": [
+   "%GREEN%웃을 일이 아니다%WHITE%"
+  ],
+  "DC_08_BIRDCAGE_TITLE": [
+   "%GREEN%감방이라는 새장%WHITE%"
+  ],
+  "DC_08_ITEMA_CAMERA_ANALYZER": [
+   "수사 사건 단서: 파손된 감시 카메라"
+  ],
+  "DC_08_ITEMA_CAMERA_NAME": [
+   "파손된 감시 카메라"
+  ],
+  "DC_08_ITEMB_MIRROR_ANALYZER": [
+   "수사 사건 단서: 거울 파편"
+  ],
+  "DC_08_ITEMB_MIRROR_NAME": [
+   "거울 파편"
+  ],
+  "DC_08_ITEMC_WIRES_ANALYZER": [
+   "수사 사건 단서: 전기 배선"
+  ],
+  "DC_08_ITEMC_WIRES_NAME": [
+   "전기 배선"
+  ],
+  "DC_09_FINALSTAND_TITLE": [
+   "%GREEN%사수%WHITE%"
+  ],
+  "DC_09_ITEMA_CELLPHONE_ANALYZER": [
+   "수사 사건 단서: 휴대전화"
+  ],
+  "DC_09_ITEMA_CELLPHONE_NAME": [
+   "휴대전화"
+  ],
+  "DC_09_ITEMB_BULLETS_ANALYZER": [
+   "수사 사건 단서: 탄피"
+  ],
+  "DC_09_ITEMB_BULLETS_NAME": [
+   "탄피"
+  ],
+  "DC_09_ITEMC_THUMB_ANALYZER": [
+   "수사 사건 단서: 절단된 엄지손가락"
+  ],
+  "DC_09_ITEMC_THUMB_NAME": [
+   "절단된 엄지손가락"
+  ],
+  "DC_10_BIDDINGWAR_TITLE": [
+   "%GREEN%매수 경쟁%WHITE%"
+  ],
+  "DC_10_ITEMA_BONDS_ANALYZER": [
+   "수사 사건 단서: 무기명 채권"
+  ],
+  "DC_10_ITEMA_BONDS_NAME": [
+   "무기명 채권"
+  ],
+  "DC_10_ITEMB_COINS_ANALYZER": [
+   "수사 사건 단서: 금화"
+  ],
+  "DC_10_ITEMB_COINS_NAME": [
+   "금화"
+  ],
+  "DC_10_ITEMC_IOU_ANALYZER": [
+   "수사 사건 단서: 손으로 쓴 차용증"
+  ],
+  "DC_10_ITEMC_IOU_NAME": [
+   "손으로 쓴 차용증"
+  ],
+  "DC_10_ITEMD_TARGET_ANALYZER": [
+   "수사 사건 단서: 종이로 만든 표적"
+  ],
+  "DC_10_ITEMD_TARGET_NAME": [
+   "종이로 만든 표적"
+  ],
+  "DC_11_ITEMA_JOURNAL_ANALYZER": [
+   "수사 사건 단서: 일기장"
+  ],
+  "DC_11_ITEMA_JOURNAL_NAME": [
+   "일기장"
+  ],
+  "DC_11_ITEMB_FILE_ANALYZER": [
+   "수사 사건 단서: 인사 파일"
+  ],
+  "DC_11_ITEMB_FILE_NAME": [
+   "인사 파일"
+  ],
+  "DC_11_ITEMC_KEY_ANALYZER": [
+   "수사 사건 단서: 작은 열쇠"
+  ],
+  "DC_11_ITEMC_KEY_NAME": [
+   "작은 열쇠"
+  ],
+  "DC_11_ORDERS_TITLE": [
+   "%GREEN%퀸 박사의 지시%WHITE%"
+  ],
+  "DC_12_ITEMA_NOOSE_ANALYZER": [
+   "수사 사건 단서: 올가미 밧줄"
+  ],
+  "DC_12_ITEMA_NOOSE_NAME": [
+   "올가미 밧줄"
+  ],
+  "DC_12_ITEMB_SHIRT_ANALYZER": [
+   "수사 사건 단서: 교도관 제복"
+  ],
+  "DC_12_ITEMB_SHIRT_NAME": [
+   "교도관 제복"
+  ],
+  "DC_12_ITEMC_DOOR_ANALYZER": [
+   "수사 사건 단서: 파손된 문"
+  ],
+  "DC_12_ITEMC_DOOR_NAME": [
+   "파손된 문"
+  ],
+  "DC_12_ITEMD_SLIPPER_ANALYZER": [
+   "수사 사건 단서: 죄수용 슬리퍼"
+  ],
+  "DC_12_ITEMD_SLIPPER_NAME": [
+   "죄수용 슬리퍼"
+  ],
+  "DC_12_ITEME_CUTPIPE_ANALYZER": [
+   "수사 사건 단서: 절단된 파이프"
+  ],
+  "DC_12_ITEME_CUTPIPE_NAME": [
+   "절단된 파이프"
+  ],
+  "DC_12_LIFELINE_TITLE": [
+   "%GREEN%목숨을 건 구출%WHITE%"
+  ],
+  "DC_13_ITEMA_TABLET_ANALYZER": [
+   "수사 사건 단서: 태블릿 컴퓨터"
+  ],
+  "DC_13_ITEMA_TABLET_NAME": [
+   "태블릿 컴퓨터"
+  ],
+  "DC_13_ITEMB_PHOTO_ANALYZER": [
+   "수사 사건 단서: 지갑 속 사진"
+  ],
+  "DC_13_ITEMB_PHOTO_NAME": [
+   "지갑 속 사진"
+  ],
+  "DC_13_ITEMC_DENTALTOOLS_ANALYZER": [
+   "수사 사건 단서: 치과 도구"
+  ],
+  "DC_13_ITEMC_DENTALTOOLS_NAME": [
+   "치과 도구"
+  ],
+  "DC_13_ITEMD_CRUMPLEDPAPER_ANALYZER": [
+   "수사 사건 단서: 구겨진 종이"
+  ],
+  "DC_13_ITEMD_CRUMPLEDPAPER_NAME": [
+   "구겨진 종이"
+  ],
+  "DC_13_POWERPLAY_TITLE": [
+   "%GREEN%파워 플레이%WHITE%"
+  ],
+  "DC_14_INFORMATION_TITLE": [
+   "%GREEN%정보 수집%WHITE%"
+  ],
+  "DC_14_ITEMA_THUMBDRIVE_ANALYZER": [
+   "수사 사건 단서: 소형 메모리"
+  ],
+  "DC_14_ITEMA_THUMBDRIVE_NAME": [
+   "소형 메모리"
+  ],
+  "DC_14_ITEMB_DVD_ANALYZER": [
+   "수사 사건 단서: DVD-R"
+  ],
+  "DC_14_ITEMB_DVD_NAME": [
+   "DVD-R"
+  ],
+  "DC_14_ITEMC_PAPER_ANALYZER": [
+   "수사 사건 단서: 휴지통 속 그을린 종이"
+  ],
+  "DC_14_ITEMC_PAPER_NAME": [
+   "휴지통 속 그을린 종이"
+  ],
+  "DC_14_ITEMD_CARD_ANALYZER": [
+   "수사 사건 단서: 명함"
+  ],
+  "DC_14_ITEMD_CARD_NAME": [
+   "명함"
+  ],
+  "DC_CASE_SOLVED": [
+   "사건 해결"
+  ],
+  "DC_FINAL_CLUE_TEXT": [
+   "사건 갱신: %CASE_NAME%\n\n단서 발견: %CLUE_NAME%\n\n발견한 단서: %CLUES_FOUND%/%MAX_CLUES%\n\n사건 해결"
+  ],
+  "DC_FINAL_CLUE_TITLE": [
+   "마지막 수사 사건 단서 발견"
+  ],
+  "DC_FIRST_CLUE_TEXT": [
+   "새 수사 사건: %CASE_NAME%\n\n단서 발견: %CLUE_NAME%\n\n발견한 단서: %CLUES_FOUND%/%MAX_CLUES%"
+  ],
+  "DC_FIRST_CLUE_TITLE": [
+   "새 수사 사건 시작"
+  ],
+  "DC_OTHER_CLUE_TEXT": [
+   "사건 갱신: %CASE_NAME%\n\n단서 발견: %CLUE_NAME%\n\n발견한 단서: %CLUES_FOUND%/%MAX_CLUES%"
+  ],
+  "DC_OTHER_CLUE_TITLE": [
+   "수사 사건 단서 발견"
+  ],
+  "DC_SOLVED_NEW_ART": [
+   "새 콘셉트 아트 해금"
+  ]
+ },
+ "ui_hints.cloc": {
+  "UI_HINT_GAME_00": [
+   "캣우먼을 붙잡아라"
+  ],
+  "UI_HINT_GAME_02A": [
+   "펭귄의 핏자국을 따라가라"
+  ],
+  "UI_HINT_GAME_10A": [
+   "블랙 마스크를 쫓아 공장 구역 안쪽으로 가라"
+  ],
+  "UI_HINT_GAME_11A": [
+   "알파 코드로 피스톤을 작동시켜라"
+  ],
+  "UI_HINT_GAME_15A": [
+   "조커의 폭탄을 해제하라"
+  ],
+  "UI_HINT_GAME_15B": [
+   "인질을 구출하라"
+  ],
+  "UI_HINT_GAME_15C": [
+   "배전반을 합선시켜라"
+  ],
+  "UI_HINT_MAP_01": [
+   "운동장으로 가라"
+  ],
+  "UI_HINT_MAP_01A": [
+   "창고를 조사하라"
+  ],
+  "UI_HINT_MAP_02B": [
+   "펭귄의 핏자국을 따라가라"
+  ],
+  "UI_HINT_MAP_03": [
+   "감시탑을 올라 펭귄을 붙잡아라"
+  ],
+  "UI_HINT_MAP_04": [
+   "관리동으로 가라"
+  ],
+  "UI_HINT_MAP_05": [
+   "소장을 찾아라"
+  ],
+  "UI_HINT_MAP_06": [
+   "관리동 공사 현장을 조사하라"
+  ],
+  "UI_HINT_MAP_07A": [
+   "소장을 구출하라"
+  ],
+  "UI_HINT_MAP_07B": [
+   "소장을 구출하라"
+  ],
+  "UI_HINT_MAP_08": [
+   "관리동 지하를 탐색하라"
+  ],
+  "UI_HINT_MAP_09": [
+   "소장 집무실로 가는 비밀 입구를 찾아라"
+  ],
+  "UI_HINT_MAP_10B": [
+   "블랙 마스크를 쫓아 공장 구역 안쪽으로 가라"
+  ],
+  "UI_HINT_MAP_11B": [
+   "공장 구역의 전력을 복구하라"
+  ],
+  "UI_HINT_MAP_12": [
+   "교도관의 시체에서 키카드를 입수하라"
+  ],
+  "UI_HINT_MAP_13": [
+   "탄약고로 가라"
+  ],
+  "UI_HINT_MAP_14": [
+   "아캄 동으로 가라"
+  ],
+  "UI_HINT_MAP_15A": [
+   "조커의 폭탄을 해제하라"
+  ],
+  "UI_HINT_MAP_15A1": [
+   "조커의 폭탄을 해제하라"
+  ],
+  "UI_HINT_MAP_15A2": [
+   "조커의 폭탄을 해제하라"
+  ],
+  "UI_HINT_MAP_15A3": [
+   "조커의 폭탄을 해제하라"
+  ],
+  "UI_HINT_MAP_15A4": [
+   "조커의 폭탄을 해제하라"
+  ],
+  "UI_HINT_MAP_15A5": [
+   "조커의 폭탄을 해제하라"
+  ],
+  "UI_HINT_MAP_15B": [
+   "인질을 구출하라"
+  ],
+  "UI_HINT_MAP_15B1": [
+   "인질을 구출하라"
+  ],
+  "UI_HINT_MAP_15B2": [
+   "인질을 구출하라"
+  ],
+  "UI_HINT_MAP_15B3": [
+   "인질을 구출하라"
+  ],
+  "UI_HINT_MAP_15B4": [
+   "인질을 구출하라"
+  ],
+  "UI_HINT_MAP_15B5": [
+   "인질을 구출하라"
+  ],
+  "UI_HINT_MAP_15C": [
+   "배전반을 합선시켜라"
+  ],
+  "UI_HINT_MAP_15C1": [
+   "배전반을 합선시켜라"
+  ],
+  "UI_HINT_MAP_15C2": [
+   "배전반을 합선시켜라"
+  ],
+  "UI_HINT_MAP_15C3": [
+   "배전반을 합선시켜라"
+  ],
+  "UI_HINT_MAP_15C4": [
+   "배전반을 합선시켜라"
+  ],
+  "UI_HINT_MAP_15C5": [
+   "배전반을 합선시켜라"
+  ],
+  "UI_HINT_MAP_16": [
+   "캣우먼을 쫓아라"
+  ],
+  "UI_HINT_MAP_18": [
+   "하수도를 탐색하라"
+  ],
+  "UI_HINT_MAP_HINTNAME": [
+   "일반 맵 힌트"
+  ],
+  "UI_HINT_NOTIFICATION_MAP_UPDATED": [
+   "맵 갱신 %SELECT%"
+  ],
+  "UI_HINT_NOTIFICATION_OBJECTIVE_UPDATED": [
+   "미션 갱신"
+  ]
+ },
+ "ui_pause_map_screens.cloc": {
+  "UI_PM_ADMIN_HEADER": [
+   "//관리동 맵"
+  ],
+  "UI_PM_AIM_GADGET": [
+   "가젯 조준"
+  ],
+  "UI_PM_AUDIO_OPTIONS": [
+   "옵션"
+  ],
+  "UI_PM_BACK": [
+   "%CANCEL%%DARKGRAY%뒤로"
+  ],
+  "UI_PM_BATCOMPUTER": [
+   "배트컴퓨터"
+  ],
+  "UI_PM_BLACKGATE_HEADER": [
+   "//블랙게이트 맵"
+  ],
+  "UI_PM_BLACKGATEMAP": [
+   "%FACEDOWN%%DARKGRAY%전체 보기"
+  ],
+  "UI_PM_CELLBLOCKS_HEADER": [
+   "//감방 구역 맵"
+  ],
+  "UI_PM_CHANGE_HINT": [
+   "%CONFIRM%목적지로 설정"
+  ],
+  "UI_PM_CLOSE": [
+   "%CONFIRM%%DARKGRAY%닫기"
+  ],
+  "UI_PM_CONTINUE_PAUSE": [
+   "마지막 체크포인트부터 계속"
+  ],
+  "UI_PM_CONTROLS": [
+   "조작 방법"
+  ],
+  "UI_PM_COUNTER": [
+   "카운터"
+  ],
+  "UI_PM_CROUCH": [
+   "웅크리기"
+  ],
+  "UI_PM_DETECTIVE_MODE": [
+   "탐정 모드"
+  ],
+  "UI_PM_DETECTIVECASES_HEADER": [
+   "//수사 사건"
+  ],
+  "UI_PM_DIALOG_VOLUME": [
+   "대사 볼륨"
+  ],
+  "UI_PM_GOTHAM_HEADER": [
+   "//고담 맵"
+  ],
+  "UI_PM_INDUSTRIAL_HEADER": [
+   "//공장 구역 맵"
+  ],
+  "UI_PM_INFO": [
+   "%CONFIRM%%DARKGRAY%정보"
+  ],
+  "UI_PM_INVENTORY_HEADER": [
+   "//아이템"
+  ],
+  "UI_PM_LEGEND": [
+   "%FACEUP%%DARKGRAY%아이콘"
+  ],
+  "UI_PM_LEGEND_DESTINATION": [
+   "목적지"
+  ],
+  "UI_PM_LEGEND_DOORWAY": [
+   "문(열림)"
+  ],
+  "UI_PM_LEGEND_DOORWAY_A": [
+   "암호(감마)"
+  ],
+  "UI_PM_LEGEND_DOORWAY_B": [
+   "암호(베타)"
+  ],
+  "UI_PM_LEGEND_DOORWAY_D": [
+   "암호(델타)"
+  ],
+  "UI_PM_LEGEND_DOORWAY_G": [
+   "암호(알파)"
+  ],
+  "UI_PM_LEGEND_DOORWAY_L": [
+   "문(잠김)"
+  ],
+  "UI_PM_LEGEND_EXIT": [
+   "허브로 나가기"
+  ],
+  "UI_PM_LEGEND_HEADER": [
+   "//아이콘"
+  ],
+  "UI_PM_LEGEND_PICKUP": [
+   "줍기"
+  ],
+  "UI_PM_LIGHTHOUSE_HEADER": [
+   "//감시탑 맵"
+  ],
+  "UI_PM_MAP_PANNING": [
+   "맵 조작"
+  ],
+  "UI_PM_MAP_PANNING_INVERTED": [
+   "반전 »"
+  ],
+  "UI_PM_MAP_PANNING_NORMAL": [
+   "« 일반"
+  ],
+  "UI_PM_MISSION_OBJ_01": [
+   "//캣우먼 체포"
+  ],
+  "UI_PM_MOVE": [
+   "이동"
+  ],
+  "UI_PM_MUSIC_VOLUME": [
+   "BGM 볼륨"
+  ],
+  "UI_PM_PAGING": [
+   "%ZOOM%%DARKGRAY%텍스트 스크롤"
+  ],
+  "UI_PM_PAN": [
+   "%LEFTANALOG%%DARKGRAY%이동"
+  ],
+  "UI_PM_PAUSE": [
+   "일시정지"
+  ],
+  "UI_PM_QUITGAME": [
+   "게임 종료"
+  ],
+  "UI_PM_RESETMAP": [
+   "%FACELEFT%%DARKGRAY%중앙"
+  ],
+  "UI_PM_RESTARTGAME": [
+   "게임 재시작"
+  ],
+  "UI_PM_RESTORE_CHECKPOINT": [
+   "마지막 체크포인트부터 재개"
+  ],
+  "UI_PM_RESUME": [
+   "재개"
+  ],
+  "UI_PM_RETURN_PAUSE": [
+   "%CANCEL%%DARKGRAY%뒤로"
+  ],
+  "UI_PM_SELECT": [
+   "%CONFIRM%%DARKGRAY%선택"
+  ],
+  "UI_PM_SELECT_GADGET": [
+   "가젯 선택"
+  ],
+  "UI_PM_SFX_VOLUME": [
+   "효과음 볼륨"
+  ],
+  "UI_PM_SPRINT": [
+   "달리기"
+  ],
+  "UI_PM_STARTGAME": [
+   "터치스크린을 탭하여 시작"
+  ],
+  "UI_PM_STRIKE": [
+   "공격"
+  ],
+  "UI_PM_SUBTITLES": [
+   "자막"
+  ],
+  "UI_PM_SUBTITLES_DISABLED": [
+   "OFF »"
+  ],
+  "UI_PM_SUBTITLES_ENABLED": [
+   "« ON"
+  ],
+  "UI_PM_TITLEDEATH": [
+   "게임 오버"
+  ],
+  "UI_PM_TITLEPAUSE": [
+   "일시정지"
+  ],
+  "UI_PM_UNSAVED_WARNING": [
+   "마지막 세이브 이후의 진행 상황은 모두 사라집니다."
+  ],
+  "UI_PM_USE_GADGET": [
+   "가젯 사용"
+  ],
+  "UI_PM_ZOOM_IN": [
+   "%DPADUP%%DARKGRAY%줌 인"
+  ],
+  "UI_PM_ZOOM_IN_AND_OUT": [
+   "%ZOOM%%DARKGRAY%줌"
+  ],
+  "UI_PM_ZOOM_OUT": [
+   "%DPADDOWN%줌 아웃"
+  ]
+ },
+ "ui_popups_endgame_notes.cloc": {
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_01": [
+   "배트맨,\n\n제법 탐정 같네. 이것도 찾아낼 수 있을까, 잘생긴 양반?\n\n사랑을 담아\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_02": [
+   "배트맨,\n\n당신도 끈질기네. 그런 거 좋아. 여기를 찾아봐.\n\n○×○×\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_03": [
+   "배트맨,\n\n여자한테도 사정이란 게 있는 거야. 원망하지 마. 다음 타깃은 여기야.\n\n당신을 생각하며\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_04": [
+   "배트맨,\n\n이렇게 쫓아다니면 나도 착각할지 몰라? 힘내서 여기까지 와 봐, 달링.\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_05": [
+   "사랑하는 배트맨에게,\n\n난 나쁜 사람이 아니야. 그냥 해야 할 일이 있을 뿐이지. 악의가 없다는 증거로 이걸 줄게. 언제 한번 입어 봐도 좋고.\n\n안녕\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_BLACKMASK": [
+   "사랑하는 배트맨에게,\n\n내가 나쁜 사람이 아니라는 걸 알려 주고 싶으니까, 첫 번째 과부하 스위치까지 안내해 줄게.\n\n사랑을 담아\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_JOKER": [
+   "사랑하는 배트맨에게,\n\n내가 나쁜 사람이 아니라는 걸 알려 주고 싶으니까, 첫 번째 선물까지 안내해 줄게.\n\n사랑을 담아\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_DESCRIPTION_PENGUIN": [
+   "사랑하는 배트맨에게,\n\n내가 나쁜 사람이 아니라는 걸 알려 주고 싶으니까, 첫 번째 인질까지 안내해 줄게.\n\n사랑을 담아\n\n캣우먼"
+  ],
+  "UI_GAME_NOTE_CATWOMAN_HOWTO": [
+   "맵을 열어 다음 목표의 위치를 확인한다."
+  ],
+  "UI_GAME_NOTE_CATWOMAN_NAME": [
+   "캣우먼의 메모 입수"
+  ]
+ },
+ "ui_strings.cloc": {
+  "UI_GADGETSELECTION_GEL_DEPLOY_LIST": [
+   "설치됨"
+  ],
+  "UI_HINT_BATCLAW": [
+   "배트클로로 벽에서 물체를 떼어낸다"
+  ],
+  "UI_JOKER_GAS_TUTORIAL": [
+   "조커 가스를 오래 들이마시면 생명이 위험하다"
+  ],
+  "UI_PICKUP_BATCLAW": [
+   "배트클로 입수"
+  ],
+  "UI_PROMPT_ACTIVATE": [
+   "%FACEDOWN% 작동"
+  ],
+  "UI_PROMPT_AIM_BATARANG": [
+   "%LEFTSHOULDER% (길게 누르기) - 배터랭 표적 표시"
+  ],
+  "UI_PROMPT_ATTACK": [
+   "%FACELEFT% 공격"
+  ],
+  "UI_PROMPT_BEATDOWN": [
+   "%FACERIGHT%, %FACELEFT% 비트다운"
+  ],
+  "UI_PROMPT_CAPESTUN": [
+   "%FACERIGHT% 망토 스턴"
+  ],
+  "UI_PROMPT_CAPTURE": [
+   "%FACELEFT% 체포"
+  ],
+  "UI_PROMPT_CATWOMAN_STUN": [
+   "%MASHFACERIGHT%"
+  ],
+  "UI_PROMPT_CLIMB": [
+   "%FACEDOWN% 오르기"
+  ],
+  "UI_PROMPT_CLIMB_HOLD": [
+   "%FACEDOWN% (길게 누르기) - 오르기"
+  ],
+  "UI_PROMPT_COUNTER": [
+   "%FACEUP% 카운터"
+  ],
+  "UI_PROMPT_CROUCH_HOLD": [
+   "%FACERIGHT% (길게 누르기) - 웅크리기"
+  ],
+  "UI_PROMPT_CRYPTO_HACK": [
+   "%CONFIRM% 해킹"
+  ],
+  "UI_PROMPT_DETONATE_GEL": [
+   "%LEFTSHOULDER% + %FACELEFT% 젤 폭파"
+  ],
+  "UI_PROMPT_DISARM": [
+   "%FACEDOWN% 해제"
+  ],
+  "UI_PROMPT_DOOR_UNLOCKED": [
+   "%FACEDOWN% 문 잠금 해제"
+  ],
+  "UI_PROMPT_DROP_TO_LEDGE": [
+   "%LEFTANALOG% + %FACERIGHT% 내려가기"
+  ],
+  "UI_PROMPT_ELEVATORCALL": [
+   "%FACEDOWN% 엘리베이터 호출"
+  ],
+  "UI_PROMPT_ENTER": [
+   "%FACERIGHT% 들어가기"
+  ],
+  "UI_PROMPT_ENTER_A": [
+   "%FACEDOWN% 들어가기"
+  ],
+  "UI_PROMPT_ENTER_AREA": [
+   "%FACEDOWN% 시설에 들어가기"
+  ],
+  "UI_PROMPT_ENTER_ARKHAM": [
+   "%FACEDOWN% 아캄 동에 들어가기"
+  ],
+  "UI_PROMPT_ENTER_ELEVATOR": [
+   "%FACEDOWN% 엘리베이터 타기"
+  ],
+  "UI_PROMPT_ENTER_GRATE": [
+   "%LEFTSHOULDER% + %FACEDOWN% 들어가기"
+  ],
+  "UI_PROMPT_ENTER_HOLD": [
+   "%FACERIGHT% (길게 누르기) - 들어가기"
+  ],
+  "UI_PROMPT_EVADE": [
+   "%LEFTANALOG%%FACEDOWN%%FACEDOWN% 구르기"
+  ],
+  "UI_PROMPT_EVADE_SPECIAL": [
+   "%FACEUP% 회피"
+  ],
+  "UI_PROMPT_EXIT_GRATE": [
+   "%FACEDOWN% 나가기"
+  ],
+  "UI_PROMPT_EXIT_HOLD": [
+   "%FACERIGHT% (길게 누르기) - 나가기"
+  ],
+  "UI_PROMPT_FIRE_GADGET": [
+   "%RIGHTSHOULDER% 발사"
+  ],
+  "UI_PROMPT_FLIPOVER": [
+   "%LEFTANALOG%,%FACEDOWN%,%FACEDOWN% 뛰어넘기"
+  ],
+  "UI_PROMPT_GELGUN_ABOUT": [
+   "폭발 젤을 발사해 약해진 물체를 파괴"
+  ],
+  "UI_PROMPT_GELGUN_AQUIRED": [
+   "젤 런처 입수"
+  ],
+  "UI_PROMPT_GLIDE": [
+   "%FACEDOWN% (길게 누르기) - 활공"
+  ],
+  "UI_PROMPT_GLIDE_OFF": [
+   "%LEFTANALOG% + %FACEDOWN% 활공 하강"
+  ],
+  "UI_PROMPT_GLIDEKICK": [
+   "%FACELEFT% 활공 킥"
+  ],
+  "UI_PROMPT_GRAPNEL": [
+   "%RIGHTSHOULDER% 그래플"
+  ],
+  "UI_PROMPT_GROUND_TAKEDOWN": [
+   "%LEFTSHOULDER% + %FACEUP% 테이크다운"
+  ],
+  "UI_PROMPT_JUMP_HOLD": [
+   "%FACERIGHT% (길게 누르기) - 점프"
+  ],
+  "UI_PROMPT_KICK_OPEN": [
+   "%FACEDOWN% 발차기"
+  ],
+  "UI_PROMPT_LEAVE_AREA": [
+   "%FACEDOWN% 시설에서 나가기"
+  ],
+  "UI_PROMPT_LEDGE_DROP": [
+   "%FACERIGHT% 내려가기"
+  ],
+  "UI_PROMPT_LEDGE_TAKEDOWN": [
+   "%FACEUP% 난간 테이크다운"
+  ],
+  "UI_PROMPT_OPEN": [
+   "%FACEDOWN% 열기"
+  ],
+  "UI_PROMPT_OPEN_DOOR": [
+   "%FACEDOWN% 열기"
+  ],
+  "UI_PROMPT_OPEN_HOLD": [
+   "%FACEDOWN% (길게 누르기) - 열기"
+  ],
+  "UI_PROMPT_OPEN_TAP": [
+   "%MASHFACEDOWN% (연타) - 열기"
+  ],
+  "UI_PROMPT_OPEN_VAULT": [
+   "%CONFIRM% 금고 열기"
+  ],
+  "UI_PROMPT_OVERRIDE_NEEDED": [
+   "수동 오버라이드 필요"
+  ],
+  "UI_PROMPT_POWER_OUT": [
+   "탐정 모드를 쓰면 어둠 속에서도 볼 수 있다"
+  ],
+  "UI_PROMPT_PRY_ELEVATOR": [
+   "%FACEDOWN% 비집어 열기"
+  ],
+  "UI_PROMPT_PULL_BOOK": [
+   "%FACEDOWN% 책 빼내기"
+  ],
+  "UI_PROMPT_PULL_TAP": [
+   "%MASHFACEDOWN% (연타) - 당기기"
+  ],
+  "UI_PROMPT_READNOTE": [
+   "%FACEDOWN% (길게 누르기) - 메모 읽기"
+  ],
+  "UI_PROMPT_REQUIRES_ALPHA": [
+   "암호 오버라이드 알파 필요"
+  ],
+  "UI_PROMPT_REQUIRES_BETA": [
+   "암호 오버라이드 베타 필요"
+  ],
+  "UI_PROMPT_REQUIRES_GAMMA": [
+   "암호 오버라이드 감마 필요"
+  ],
+  "UI_PROMPT_RESCUE_HOSTAGE": [
+   "%FACEDOWN% 인질 해방"
+  ],
+  "UI_PROMPT_RETURN_FROM_MOVIE": [
+   "%CANCEL% 돌아가기"
+  ],
+  "UI_PROMPT_RUN": [
+   "%FACEDOWN% (길게 누르기) - 달리기"
+  ],
+  "UI_PROMPT_RUN_&_GLIDE": [
+   "%FACEDOWN% (길게 누르기) - 달리며 활공"
+  ],
+  "UI_PROMPT_SEARCH": [
+   "%FACEDOWN% (길게 누르기) - 조사"
+  ],
+  "UI_PROMPT_SELECT_BATCLAW": [
+   "%DPADUP% 배트클로 선택"
+  ],
+  "UI_PROMPT_SELECT_GEL_GUN": [
+   "%DPADLEFT% 젤 런처 선택"
+  ],
+  "UI_PROMPT_SELECT_LINE_LAUNCHER": [
+   "%DPADRIGHT% 라인 런처 선택"
+  ],
+  "UI_PROMPT_SHIMMY": [
+   "%LEFTANALOG% 좌우로 옆 이동"
+  ],
+  "UI_PROMPT_SILENT_TAKEDOWN": [
+   "%FACEUP% 사일런트 테이크다운"
+  ],
+  "UI_PROMPT_SKIP_MOVIE": [
+   "%CANCEL% 건너뛰기"
+  ],
+  "UI_PROMPT_SMASH": [
+   "%FACEDOWN% (길게 누르기) - 부수기"
+  ],
+  "UI_PROMPT_SNARE": [
+   "%FACEDOWN% 포획"
+  ],
+  "UI_PROMPT_SWITCHTARGET": [
+   "%FACEUP% 표적 변경"
+  ],
+  "UI_PROMPT_TAKEDOWN": [
+   "%FACEUP% 테이크다운"
+  ],
+  "UI_PROMPT_THROW_BATARANG": [
+   "%RIGHTSHOULDER% 던지기"
+  ],
+  "UI_PROMPT_THROW_GADGET": [
+   "%RIGHTSHOULDER% 던지기"
+  ],
+  "UI_PROMPT_TIGHTROPE_ABOUT": [
+   "라인 런처로 줄을 걸어 줄타기 가능"
+  ],
+  "UI_PROMPT_TIGHTROPE_AQUIRED": [
+   "줄타기 업그레이드 입수"
+  ],
+  "UI_PROMPT_TIGHTROPE_MULT": [
+   "줄타기를 반복하면 높은 곳으로 이동할 수 있다"
+  ],
+  "UI_PROMPT_TIGHTROPE_TUTORIAL": [
+   "라인 런처 발사 중 %FACEDOWN%을 눌러 줄타기"
+  ],
+  "UI_PROMPT_TIGHTROPE_USE": [
+   "%FACEDOWN% 줄타기"
+  ],
+  "UI_PROMPT_TIME_REMAINS": [
+   "폭발까지 남은 시간"
+  ],
+  "UI_PROMPT_TOGGLE_DETECTIVEMODE": [
+   "터치스크린을 탭하여 탐정 모드 전환"
+  ],
+  "UI_PROMPT_TRY_ANALYZER": [
+   "탐정 분석기로 주변을 조사한다"
+  ],
+  "UI_PROMPT_USE": [
+   "%FACEDOWN% 사용"
+  ],
+  "UI_PROMPT_USE_ANALYZER": [
+   "터치스크린을 길게 눌러 분석기 사용"
+  ],
+  "UI_PROMPT_USE_BATCLAW": [
+   "배트클로 발사"
+  ],
+  "UI_PROMPT_USE_CRYPTO": [
+   "%CONFIRM% 크립토 시퀀서 사용"
+  ],
+  "UI_PROMPT_USE_GEL_LAUNCHER": [
+   "%LEFTSHOULDER% 젤 런처 발사"
+  ],
+  "UI_PROMPT_USE_LINE_LAUNCHER": [
+   "%LEFTSHOULDER% + %RIGHTSHOULDER% 라인 런처 사용"
+  ]
+ },
+ "vo_anim_06_bm_finds_cw.cloc": {
+  "06_BM_Finds_CW": [
+   "배트맨: 인기가 대단하군. 이유는 알 것 같다만.",
+   "캣우먼: 있잖아, 쾅 터졌을 때 난 여기서 빠져나가려던 참이었어.",
+   "당신 말대로 블랙게이트는 나 같은 귀여운 도둑한테는 너무 위험한 곳이야.",
+   "그랬더니 놈들이 날 상대편에 못 붙게 하려고 덮쳐 온 거지.",
+   "배트맨: '상대편'이라니 무슨 뜻이지?",
+   "캣우먼: 여기 거물들은 서로 증오하거든. 특히 블랙 마스크랑 조커가...",
+   "다들 교도소 안에 자기 구역을 만들었어.",
+   "듣기로는 펭귄이 감방 구역을 차지하고 블랙게이트 안의 이동을 쥐고 있대.",
+   "그놈은 블랙게이트 가장 깊은 곳, 아캄 동에 직원 전원을 가뒀어.",
+   "블랙 마스크는 교도소 공장 시설을 빼앗았고.",
+   "어디에 전기를 보내고 어디를 끊을지 그놈이 정해.",
+   "그리고 조커는 관리동을 점거했어. 거기엔 아캄 동 감방 잠금을 암호화하는 컴퓨터가 있지.",
+   "나쁜 소식이 있는데, 인질한테 가려면 먼저 공장 시설에 가서 아캄 동 전원을 복구해야 해.",
+   "게다가 감방 구역을 통과해야 갈 수 있고, 인질 감방을 여는 크립토 시퀀서도 필요해.",
+   "배트맨: 긴 밤이 되겠군.",
+   "캣우먼: 그럼 같이 보낼래?",
+   "배트맨: 뭐라고?",
+   "캣우먼: 내가 안에서 악당들을 구슬리면서, 당신이 교도소를 돌파하는 동안 정보를 줄게.",
+   "배트맨: 범죄자인 너를 믿으란 건가?",
+   "캣우먼: 나한테도 바라는 게 있거든.",
+   "배트맨: 원하는 게 뭐지?",
+   "캣우먼: 당신이 처음에 약속했던 거.",
+   "덜 위험한 곳에서 짧은 형기만 살고 끝낼 수 있게 해 줘.",
+   "배트맨: 탈옥하기 쉬운 곳 말이군.",
+   "캣우먼: 갇혀 있는 무고한 사람들이 다치는 걸 보고 내가 좋아할 것 같아?",
+   "난 그냥 도둑이야. 여기 있는 녀석들처럼 미친 살인마가 아니라고!",
+   "내 도움이 필요 없다면 난 내 갈 길 갈 테니까, 당신 혼자 잘해 봐.",
+   "배트맨: 기다려. 속임수는 안 된다.",
+   "캣우먼: 당신한텐 좋은 것만 줄게. 안에서 길은 혼자 찾을 수 있겠어?",
+   "배트맨: 그건 문제없다.",
+   "캣우먼: 또 연락할게."
+  ]
+ },
+ "vo_anim_16_joker_outro.cloc": {
+  "16_Joker_Outro": [
+   "배트맨: 크립토 시퀀서의 코드를 사용. 가스 방출 정지.",
+   "교도소 시스템 개요를 불러올 수 있을까.",
+   "음? 아캄 동 산소 공급이 정상?",
+   "방해받은 적도 없다고? 그럼 캣우먼은 왜...?"
+  ]
+ },
+ "vo_anim_20_arkham_wing.cloc": {
+  "20_Arkham_Wing": [
+   "캣우먼: 솔직히 당신이 여기까지 해낼 줄은 몰랐어.",
+   "힘이 센 건 알았지... 몸이 좋으니까. 그런데 이렇게 머리까지 좋을 줄은.",
+   "배트맨: 의외의 면이 많은 편이지.",
+   "캣우먼: 그렇겠지. 나중에 더 보여 줘.",
+   "아캄 동에 들어가는 데 필요한 건 다 갖췄어.",
+   "그 뾰족한 귀 쫑긋 세우고 쳐들어가!",
+   "배트맨: 기다려!"
+  ]
+ },
+ "vo_anim_26_penguin_secret.cloc": {
+  "26_Penguin_Secret": [
+   "펭귄: 내려놔, 이 멍청아! 빨리 내려!",
+   "부패 교도관: 명령은 적당히 하시죠. 정중하게 부탁하셔야죠, 펭귄 씨...",
+   "펭귄: 내가 돈을 주는 한 내 맘대로 말할 거다, 얼간아.",
+   "죄수 소지품 보관소에서 내가 말한 물건은 가져왔나?",
+   "적어도 하나는 제대로 했군.",
+   "배트맨이 끼어드는 바깥보다 여기서 내 제국을 굴리는 게 쉬울 줄 알았는데.",
+   "뭐, 거점이야 시내에 얼마든지 있지. 몇 개였더라?",
+   "부패 경찰: 밖에 120, 감옥 안에 12입니다...",
+   "펭귄: 11이겠지.",
+   "너보다는 명령을 제대로 알아듣는 놈들이길 바라마."
+  ]
+ }
+}
